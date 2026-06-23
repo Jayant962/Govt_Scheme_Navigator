@@ -1,0 +1,1610 @@
+[
+  {
+    "scheme_name": "PM Kisan Samman Nidhi (PM-KISAN)",
+    "description": "Income support of Rs 6,000 per year to all farmer families in three equal installments of Rs 2,000 every four months.",
+    "benefits": "Rs 6,000/year directly transferred to bank account in three installments. All States including Haryana and Punjab included.",
+    "eligibility_text": "All landholding farmer families with cultivable land in rural areas. Farming must be primary source of income. Excludes income taxpayers, institutional landholders, officers earning over Rs 10,000/month, doctors, engineers, lawyers, CAs. Annual income from non-farm sources not exceeding Rs 3 lakh.",
+    "source_url": "https://pmkisan.gov.in/",
+    "application_link": "https://pmkisan.gov.in/RegistrationFormNew.aspx"
+  },
+  {
+    "scheme_name": "PM Fasal Bima Yojana (PMFBY)",
+    "description": "Crop insurance scheme providing financial support to farmers for crop losses due to natural calamities, pests, and diseases.",
+    "benefits": "Full insured amount for crop losses. Premium: 2% Kharif, 1.5% Rabi, 5% horticulture. Balance premium paid by government. Post-harvest coverage up to 14 days.",
+    "eligibility_text": "All farmers including sharecroppers and tenant farmers growing notified crops in notified areas. Compulsory for loanee farmers with KCC. Voluntary for non-loanee farmers. No income or caste restriction.",
+    "source_url": "https://pmfby.gov.in/",
+    "application_link": "https://pmfby.gov.in/"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Kisan Credit Card (KCC)",
+    "description": "Flexible credit system for farmers for cultivation needs, post-harvest expenses, and allied activities.",
+    "benefits": "Loan at 7% per annum (4% with prompt repayment subsidy). Credit valid for 5 years. Accidental insurance Rs 50,000. Personal accident cover Rs 25,000.",
+    "eligibility_text": "All farmers — owner cultivators, tenant farmers, oral lessees, sharecroppers. SHGs and JLGs of farmers also eligible. No strict income limit. Age 18-75 years.",
+    "source_url": "https://agricoop.nic.in/",
+    "application_link": "https://www.pmkisan.gov.in/"
+  },
+  {
+    "scheme_name": "Mahatma Gandhi NREGS (MGNREGS)",
+    "description": "Guarantees 100 days of wage employment per year to rural households whose adult members volunteer for unskilled manual work.",
+    "benefits": "100 days guaranteed employment per household per year. Wages as per state notified rate (Haryana: Rs 357/day, Punjab: Rs 303/day). Unemployment allowance if work not given within 15 days.",
+    "eligibility_text": "Any adult member of rural household willing to do unskilled manual work. Must reside in rural area. Occupation farmer, labourer, homemaker eligible. No income restriction. Apply at local gram panchayat for Job Card.",
+    "source_url": "https://nrega.nic.in/",
+    "application_link": "https://nrega.nic.in/netnrega/home.aspx"
+  },
+  {
+    "scheme_name": "PM Annadata Aay SanrakshHan Abhiyan (PM-AASHA)",
+    "description": "Ensures remunerative prices to farmers for their produce through MSP-based procurement mechanism.",
+    "benefits": "Price Support Scheme (PSS): Government procurement at MSP. Price Deficiency Payment Scheme (PDPS): Direct cash payment for difference between MSP and market price. Pilot of Private Procurement & Stockist Scheme (PPSS).",
+    "eligibility_text": "All farmers who are engaged in farming. Must have sold produce through mandi/official channel. Age and income no bar. Both Haryana and Punjab farmers extensively covered under wheat/paddy MSP procurement.",
+    "source_url": "https://agriwelfare.gov.in/",
+    "application_link": "https://agriwelfare.gov.in/"
+  },
+  {
+    "scheme_name": "Paramparagat Krishi Vikas Yojana (PKVY)",
+    "description": "Promotes organic farming through adoption of organic village by cluster approach and PGS certification.",
+    "benefits": "Financial assistance of Rs 50,000 per hectare per 3 years. Includes Rs 31,000 for organic inputs, Rs 8,800 for value addition and distribution, Rs 3,000 for certification. Cluster development support.",
+    "eligibility_text": "Farmers willing to adopt organic farming in clusters of 20 hectares. Occupation must be farmer. Both rural and urban farmers eligible. All states including Haryana and Punjab covered.",
+    "source_url": "https://pgsindia-ncof.gov.in/",
+    "application_link": "https://pgsindia-ncof.gov.in/"
+  },
+  {
+    "scheme_name": "National Bee Keeping & Honey Mission (NBHM)",
+    "description": "Promotes scientific beekeeping for improving crop productivity and increasing income of farmers.",
+    "benefits": "Subsidy up to 80% on bee boxes, colonies, and equipment for SC/ST/women. 50% subsidy for general category. Training and capacity building support provided.",
+    "eligibility_text": "Farmers interested in beekeeping as supplementary income. Preference to SC/ST, women, and small/marginal farmers. All states including Haryana and Punjab covered. No strict income restriction.",
+    "source_url": "https://nbb.gov.in/",
+    "application_link": "https://nbb.gov.in/"
+  },
+  {
+    "scheme_name": "Micro Irrigation Fund (MIF) — Drip/Sprinkler Subsidy",
+    "description": "Provides subsidized drip and sprinkler irrigation systems to farmers for water conservation and enhanced productivity.",
+    "benefits": "55% subsidy to small/marginal farmers, 45% to other farmers on drip and sprinkler systems. Additional 10% state top-up in Haryana. Water saving up to 50% compared to flood irrigation.",
+    "eligibility_text": "All farmers owning agricultural land. Preference to small and marginal farmers with less than 2 hectares. Farmers in Haryana and Punjab eligible for state top-up subsidy. No income restriction.",
+    "source_url": "https://pmksy.gov.in/",
+    "application_link": "https://pmksy.gov.in/"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Awas Yojana - Gramin (PMAY-G)",
+    "description": "Pucca houses with basic amenities for houseless and kutcha-house-dwelling rural families.",
+    "benefits": "Rs 1.20 lakh per unit (plains) or Rs 1.30 lakh (hilly). Additional Rs 12,000 for toilet. 90 person-days MGNREGS labour. Convergence with Swachh Bharat Mission.",
+    "eligibility_text": "Houseless families or those in kutcha/one-two-room houses in rural areas. Priority: SC/ST, bonded labourers, minorities, widows, disabled, families with no adult male aged 16-59 years. Annual income not exceeding Rs 3 lakh. Rural residence required.",
+    "source_url": "https://pmayg.nic.in/",
+    "application_link": "https://pmayg.nic.in/"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Awas Yojana - Urban (PMAY-U)",
+    "description": "Affordable housing through interest subsidy for EWS, LIG and MIG urban families.",
+    "benefits": "Interest subsidy 6.5% (EWS/LIG on loan up to Rs 6 lakh). 4% for MIG-I (Rs 9 lakh). 3% for MIG-II (Rs 12 lakh). In-situ slum redevelopment. Beneficiary-led individual house construction.",
+    "eligibility_text": "EWS: Annual income up to Rs 3 lakh. LIG: Rs 3-6 lakh. MIG-I: Rs 6-12 lakh. MIG-II: Rs 12-18 lakh. Applicant or family should not own pucca house anywhere in India. Urban residence. First-time homebuyer.",
+    "source_url": "https://pmaymis.gov.in/",
+    "application_link": "https://pmaymis.gov.in/"
+  },
+  {
+    "scheme_name": "Ayushman Bharat PM-JAY",
+    "description": "Health assurance scheme providing Rs 5 lakh health cover per family per year for secondary and tertiary care.",
+    "benefits": "Rs 5 lakh cashless health cover per family per year. Covers 1,929 procedures at empanelled hospitals. Pre-existing disease covered from day one. No family size cap.",
+    "eligibility_text": "Families identified in SECC 2011 data. Deprived rural and urban occupational categories. Annual income not exceeding Rs 2.5 lakh. Haryana extends as Chirayu Haryana. Punjab extends as Sarbat Sehat Bima Yojana. No age or family size restriction.",
+    "source_url": "https://pmjay.gov.in/",
+    "application_link": "https://mera.pmjay.gov.in/search/login"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+    "description": "Maternity benefit programme providing cash incentives to pregnant and lactating women for first live birth.",
+    "benefits": "Rs 5,000 in three installments: Rs 1,000 on registration, Rs 2,000 at ante-natal check-up, Rs 2,000 after child birth and vaccination. Rs 6,000 to Janani Suraksha Yojana (JSY) beneficiaries.",
+    "eligibility_text": "All pregnant and lactating women for first live birth. Age 19 years and above. Both rural and urban eligible. No income restriction. All categories covered. Haryana and Punjab women fully covered.",
+    "source_url": "https://pmmvy.wcd.gov.in/",
+    "application_link": "https://pmmvy.wcd.gov.in/"
+  },
+  {
+    "scheme_name": "Janani Suraksha Yojana (JSY)",
+    "description": "Safe motherhood intervention under NHM promoting institutional delivery among pregnant women.",
+    "benefits": "Cash assistance to pregnant women: Rs 1,400 rural, Rs 1,000 urban. ASHA worker incentive Rs 600 rural, Rs 400 urban. Free antenatal care and institutional delivery.",
+    "eligibility_text": "Pregnant women from BPL households. Low-performing states get higher benefits. Haryana and Punjab classified as High Performing States (HPS). Women aged 19 and above. Both rural and urban eligible.",
+    "source_url": "https://nhm.gov.in/",
+    "application_link": "https://nhm.gov.in/"
+  },
+  {
+    "scheme_name": "Rashtriya Swasthya Bima Yojana (RSBY)",
+    "description": "Smart card-based cashless health insurance scheme for BPL families covering hospitalization costs.",
+    "benefits": "Rs 30,000 cashless hospitalization cover per family per year. Smart card based access. Covers pre-existing diseases. Transport allowance Rs 100 per visit.",
+    "eligibility_text": "BPL families as per state government list. Annual income very low (below poverty line). Family unit including head, spouse, and up to three dependants. Both rural and urban BPL families eligible. Haryana and Punjab BPL families covered.",
+    "source_url": "https://rsby.gov.in/",
+    "application_link": "https://rsby.gov.in/"
+  },
+  {
+    "scheme_name": "Post Matric Scholarship for SC Students (Central)",
+    "description": "Scholarship for Scheduled Caste students pursuing post-matriculation education.",
+    "benefits": "Maintenance allowance Rs 380-1,200 per month. Non-refundable fee reimbursement. Study tour charges. Book allowance. Thesis charges for research students.",
+    "eligibility_text": "Must belong to Scheduled Caste (SC) category. Annual parental income not exceeding Rs 2.5 lakh. Studying at post-matriculation level. Age 18-35 years. Both Haryana and Punjab SC students eligible.",
+    "source_url": "https://scholarships.gov.in/",
+    "application_link": "https://scholarships.gov.in/fresh/loginPage"
+  },
+  {
+    "scheme_name": "NSP OBC Pre-Matric Scholarship (Central)",
+    "description": "Scholarship for OBC students in Class 1-10 in government and government-aided schools.",
+    "benefits": "Day scholars: Rs 100-200/month by class. Hostellers: Rs 500/month. Ad-hoc grant up to Rs 1,000 for books and stationery.",
+    "eligibility_text": "Must belong to OBC category. Annual family income not exceeding Rs 1 lakh. Studying Class 1-10. Age up to 15 years. All states including Haryana and Punjab.",
+    "source_url": "https://scholarships.gov.in/",
+    "application_link": "https://scholarships.gov.in/fresh/loginPage"
+  },
+  {
+    "scheme_name": "NSP OBC Post Matric Scholarship (Central)",
+    "description": "Scholarship for OBC students in post-matriculation courses at recognized institutions.",
+    "benefits": "Maintenance allowance Rs 300-1,000/month. Compulsory fee reimbursement. Study tour charges. Thesis charges for research students.",
+    "eligibility_text": "Must belong to OBC category. Annual family income not exceeding Rs 1 lakh. Studying post-matric at recognized institution. Age 18-30 years. Both Haryana and Punjab students eligible.",
+    "source_url": "https://scholarships.gov.in/",
+    "application_link": "https://scholarships.gov.in/fresh/loginPage"
+  },
+  {
+    "scheme_name": "Maulana Azad National Fellowship for Minorities",
+    "description": "Fellowship for minority students pursuing M.Phil and PhD.",
+    "benefits": "JRF: Rs 31,000/month (first 2 years). SRF: Rs 35,000/month. Contingency Rs 10,000-12,000/year. HRA as per norms.",
+    "eligibility_text": "Must belong to minority community (Muslim, Christian, Sikh, Buddhist, Jain, Parsi). Enrolled in M.Phil/PhD. Annual family income not exceeding Rs 6 lakh. Age up to 30 years (JRF). Both Haryana and Punjab minority students eligible.",
+    "source_url": "https://www.minorityaffairs.gov.in/",
+    "application_link": "https://scholarships.gov.in/"
+  },
+  {
+    "scheme_name": "PM Scholarship for Central Armed Police Forces (CAPF)",
+    "description": "Scholarship for wards and widows of CAPF and RPF personnel for professional degree courses.",
+    "benefits": "Rs 3,000/month (boys) and Rs 3,500/month (girls) for 1st to 5th year professional degrees. Annual renewal based on performance.",
+    "eligibility_text": "Ward or widow of CAPF (CRPF, BSF, CISF, ITBP, SSB, NIA, NSG, Assam Rifles) or RPF personnel. Minimum 60% marks in qualifying exam. Professional degree programme. Many Haryana and Punjab ex-serviceman families eligible.",
+    "source_url": "https://scholarships.gov.in/",
+    "application_link": "https://scholarships.gov.in/"
+  },
+  {
+    "scheme_name": "National Means-cum-Merit Scholarship (NMMS)",
+    "description": "Scholarship to prevent dropout at Class 8 level and to encourage meritorious students from economically weaker sections.",
+    "benefits": "Rs 12,000 per year (Rs 1,000 per month) from Class 9 to Class 12. Renewed annually based on performance.",
+    "eligibility_text": "Students in Class 8 from government and government-aided schools. Annual parental income not exceeding Rs 1.5 lakh. Minimum 55% marks in Class 7 (50% for SC/ST). Must pass state-level NMMS exam. Haryana and Punjab students eligible.",
+    "source_url": "https://scholarships.gov.in/",
+    "application_link": "https://scholarships.gov.in/"
+  },
+  {
+    "scheme_name": "Indira Gandhi National Old Age Pension (IGNOAPS)",
+    "description": "Monthly pension to senior citizens from BPL households under NSAP.",
+    "benefits": "Rs 200/month (age 60-79). Rs 500/month (age 80+). States may provide additional top-up. Haryana pays Rs 2,500/month total. Punjab pays Rs 1,500/month total.",
+    "eligibility_text": "Age 60 years or above. BPL household. Permanent resident of state. No income restriction beyond BPL status. Both Haryana and Punjab covered.",
+    "source_url": "https://nsap.nic.in/",
+    "application_link": "https://nsap.nic.in/"
+  },
+  {
+    "scheme_name": "Indira Gandhi National Widow Pension (IGNWPS)",
+    "description": "Monthly pension for widows from BPL households under NSAP.",
+    "benefits": "Rs 300/month (age 40-79). Rs 500/month (age 80+). Haryana tops up to Rs 2,750/month. Punjab tops up to Rs 1,500/month.",
+    "eligibility_text": "Must be a widow. Age 40-79 years. BPL household. Permanent resident of state. No caste restriction. Both Haryana and Punjab eligible.",
+    "source_url": "https://nsap.nic.in/",
+    "application_link": "https://nsap.nic.in/"
+  },
+  {
+    "scheme_name": "Indira Gandhi National Disability Pension (IGNDPS)",
+    "description": "Monthly pension for severely disabled persons from BPL households under NSAP.",
+    "benefits": "Rs 300/month (age 18-79, 80%+ disability). Rs 500/month (age 80+). States provide additional top-up.",
+    "eligibility_text": "Person with severe or multiple disability of 80% or more. Age 18 years and above. BPL household. Permanent resident of state. Both Haryana and Punjab eligible.",
+    "source_url": "https://nsap.nic.in/",
+    "application_link": "https://nsap.nic.in/"
+  },
+  {
+    "scheme_name": "NHFDC Concessional Loans for Disabled Persons",
+    "description": "Concessional loans for persons with disabilities for self-employment, education and housing.",
+    "benefits": "Loans up to Rs 30 lakh at 5% (women) or 6% (men). Repayment period up to 10 years. 6-12 month moratorium. Covers small businesses, agriculture, education, housing.",
+    "eligibility_text": "Person with benchmark disability of 40% or more. Age 18-55 years. Annual family income not exceeding Rs 3 lakh. Indian citizen. All states including Haryana and Punjab eligible.",
+    "source_url": "https://www.nhfdc.nic.in/",
+    "application_link": "https://www.nhfdc.nic.in/loanschemes.html"
+  },
+  {
+    "scheme_name": "ADIP Scheme — Aids and Appliances for Disabled",
+    "description": "Provides free or subsidized assistive devices to persons with disabilities.",
+    "benefits": "Free devices worth up to Rs 10,000 for income below Rs 15,000/month. Subsidized for income Rs 15,001-20,000/month. Includes wheelchair, hearing aids, artificial limbs, tricycles, braille kits.",
+    "eligibility_text": "Indian citizen with disability certified by government medical authority. Annual income not exceeding Rs 2 lakh. Devices once every 3 years. Priority to children, women, SC/ST. All states including Haryana and Punjab.",
+    "source_url": "https://disabilityaffairs.gov.in/",
+    "application_link": "https://disabilityaffairs.gov.in/"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "description": "Term life insurance providing Rs 2 lakh cover at Rs 436 premium per year.",
+    "benefits": "Life cover Rs 2 lakh on death from any cause. Annual premium Rs 436. Auto-debit from savings account. Cover from June 1 to May 31 every year.",
+    "eligibility_text": "Age 18-50 years. Savings bank or post office account required. Auto-debit consent needed. No income restriction. Both Haryana and Punjab residents eligible.",
+    "source_url": "https://jansuraksha.gov.in/",
+    "application_link": "https://jansuraksha.gov.in/Forms-PMJJBY.aspx"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+    "description": "Accident insurance providing Rs 2 lakh cover at just Rs 20 per year.",
+    "benefits": "Rs 2 lakh for accidental death or total permanent disability. Rs 1 lakh for partial permanent disability. Annual premium Rs 20. Auto-debit from savings account.",
+    "eligibility_text": "Age 18-70 years. Savings bank account needed. Auto-debit facility required. No income restriction. Both Haryana and Punjab eligible.",
+    "source_url": "https://jansuraksha.gov.in/",
+    "application_link": "https://jansuraksha.gov.in/Forms-PMSBY.aspx"
+  },
+  {
+    "scheme_name": "Atal Pension Yojana (APY)",
+    "description": "Fixed minimum pension of Rs 1,000-5,000/month after age 60 for unorganized sector workers.",
+    "benefits": "Fixed pension Rs 1,000-5,000/month after age 60. Same pension to spouse after death. Accumulated corpus to nominee. Government co-contributes 50% for non-income-tax payers for 5 years.",
+    "eligibility_text": "Indian citizen aged 18-40 years. Savings bank or post office account. Not an income tax payer. Unorganized sector worker. Not covered under any other social security scheme. Both Haryana and Punjab residents eligible.",
+    "source_url": "https://www.npscra.nsdl.co.in/",
+    "application_link": "https://enps.nsdl.com/eNPS/NationalPensionSystem.html"
+  },
+  {
+    "scheme_name": "PM Shram Yogi Maan-dhan (PM-SYM)",
+    "description": "Voluntary pension scheme for unorganized workers giving Rs 3,000/month pension after age 60.",
+    "benefits": "Assured monthly pension Rs 3,000 after age 60. Government matches subscriber's monthly contribution. Family pension Rs 1,500/month to spouse on subscriber's death.",
+    "eligibility_text": "Age 18-40 years. Unorganized sector worker. Monthly income not exceeding Rs 15,000. Not covered under EPFO, ESIC, or NPS. Not an income tax assessee. Both Haryana and Punjab unorganized workers eligible.",
+    "source_url": "https://maandhan.in/",
+    "application_link": "https://maandhan.in/"
+  },
+  {
+    "scheme_name": "Sukanya Samriddhi Yojana (SSY)",
+    "description": "Small savings scheme for girl child with 8.2% interest and tax benefits under Beti Bachao Beti Padhao.",
+    "benefits": "Interest 8.2% per annum (Q1 2024-25). Tax exemption under Section 80C. Maturity amount fully tax-free. Partial withdrawal after girl turns 18 for education.",
+    "eligibility_text": "Account opened for girl child below 10 years. Maximum two accounts per family (one per girl). No income or caste restriction. Both rural and urban eligible. All states including Haryana and Punjab.",
+    "source_url": "https://www.indiapost.gov.in/",
+    "application_link": "https://www.indiapost.gov.in/"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+    "description": "Free LPG connection to BPL women for clean cooking fuel.",
+    "benefits": "Free LPG connection with security deposit, regulator, first fill. EMI for stove purchase. Connection in name of adult woman of household.",
+    "eligibility_text": "Adult woman 18 years or above from BPL household. No existing LPG connection in household. Priority to SC/ST, PMAY-G beneficiaries, Antyodaya beneficiaries. Both Haryana and Punjab women covered.",
+    "source_url": "https://www.pmuy.gov.in/",
+    "application_link": "https://www.pmuy.gov.in/ujjwala2.html"
+  },
+  {
+    "scheme_name": "Beti Bachao Beti Padhao (BBBP)",
+    "description": "Multi-sectoral scheme to prevent gender-biased sex selective elimination and promote girl child education.",
+    "benefits": "Educational incentives for girl child. Direct cash transfers in select states. Convergence with SSY. Awareness campaigns. Haryana is a focus state due to historically low child sex ratio.",
+    "eligibility_text": "Families with girl children. Focus on districts with low sex ratio. Haryana is a priority state. No income restriction. All categories covered. Both rural and urban eligible.",
+    "source_url": "https://wcd.nic.in/bbbp-schemes",
+    "application_link": "https://wcd.nic.in/"
+  },
+  {
+    "scheme_name": "PM Garib Kalyan Anna Yojana (PMGKAY)",
+    "description": "Free 5 kg food grains per person per month to NFSA beneficiaries.",
+    "benefits": "5 kg wheat or rice free per person per month. Covers 80+ crore beneficiaries. Available at ration shops. Now permanent under NFSA.",
+    "eligibility_text": "NFSA beneficiaries: Priority Households (PHH) and Antyodaya Anna Yojana (AAY) ration card holders. Annual family income very low (BPL). Available in Haryana and Punjab via PDS ration shops.",
+    "source_url": "https://dfpd.gov.in/",
+    "application_link": "https://dfpd.gov.in/"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "description": "Micro-finance loans to non-corporate non-farm small/micro enterprises.",
+    "benefits": "Shishu: up to Rs 50,000. Kishore: Rs 50,001-5 lakh. Tarun: Rs 5-10 lakh. No collateral for Shishu. No processing fee. MUDRA Card for working capital.",
+    "eligibility_text": "Any Indian citizen with business plan for non-farm income activity. Small manufacturers, vendors, artisans, service sector. No minimum income restriction. Both Haryana and Punjab entrepreneurs eligible.",
+    "source_url": "https://www.mudra.org.in/",
+    "application_link": "https://www.mudra.org.in/"
+  },
+  {
+    "scheme_name": "PM SVANidhi — Street Vendor Micro-Credit",
+    "description": "Micro-credit for urban street vendors to resume livelihoods.",
+    "benefits": "Initial loan Rs 10,000. Enhanced to Rs 20,000 on timely repayment. Rs 50,000 on second repayment. 7% interest subsidy. Digital reward up to Rs 1,200/year.",
+    "eligibility_text": "Street vendors in urban areas as of March 24, 2020 or before. Must have vending certificate or ULB recommendation letter. Occupation street vendor. Urban area resident. Haryana and Punjab urban vendors eligible.",
+    "source_url": "https://pmsvanidhi.mohua.gov.in/",
+    "application_link": "https://pmsvanidhi.mohua.gov.in/Schemes/ApplyLoan"
+  },
+  {
+    "scheme_name": "PM Kaushal Vikas Yojana (PMKVY)",
+    "description": "Free short-term skill training for youth for better employment opportunities.",
+    "benefits": "Free skill training 150-300 hours. Industry-recognized certification. Monetary reward after assessment. Placement assistance. Training centres in Haryana and Punjab districts.",
+    "eligibility_text": "Indian national aged 15-45 years. Unemployed or school/college dropout. Basic literacy required. No income restriction. Both Haryana and Punjab eligible. SC/ST and minority preferred for reserved seats.",
+    "source_url": "https://www.pmkvyofficial.org/",
+    "application_link": "https://www.pmkvyofficial.org/"
+  },
+  {
+    "scheme_name": "Startup India Seed Fund Scheme (SISFS)",
+    "description": "Financial assistance to startups for proof of concept, prototype, and commercialization through incubators.",
+    "benefits": "Up to Rs 20 lakh grant for validation/prototype. Up to Rs 50 lakh as convertible debentures for commercialization. Disbursed through DPIIT-recognized incubators.",
+    "eligibility_text": "DPIIT-recognized startup incorporated not more than 2 years ago. Annual turnover not exceeding Rs 100 crore. Not received more than Rs 10 lakh as DPIIT seed fund earlier. Both Haryana and Punjab startups eligible.",
+    "source_url": "https://seedfund.startupindia.gov.in/",
+    "application_link": "https://seedfund.startupindia.gov.in/"
+  },
+  {
+    "scheme_name": "Ex-Servicemen Contributory Health Scheme (ECHS)",
+    "description": "Comprehensive medical care for Ex-Servicemen and their dependants.",
+    "benefits": "Outpatient at ECHS polyclinics. Specialist/hospitalization at empanelled hospitals. Cashless treatment. Covers all diseases. Many ECHS polyclinics in Haryana and Punjab.",
+    "eligibility_text": "Ex-Serviceman discharged/retired (not dismissed) from Indian Army, Navy, or Air Force. Widows of Ex-Servicemen also covered. Dependant family members included. One-time subscription required. Haryana and Punjab have large ex-serviceman populations.",
+    "source_url": "https://echs.gov.in/",
+    "application_link": "https://echs.gov.in/en/online-enrolment.htm"
+  },
+  {
+    "scheme_name": "Kendriya Sainik Board — Ex-Servicemen Welfare Schemes",
+    "description": "Various welfare measures for Ex-Servicemen including employment assistance, rehabilitation, and welfare funds.",
+    "benefits": "Employment assistance through Directorate General Resettlement. Canteen facilities. Ex-Servicemen Welfare Fund for financial emergencies. Scholarship for children. Resettlement training courses.",
+    "eligibility_text": "Ex-Serviceman who served in Indian Armed Forces. Widows and dependent children of deceased servicemen. Must be registered with Zila Sainik Board. Haryana and Punjab have largest ex-serviceman communities in India.",
+    "source_url": "https://ksb.gov.in/",
+    "application_link": "https://ksb.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Old Age Samman Allowance",
+    "description": "Monthly pension for senior citizens of Haryana providing financial security in old age.",
+    "benefits": "Rs 2,750 per month for persons aged 60 years and above. Increased periodically. Paid directly to bank account via DBT.",
+    "eligibility_text": "Must be a permanent resident of Haryana state. Age 60 years or above. Annual family income not exceeding Rs 2 lakh. Must not receive any other government pension. No caste restriction.",
+    "source_url": "https://socialjusticehry.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Widow and Destitute Women Allowance",
+    "description": "Monthly allowance for widows and destitute women of Haryana for financial independence.",
+    "benefits": "Rs 2,750 per month for widows. Rs 2,750 per month for destitute women (unmarried above 45 years). Paid directly to bank account.",
+    "eligibility_text": "Must be a widow or destitute/unmarried woman above 45 years. Permanent resident of Haryana. Annual family income not exceeding Rs 2 lakh. Not receiving any other pension. Age 18 years or above.",
+    "source_url": "https://socialjusticehry.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Disability Pension (Divyang Pension)",
+    "description": "Monthly pension for persons with disabilities in Haryana for livelihood support.",
+    "benefits": "Rs 2,750 per month for persons with 60% or more disability. Paid via DBT to bank account.",
+    "eligibility_text": "Permanent resident of Haryana. Disability certificate showing 60% or more disability from authorized government medical authority. Annual family income not exceeding Rs 2 lakh. Not receiving other government pension. Age 18 years or above.",
+    "source_url": "https://socialjusticehry.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Ladli Social Security Allowance",
+    "description": "Social security allowance for families with only daughters (no son) in Haryana to address son preference.",
+    "benefits": "Rs 2,750 per month to parents whose family has only daughters. Paid to mother or eldest daughter. Conditional on girls' school enrollment.",
+    "eligibility_text": "Permanent resident of Haryana. Family must have only daughters and no son. Annual family income not exceeding Rs 2 lakh. Must be BPL or lower income family. Children must be enrolled in school.",
+    "source_url": "https://socialjusticehry.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Destitute Children Allowance",
+    "description": "Monthly allowance for destitute children in Haryana who have lost both parents.",
+    "benefits": "Rs 2,750 per month to orphan and destitute children. Paid to guardian/legal caretaker. Continues till age 21.",
+    "eligibility_text": "Child who has lost both parents or whose parents are unable to support. Age below 21 years. Permanent resident of Haryana. Annual family income (of guardian) not exceeding Rs 2 lakh.",
+    "source_url": "https://socialjusticehry.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Aapki Beti Hamari Beti Yojana — Haryana",
+    "description": "Haryana scheme to improve sex ratio at birth by providing financial assistance for girl child.",
+    "benefits": "Rs 21,000 deposited as LIC policy in the name of girl born after January 22, 2015. For second girl child in SC/BPL families. Amount payable on girl's 18th birthday.",
+    "eligibility_text": "Permanent resident of Haryana. Girl child born on or after January 22, 2015. SC/BPL families for first girl. All families for second girl. Annual family income not exceeding Rs 1.80 lakh. Registration must be done within one month of birth.",
+    "source_url": "https://wcdhry.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Mukhyamantri Vivah Shagun Yojana — Haryana",
+    "description": "Marriage grant for economically weaker sections including SC/ST/OBC and BPL families of Haryana.",
+    "benefits": "Rs 71,000 for SC/ST/Vimukt Jati families below poverty line. Rs 31,000 for widows' daughters. Rs 21,000 for BPL families (all castes). Amount transferred directly to bride's account.",
+    "eligibility_text": "Permanent resident of Haryana. Girl's age 18 years or above at time of marriage. Boy's age 21 years or above. For SC/ST families: annual income not exceeding Rs 1.80 lakh. For BPL: must have BPL card. Apply within 6 months of marriage.",
+    "source_url": "https://haryanascbc.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Kanyadan Yojana",
+    "description": "Financial assistance for marriage of daughters of poor families in Haryana.",
+    "benefits": "Rs 51,000 grant at time of marriage. Includes household items worth Rs 31,000 and cash Rs 20,000. Amount given to bride's family.",
+    "eligibility_text": "Permanent resident of Haryana. Annual family income not exceeding Rs 1 lakh. Girl's age 18 years or above. Parents or guardians must be workers registered under BOCW or welfare board. Priority to BPL and SC/ST families.",
+    "source_url": "https://hrylabour.gov.in/",
+    "application_link": "https://hrylabour.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Free Cycle Scheme for School Girls (Kalp Vriksha)",
+    "description": "Free cycles to girl students of Classes 6-10 in government schools in Haryana to promote education.",
+    "benefits": "Free bicycle to girl students of Class 6, 9, and 11 in government schools. Rs 3,000 cash transferred to account if cycle already owned.",
+    "eligibility_text": "Girl student enrolled in government school in Haryana. Classes 6, 9, or 11. Must be a resident of Haryana. Attendance above 75%. BPL and SC/ST priority.",
+    "source_url": "https://haryanaeducation.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Kishori Shakti Yojana",
+    "description": "Programme for adolescent girls in Haryana for nutrition, health, and life skills development.",
+    "benefits": "Supplementary nutrition through anganwadi. Health and hygiene awareness. Life skills training. Iron and folic acid supplementation. Vocational training support.",
+    "eligibility_text": "Adolescent girls aged 11-14 years who are out of school. Permanent resident of Haryana. No income restriction. Implemented through anganwadi centres across Haryana.",
+    "source_url": "https://wcdhry.gov.in/",
+    "application_link": "https://wcdhry.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Dr. Ambedkar Medhavi Chattar Yojana (SC Scholarship)",
+    "description": "Scholarship for meritorious Scheduled Caste students in Haryana for higher education.",
+    "benefits": "Rs 8,000 per year for Class 11-12 students with 70%+ marks. Rs 9,000 for graduation students. Rs 10,000 for post-graduation. Rs 12,000 for professional courses. One-time laptop grant.",
+    "eligibility_text": "Permanent resident of Haryana. Scheduled Caste (SC) category. Minimum 70% marks in previous examination. Annual family income not exceeding Rs 4 lakh. Studying in recognized institution in Haryana.",
+    "source_url": "https://haryanascbc.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana BC Post Matric Scholarship (OBC)",
+    "description": "Post-matric scholarship for Backward Class A and B students in Haryana.",
+    "benefits": "Maintenance allowance Rs 250-1,200 per month depending on course and accommodation. Course fee reimbursement. Study material allowance.",
+    "eligibility_text": "Permanent resident of Haryana. Backward Class A or B category. Annual family income not exceeding Rs 1.5 lakh (BC-A) or Rs 1 lakh (BC-B). Studying in post-matriculation course. Minimum 50% marks in previous exam.",
+    "source_url": "https://haryanascbc.gov.in/",
+    "application_link": "https://haryanascbc.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana SC Pre-Matric Scholarship",
+    "description": "Scholarship for SC students studying in Classes 1-10 in Haryana.",
+    "benefits": "Rs 150-350 per month for day scholars. Rs 700-1,000 for hostellers. Books and stationery allowance.",
+    "eligibility_text": "Permanent resident of Haryana. Scheduled Caste (SC) category. Studying Class 1-10 in government or government-aided school. Annual family income not exceeding Rs 2 lakh. Age up to 18 years.",
+    "source_url": "https://haryanascbc.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Mukhyamantri Merit Scholarship Scheme",
+    "description": "Merit-based scholarship for students securing top positions in Haryana Board exams.",
+    "benefits": "Rs 5,000 per year for students in top 10 positions at district level. Rs 10,000 for state-level toppers. Continues for Class 11-12 and graduation.",
+    "eligibility_text": "Permanent resident of Haryana. Must have secured top positions in Haryana Board of School Education (HBSE) exams. Studying in Haryana. Both rural and urban students eligible. No income restriction for merit scholarship.",
+    "source_url": "https://haryanaeducation.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Anusuchit Jati Uchch Shiksha Vittiya Sahayata Yojana",
+    "description": "Financial assistance for SC students pursuing higher education in Haryana.",
+    "benefits": "Course fee reimbursement for SC students in professional and technical courses. Rs 15,000 per year for general courses. Laptop assistance for meritorious students.",
+    "eligibility_text": "Permanent resident of Haryana. Scheduled Caste (SC) category. Annual family income not exceeding Rs 2.5 lakh. Studying in recognized college or university in Haryana. Minimum 50% marks in qualifying exam.",
+    "source_url": "https://haryanascbc.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Swarna Jayanti Anushikshan Yojana (Free Coaching)",
+    "description": "Free coaching for SC/BPL students to prepare for competitive exams like JEE, NEET, UPSC, and HPSC.",
+    "benefits": "Free quality coaching at empanelled institutes. Stipend Rs 2,500 per month to outstation students. Study material provided. Covers JEE, NEET, CLAT, UPSC, banking, and SSC exams.",
+    "eligibility_text": "Permanent resident of Haryana. SC or BPL family. Annual family income not exceeding Rs 2 lakh (SC) or Rs 1 lakh (BPL). Age 18-30 years. 12th pass or graduate depending on exam type.",
+    "source_url": "https://haryanascbc.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana EWS Scholarship",
+    "description": "Scholarship for students from Economically Weaker Sections (non-reserved categories) in Haryana.",
+    "benefits": "Rs 2,000-5,000 per year for Class 9-12. Rs 5,000-8,000 for graduate and post-graduate. Course fee reimbursement for professional courses.",
+    "eligibility_text": "Permanent resident of Haryana. Economically Weaker Section (EWS) category with income certificate. Annual family income not exceeding Rs 6 lakh. Studying in recognized institution in Haryana. Minimum 60% marks.",
+    "source_url": "https://haryanaeducation.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Chirayu Haryana (AB-PMJAY Extension)",
+    "description": "Haryana state extension of Ayushman Bharat providing health cover to additional families not covered under SECC 2011.",
+    "benefits": "Rs 5 lakh cashless health cover per family per year. Covers families with annual income up to Rs 1.80 lakh. Additional Haryana state contribution. Covers secondary and tertiary hospitalization.",
+    "eligibility_text": "Permanent resident of Haryana. Annual family income not exceeding Rs 1.80 lakh. Families not already covered under PMJAY/SECC 2011. Blue ration card or BPL status preferred. No caste restriction.",
+    "source_url": "https://pmjay.gov.in/",
+    "application_link": "https://mera.pmjay.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Mukhyamantri Doodh Uphar Yojana",
+    "description": "Free milk distribution to children aged 1-6 years at anganwadi centres in Haryana.",
+    "benefits": "200ml pasteurized flavoured milk free to every child aged 1-6 years at anganwadi centres on six days per week. Nutritional supplement to reduce malnutrition.",
+    "eligibility_text": "Children aged 1-6 years registered at anganwadi centre in Haryana. Must be enrolled in anganwadi. No income or caste restriction. Rural and urban anganwadis covered across Haryana.",
+    "source_url": "https://wcdhry.gov.in/",
+    "application_link": "https://wcdhry.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Jan Swasthya Sahayogi Yojana",
+    "description": "Community health support programme connecting residents with health services in Haryana.",
+    "benefits": "Free medicines at government hospitals. Free diagnostic tests under government health programme. Mobile medical units in rural areas of Haryana.",
+    "eligibility_text": "Permanent resident of Haryana. No income restriction. BPL and APL both eligible. Priority to rural areas, remote villages, and slum dwellers in Haryana.",
+    "source_url": "https://health.haryana.gov.in/",
+    "application_link": "https://health.haryana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Mukhyamantri Kisan Evam Khetihar Mazdoor Jeevan Suraksha Yojana",
+    "description": "Accident insurance for farmers and agricultural labourers in Haryana.",
+    "benefits": "Rs 5 lakh insurance cover for accidental death while working in fields. Rs 3 lakh for permanent disability. Rs 1 lakh for partial disability. Premium paid by state government.",
+    "eligibility_text": "Farmer or agricultural labourer who is a permanent resident of Haryana. Age 18-70 years. Must be engaged in agricultural or farm-related work. No income restriction. Covers both rural and agricultural activities.",
+    "source_url": "https://agriharyana.gov.in/",
+    "application_link": "https://agriharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Krishi Yantra Anudan Yojana (Farm Machinery Subsidy)",
+    "description": "Subsidy on purchase of agricultural machinery and equipment for Haryana farmers.",
+    "benefits": "40-50% subsidy on tractors, combine harvesters, rotavators, laser levellers, and other implements. SC/ST farmers get additional 10% subsidy. Maximum subsidy up to Rs 40,000-2 lakh depending on equipment.",
+    "eligibility_text": "Farmer who is a permanent resident of Haryana. Land holding in Haryana. SC/ST and small/marginal farmers get priority. Annual income no restriction but BPL and small farmers prioritized. Must have valid land records (Jamabandi).",
+    "source_url": "https://agriharyana.gov.in/",
+    "application_link": "https://agriharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Parali Management Scheme (Crop Residue Management)",
+    "description": "Financial incentive to farmers for not burning paddy stubble and adopting alternate residue management.",
+    "benefits": "Rs 1,000 per acre incentive for in-situ management of paddy straw. Subsidy on happy seeders and super seeders. Rs 50 per quintal for ex-situ use of paddy straw.",
+    "eligibility_text": "Paddy farmers in Haryana who have registered with agriculture department. Must have crop sown area in Haryana. No burning of paddy straw should be done. Land records must be registered. Both small and large farmers eligible.",
+    "source_url": "https://agriharyana.gov.in/",
+    "application_link": "https://agriharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Micro Irrigation Scheme (Drip and Sprinkler)",
+    "description": "Subsidized drip and sprinkler irrigation to promote water conservation in Haryana.",
+    "benefits": "80-85% subsidy for SC/ST/small farmers on drip/sprinkler systems. 70-75% for other farmers. Additional Haryana state contribution over central PMKSY. Covers 90% cost for small/marginal.",
+    "eligibility_text": "Farmer with agricultural land in Haryana. SC/ST and small/marginal farmers (up to 2 hectares) get maximum subsidy. Must register on agriculture department portal. Both rural and semi-urban farmland covered.",
+    "source_url": "https://agriharyana.gov.in/",
+    "application_link": "https://agriharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Organic Farming Promotion Scheme",
+    "description": "Incentive and support for farmers transitioning to organic farming in Haryana.",
+    "benefits": "Rs 10,000 per acre assistance for organic certification. Free organic inputs including vermicompost and bio-fertilizers. Training and market linkage support. Premium market access through Haryana organic brand.",
+    "eligibility_text": "Farmer permanently residing in Haryana. Must commit to 3-year organic farming programme. Land in Haryana with valid Jamabandi. No income restriction. Both small and large farmers eligible.",
+    "source_url": "https://agriharyana.gov.in/",
+    "application_link": "https://agriharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Animal Husbandry Schemes — Dairy Development",
+    "description": "Subsidy and support for dairy farming and purchase of high-yield milch animals in Haryana.",
+    "benefits": "50% subsidy on purchase of crossbred cow or buffalo (up to Rs 30,000). Subsidy on dairy equipment like milking machines. Feed subsidy. Free veterinary services. Artificial insemination facilities.",
+    "eligibility_text": "Farmer or rural household in Haryana interested in dairy farming. Priority to SC/ST, BPL, women, small/marginal farmers. Annual income not exceeding Rs 2 lakh for maximum subsidy. Must have space for keeping animals.",
+    "source_url": "https://pashudhanharyana.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Murgi Palan Yojana (Poultry Development)",
+    "description": "Subsidy for poultry farming to increase income of rural households in Haryana.",
+    "benefits": "33% subsidy on unit cost of poultry farm (up to 5,000 birds). 50% subsidy for SC/ST. Subsidy on poultry shed construction. Training and technical support. Market linkage.",
+    "eligibility_text": "Resident of Haryana. SC/ST, women, and BPL households get priority. Must have land/space for poultry unit. Annual income not exceeding Rs 1.5 lakh for maximum subsidy. Apply through District Animal Husbandry office.",
+    "source_url": "https://pashudhanharyana.gov.in/",
+    "application_link": "https://pashudhanharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Fisheries Development Scheme",
+    "description": "Support and subsidy for fish farming in ponds and water bodies of Haryana.",
+    "benefits": "50% subsidy on pond construction/renovation (up to Rs 1.50 lakh). Free fingerlings and fish seed. Subsidy on fish feed. 75% subsidy for SC/ST fishermen. Training and technical guidance.",
+    "eligibility_text": "Resident of Haryana interested in fish farming. Must have access to pond or water body. SC/ST and traditional fishermen (Nishad community) get maximum subsidy. Both rural and peri-urban areas covered.",
+    "source_url": "https://fisheries.haryana.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Mukhyamantri Awas Yojana (Urban)",
+    "description": "Affordable housing for EWS and LIG families in urban areas of Haryana.",
+    "benefits": "Houses at subsidized rates in urban local body areas. EWS plots at Rs 250/sq yard. Instalment facility. Priority to SC/ST and BPL families.",
+    "eligibility_text": "Permanent resident of Haryana. Urban area resident. EWS: Annual income up to Rs 3 lakh. LIG: Rs 3-6 lakh. No existing pucca house in Haryana. SC/ST families given 10% reservation. Age 18 years or above.",
+    "source_url": "https://tcpharyana.gov.in/",
+    "application_link": "https://ulbharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Dr. BR Ambedkar Awas Navinikaran Yojana",
+    "description": "Repair and renovation assistance for old/dilapidated houses of SC families in Haryana.",
+    "benefits": "Rs 80,000 per unit for house repair/renovation. Paid in two installments. Includes basic structural repair, plastering, flooring, roof repair, and sanitation.",
+    "eligibility_text": "Permanent resident of Haryana. Scheduled Caste (SC) category. Own an old/dilapidated house requiring renovation. Annual family income not exceeding Rs 1.80 lakh. Not a pucca house. Apply through Block Development and Panchayat Officer.",
+    "source_url": "https://haryanascbc.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Saksham Yuva Yojana — Haryana (Educated Unemployment Allowance)",
+    "description": "Monthly unemployment allowance plus voluntary work assignment for educated unemployed youth in Haryana.",
+    "benefits": "Postgraduate: Rs 3,000/month unemployment allowance + Rs 6,000 for 100 hours voluntary work. Graduate: Rs 1,500/month + Rs 6,000 for 100 hours. 12th pass: Rs 900/month + Rs 3,000 for 100 hours.",
+    "eligibility_text": "Permanent resident of Haryana. Registered employment exchange in Haryana. Minimum 12th pass with 60%+ marks. Annual family income not exceeding Rs 3 lakh. Unemployed. Age 21-35 years. Not employed anywhere.",
+    "source_url": "https://hreyahs.gov.in/",
+    "application_link": "https://hreyahs.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Mahila Samridhi Yojana (Women Self-Employment Loans)",
+    "description": "Subsidized loans for SC women of Haryana for self-employment and income generation.",
+    "benefits": "Loans up to Rs 1.40 lakh at 5% interest for micro-enterprises. Loans for beauty parlour, tailoring, food processing, animal husbandry. Subsidy up to 50% on loan amount for SC women.",
+    "eligibility_text": "SC woman who is a permanent resident of Haryana. Age 18-45 years. Annual family income not exceeding Rs 3 lakh. Not in regular government employment. Not a defaulter of any financial institution.",
+    "source_url": "https://haryanascbc.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana SC Financial Corporation Loans (Self-Employment)",
+    "description": "Concessional loans to SC individuals in Haryana for self-employment ventures.",
+    "benefits": "Loans up to Rs 5 lakh at 6% interest for general self-employment. Higher loans for larger ventures. Loans for shops, manufacturing units, service businesses. Subsidy component available.",
+    "eligibility_text": "Permanent resident of Haryana. Scheduled Caste (SC) category. Age 18-55 years. Annual family income not exceeding Rs 3 lakh. Not a bank defaulter. Business proposal required.",
+    "source_url": "https://haryanascbc.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Skill Development Mission (HSDM)",
+    "description": "Free skill training and certification for youth of Haryana for better employment.",
+    "benefits": "Free short-term skill training in 50+ trades. Stipend Rs 1,500/month during training. Industry-recognized certification. Placement assistance. Training centres across all districts of Haryana.",
+    "eligibility_text": "Resident of Haryana. Age 15-45 years. Minimum 5th pass (varies by trade). Unemployed or seeking better employment. No income restriction. SC/ST and women get additional support.",
+    "source_url": "https://hsdm.org.in/",
+    "application_link": "https://hsdm.org.in/"
+  },
+  {
+    "scheme_name": "Haryana BOCW Scholarship for Workers' Children",
+    "description": "Scholarship for children of registered construction workers in Haryana.",
+    "benefits": "Rs 8,000-20,000 per year for Class 1-8. Rs 13,000-25,000 for Class 9-12. Rs 20,000-30,000 for degree courses. Rs 80,000 for professional courses. 50% extra for girl children.",
+    "eligibility_text": "Child of worker registered under Haryana Building and Other Construction Workers Welfare Board. Parent must have at least 1 year of registration. No income restriction. Child must be studying in recognized institution.",
+    "source_url": "https://hrylabour.gov.in/bocw/",
+    "application_link": "https://hrylabour.gov.in/bocw/"
+  },
+  {
+    "scheme_name": "Haryana BOCW Marriage Assistance for Workers' Daughters",
+    "description": "Marriage grant for daughters of registered construction workers in Haryana.",
+    "benefits": "Rs 50,000 grant for marriage of daughter of registered BOCW worker. Rs 51,000 if marriage is registered under Hindu Marriage Act. Can be availed twice (for two daughters).",
+    "eligibility_text": "Worker registered under Haryana BOCW Welfare Board for at least 1 year. Girl's age 18 years or above at time of marriage. Boy's age 21 years or above. Permanent resident of Haryana. Apply within 6 months of marriage.",
+    "source_url": "https://hrylabour.gov.in/bocw/",
+    "application_link": "https://hrylabour.gov.in/bocw/"
+  },
+  {
+    "scheme_name": "Haryana BOCW Medical Assistance",
+    "description": "Medical assistance for registered construction workers and their family members in Haryana.",
+    "benefits": "Up to Rs 1 lakh for major surgery. Rs 30,000 for other hospitalizations. Rs 20,000 for maternity (up to 2 children). Rs 5,000 for regular illness. Free medicines and diagnostics at empanelled hospitals.",
+    "eligibility_text": "Worker registered under Haryana Building and Other Construction Workers Welfare Board for at least 6 months. Occupation construction worker, brick kiln worker, or other registered building worker. Permanent resident of Haryana.",
+    "source_url": "https://hrylabour.gov.in/bocw/",
+    "application_link": "https://hrylabour.gov.in/bocw/"
+  },
+  {
+    "scheme_name": "Haryana BOCW Maternity Benefit for Women Workers",
+    "description": "Maternity benefit for registered women construction workers in Haryana.",
+    "benefits": "Rs 36,000 total for maternity (for up to 2 children). Rs 18,000 per child paid in two installments. Paid maternity leave of 90 days. Nutritional support.",
+    "eligibility_text": "Woman worker registered under Haryana BOCW Welfare Board for at least 1 year. Occupation construction or registered building worker. Permanent resident of Haryana. For first two childbirths only.",
+    "source_url": "https://hrylabour.gov.in/bocw/",
+    "application_link": "https://hrylabour.gov.in/bocw/"
+  },
+  {
+    "scheme_name": "Haryana BOCW Housing Loan for Workers",
+    "description": "Housing loan assistance for registered construction workers in Haryana to build/buy their own home.",
+    "benefits": "Loan up to Rs 2 lakh at 5% interest for house construction or purchase. Repayment period up to 10 years. Subsidy on interest for BPL workers. Registration and stamp duty exemption.",
+    "eligibility_text": "Worker registered under Haryana BOCW Welfare Board for at least 3 years. Occupation construction worker or allied building trade. Permanent resident of Haryana. Annual income not exceeding Rs 2 lakh. No existing pucca house.",
+    "source_url": "https://hrylabour.gov.in/bocw/",
+    "application_link": "https://hrylabour.gov.in/bocw/"
+  },
+  {
+    "scheme_name": "Mukhyamantri Antyodaya Parivar Utthan Yojana — Haryana",
+    "description": "Umbrella scheme to uplift the poorest families in Haryana through convergence of government schemes.",
+    "benefits": "Guaranteed minimum income of Rs 1.80 lakh per year per family. Convergence of 500+ state and central schemes. Dedicated helpline and case management for poorest families.",
+    "eligibility_text": "Poorest families in Haryana (Parivar Pehchan Patra registered). Annual family income below Rs 1.80 lakh. Priority to families with disabled members, widows, elderly, and landless labourers. Permanent resident of Haryana.",
+    "source_url": "https://cmhry.gov.in/",
+    "application_link": "https://parivarutthan.haryana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Mukhyamantri Parivar Samridhi Yojana (MMPSY)",
+    "description": "Social security scheme providing Rs 6,000 per year to eligible families in Haryana.",
+    "benefits": "Rs 6,000 per year (Rs 500/month) to eligible families through DBT. Can be used for PM-JJY, PMSBY, PM-SYM, PMFBY contributions with government support.",
+    "eligibility_text": "Farmer or unorganized worker family permanently residing in Haryana. Annual family income not exceeding Rs 1.80 lakh. Land holding not more than 2 hectares. Not covered under ESI/EPFO. Parivar Pehchan Patra required.",
+    "source_url": "https://cm-psy.haryana.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Free LPG Connection to BPL Families",
+    "description": "State-funded free LPG connection for BPL families not covered under PMUY in Haryana.",
+    "benefits": "Free LPG connection including security deposit, regulator, and first cylinder fill. Subsidized refills at government rates. Second cylinder at half price for BPL families.",
+    "eligibility_text": "BPL household in Haryana not already covered under PMUY. Annual family income not exceeding Rs 1.20 lakh. No existing LPG connection in household. Adult woman of household must be applicant. Permanent resident of Haryana.",
+    "source_url": "https://haryana.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Mukhyamantri Muft Bijli Yojana (Free Electricity 200 Units)",
+    "description": "First 200 units of electricity free to domestic consumers in Haryana.",
+    "benefits": "First 200 units of electricity per month free for domestic consumers. Applicable to all domestic meter holders. Benefit via automatic deduction in electricity bill.",
+    "eligibility_text": "Domestic electricity consumer in Haryana. Must have registered domestic electricity connection. Both rural and urban consumers eligible. No income restriction. Not applicable to commercial or industrial connections.",
+    "source_url": "https://uhbvn.org.in/",
+    "application_link": "https://uhbvn.org.in/"
+  },
+  {
+    "scheme_name": "Haryana Ex-Servicemen Land Allotment Scheme",
+    "description": "Preferential land allotment in government colonies for ex-servicemen and war widows in Haryana.",
+    "benefits": "5% reservation in government housing colonies. Priority allotment in urban extension and rural housing schemes. Subsidized rates for ex-servicemen plots.",
+    "eligibility_text": "Ex-Serviceman or war widow who is a permanent resident of Haryana. Must have served in Indian Armed Forces. Registered with District Sainik Welfare Officer in Haryana. Priority to battle casualties and Gallantry Award winners.",
+    "source_url": "https://sainikwelfare.haryana.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Rajya Sainik Board Welfare Fund",
+    "description": "Financial assistance from Haryana Rajya Sainik Board for ex-servicemen and their families in distress.",
+    "benefits": "One-time grant up to Rs 50,000 for serious illness. Rs 25,000 for daughter's marriage. Rs 10,000 for other emergencies. Education scholarships for children. Legal aid and employment assistance.",
+    "eligibility_text": "Ex-Serviceman or widow of ex-serviceman who is permanent resident of Haryana. Must be registered with District Sainik Board. Annual income not exceeding Rs 2 lakh. No restriction on category.",
+    "source_url": "https://sainikwelfare.haryana.gov.in/",
+    "application_link": "https://sainikwelfare.haryana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Minority Welfare Schemes (NMDFC Loans)",
+    "description": "Concessional term loan and micro-finance for economic development of minority communities in Haryana.",
+    "benefits": "Term loan up to Rs 20 lakh at 6% interest. Micro-finance up to Rs 1.25 lakh at 7%. Educational loan up to Rs 20 lakh. For self-employment ventures and education.",
+    "eligibility_text": "Must belong to minority community (Muslim, Christian, Sikh, Buddhist, Jain, Parsi). Permanent resident of Haryana. Annual family income not exceeding Rs 1.03 lakh (rural) or Rs 1.31 lakh (urban). Not a loan defaulter.",
+    "source_url": "https://haryanaminority.gov.in/",
+    "application_link": "https://haryanaminority.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Safai Karamchari Mukt Mela Yojana",
+    "description": "Rehabilitation and livelihood scheme for manual scavengers and safai karamcharis in Haryana.",
+    "benefits": "One-time cash assistance Rs 40,000. Loan up to Rs 15 lakh at 4% interest for alternative livelihood. Free vocational training. Housing loan at concessional rates.",
+    "eligibility_text": "Person identified as manual scavenger or from Safai Karamchari community. Permanent resident of Haryana. SC category in most cases. Annual income not exceeding Rs 1.50 lakh. Must be seeking alternative livelihood.",
+    "source_url": "https://haryanascbc.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Chief Minister Parivar Pehchan Patra Convergence",
+    "description": "Haryana's digital family identity system linking all government benefits to a single Family ID.",
+    "benefits": "Automatic identification for eligible schemes. Auto-enrollment in applicable welfare schemes. Single window access to 500+ state schemes. Prevents duplicate benefits and identifies genuine beneficiaries.",
+    "eligibility_text": "All families residing in Haryana are eligible for Parivar Pehchan Patra. Registration mandatory for accessing all Haryana government schemes. Aadhaar-linked family identity. Rural and urban families both covered.",
+    "source_url": "https://meraparivar.haryana.gov.in/",
+    "application_link": "https://meraparivar.haryana.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Old Age Pension Scheme",
+    "description": "Monthly pension for senior citizens of Punjab under state social security programme.",
+    "benefits": "Rs 1,500 per month for persons aged 58 years and above (women) and 65 years (men). Paid via DBT to bank account. Increased periodically.",
+    "eligibility_text": "Permanent resident of Punjab. Women aged 58 years or above. Men aged 65 years or above. Annual family income not exceeding Rs 60,000. Not receiving any other government pension. Apply at District Social Security Officer.",
+    "source_url": "https://socialsecuritypunjab.gov.in/",
+    "application_link": "https://edistrict.punjabgovt.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Widow Pension Scheme",
+    "description": "Monthly pension for widows in Punjab for financial security.",
+    "benefits": "Rs 1,500 per month for widows of all ages. Direct bank transfer. Can be supplemented with central IGNWPS amount.",
+    "eligibility_text": "Permanent resident of Punjab. Must be a widow. Annual family income not exceeding Rs 60,000. Not receiving other government pension. No age restriction. No caste restriction. Apply at District Social Security Officer.",
+    "source_url": "https://socialsecuritypunjab.gov.in/",
+    "application_link": "https://edistrict.punjabgovt.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Disability Pension Scheme",
+    "description": "Monthly pension for persons with 50% or more disability in Punjab.",
+    "benefits": "Rs 1,500 per month for persons with 50% or more certified disability. Direct bank transfer monthly.",
+    "eligibility_text": "Permanent resident of Punjab. Disability certificate from authorized government medical authority showing 50% or more disability. Annual family income not exceeding Rs 60,000. Not receiving other government pension. No age restriction.",
+    "source_url": "https://socialsecuritypunjab.gov.in/",
+    "application_link": "https://edistrict.punjabgovt.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Dependent Children Pension",
+    "description": "Monthly pension for children below 21 who have lost both parents in Punjab.",
+    "benefits": "Rs 1,500 per month per child up to age 21. Paid to legal guardian. Continues until child completes education or reaches 21.",
+    "eligibility_text": "Child below 21 years who has lost both parents. Must be a resident of Punjab. Annual income of guardian not exceeding Rs 60,000. No caste restriction. Apply at District Social Security Officer.",
+    "source_url": "https://socialsecuritypunjab.gov.in/",
+    "application_link": "https://edistrict.punjabgovt.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Sarbat Sehat Bima Yojana (SSBY)",
+    "description": "Punjab state extension of Ayushman Bharat providing cashless health cover of Rs 5 lakh.",
+    "benefits": "Rs 5 lakh cashless health cover per family per year. Blue card holders get extended coverage. All government and empanelled private hospitals. Covers 1,396 medical packages.",
+    "eligibility_text": "Permanent resident of Punjab. Blue card (BPL) or SECC 2011 listed family. Labour card holders, SC/ST families, small farmers, journalists, construction workers, street vendors also covered. Annual income not exceeding Rs 2 lakh.",
+    "source_url": "https://sha.punjab.gov.in/",
+    "application_link": "https://sha.punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Bhai Ghanhaya Ji Sehat Sewa Scheme — Punjab",
+    "description": "Expanded health coverage for additional categories not covered under SSBY in Punjab.",
+    "benefits": "Rs 5 lakh health cover per family per year. Covers teachers, Anganwadi workers, ASHA workers, Mid-Day Meal workers. Cashless at empanelled hospitals.",
+    "eligibility_text": "Categories covered: government school teachers, anganwadi workers, ASHA workers, mid-day meal workers in Punjab. Permanent resident of Punjab. Not already covered under other health scheme.",
+    "source_url": "https://sha.punjab.gov.in/",
+    "application_link": "https://sha.punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Mukhyamantri Aam Aadmi Clinic",
+    "description": "Free primary healthcare at Aam Aadmi Clinics across Punjab providing 43 free tests and medicines.",
+    "benefits": "Free consultation at clinic. 43 free diagnostic tests. 100+ free medicines. Free specialist referral. Open 8 AM to 8 PM six days a week. No OPD charges.",
+    "eligibility_text": "Any resident of Punjab can use Aam Aadmi Clinic services. No income restriction. No caste restriction. No ration card or ID required for basic services. Both rural and urban residents.",
+    "source_url": "https://health.punjab.gov.in/",
+    "application_link": "https://health.punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Sahara Scheme (Financial Assistance for Serious Illness)",
+    "description": "Monthly financial assistance to families caring for seriously ill members in Punjab.",
+    "benefits": "Rs 2,000 per month to families caring for members with HIV/AIDS, cancer, TB, renal failure, hemophilia, thalassemia, muscular dystrophy, Parkinson's disease.",
+    "eligibility_text": "Permanent resident of Punjab. Family caring for a member with specified serious illness. Annual family income not exceeding Rs 60,000. Illness must be certified by government hospital. No caste restriction.",
+    "source_url": "https://socialsecuritypunjab.gov.in/",
+    "application_link": "https://edistrict.punjabgovt.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Ashirwad Scheme (Marriage Grant for SC Girls)",
+    "description": "Financial assistance for SC girls at time of marriage to reduce financial burden on poor families.",
+    "benefits": "Rs 51,000 one-time grant at marriage. Transferred directly to bride's bank account. No condition on marriage type.",
+    "eligibility_text": "Permanent resident of Punjab. Scheduled Caste (SC) category. Annual family income not exceeding Rs 32,790. Girl's age 18 years or above at time of marriage. Apply within 6 months of marriage through District Social Security Officer.",
+    "source_url": "https://socialsecuritypunjab.gov.in/",
+    "application_link": "https://edistrict.punjabgovt.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Mata Kaushalya Maternity Benefits Scheme",
+    "description": "Maternity benefit for unorganized sector women workers in Punjab.",
+    "benefits": "Rs 18,000 total maternity benefit. Rs 9,000 before delivery, Rs 9,000 after delivery. Covers medical expenses, nutrition, and post-delivery care. For up to 2 children.",
+    "eligibility_text": "Permanent resident of Punjab. Woman worker in unorganized sector registered under state labour board. Annual income not exceeding Rs 1 lakh. Occupation homemaker, agricultural labourer, construction worker, domestic worker. For first two childbirths.",
+    "source_url": "https://punjablabour.gov.in/",
+    "application_link": "https://punjablabour.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Mai Bhago Vidya Scheme (Free Cycles for Girls)",
+    "description": "Free bicycles for girls studying in Class 9-12 in government schools of Punjab.",
+    "benefits": "Free bicycle to girl students of Class 9 in government and government-aided schools. Alternatively, Rs 2,700 cash transferred to account. Promotes education among rural girls.",
+    "eligibility_text": "Girl student enrolled in Class 9 in government or government-aided school in Punjab. Must be a resident of Punjab. Attendance above 70%. No income restriction. SC/ST and rural students get priority.",
+    "source_url": "https://education.punjab.gov.in/",
+    "application_link": "https://edistrict.punjabgovt.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Smart Connect Scheme (Free Smartphone for Students)",
+    "description": "Free smartphones with internet connectivity for 12th pass students of government schools in Punjab.",
+    "benefits": "Free 4G smartphone to students who passed 12th from government school in Punjab. 2 GB data per day for one year. Access to education apps and digital services.",
+    "eligibility_text": "Student who passed Class 12 from a government school in Punjab in current academic year. Permanent resident of Punjab. No income restriction. Both boys and girls eligible. Must not already have a smartphone from government scheme.",
+    "source_url": "https://education.punjab.gov.in/",
+    "application_link": "https://education.punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Ladli Beti Yojana",
+    "description": "Girl child welfare scheme for families in Punjab with financial incentives at birth and education milestones.",
+    "benefits": "Rs 2,000 on birth registration. Rs 2,000 on immunization completion. Rs 3,000 on admission to Class 1. Rs 5,000 on passing Class 8. Rs 7,000 on passing Class 10. Rs 11,000 on passing Class 12 and 18th birthday.",
+    "eligibility_text": "Permanent resident of Punjab. Girl child born after specific cutoff date. Annual family income not exceeding Rs 90,000 (or BPL). Applicable primarily to SC/ST families. Birth must be registered in Punjab.",
+    "source_url": "https://socialsecuritypunjab.gov.in/",
+    "application_link": "https://edistrict.punjabgovt.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab SC Post Matric Scholarship",
+    "description": "State scholarship for SC students pursuing post-matric education in Punjab.",
+    "benefits": "Maintenance allowance Rs 380-1,200/month. Full fee reimbursement. Study material allowance. Covers all recognized colleges and universities in Punjab.",
+    "eligibility_text": "Permanent resident of Punjab. Scheduled Caste (SC) category. Annual parental income not exceeding Rs 2.5 lakh. Post-matriculation education in recognized institution. Age 18-35 years.",
+    "source_url": "https://scholarship.punjab.gov.in/",
+    "application_link": "https://scholarships.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab BC Post Matric Scholarship (OBC)",
+    "description": "Scholarship for Backward Class students in post-matric education in Punjab.",
+    "benefits": "Maintenance allowance Rs 300-1,000/month. Course fee reimbursement. Book allowance Rs 1,200 per year.",
+    "eligibility_text": "Permanent resident of Punjab. Backward Class (BC) category. Annual family income not exceeding Rs 1 lakh. Post-matriculation education in recognized institution in Punjab. Minimum 50% marks in previous exam.",
+    "source_url": "https://scholarship.punjab.gov.in/",
+    "application_link": "https://scholarships.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab EWS Post Matric Scholarship",
+    "description": "Scholarship for Economically Weaker Section (non-reserved category) students in Punjab.",
+    "benefits": "Maintenance allowance Rs 250-800/month. Partial fee reimbursement. Rs 1,000 per year for study material.",
+    "eligibility_text": "Permanent resident of Punjab. EWS category (non-reserved) with income certificate. Annual family income not exceeding Rs 6 lakh. Post-matriculation education in recognized institution. Minimum 60% marks.",
+    "source_url": "https://scholarship.punjab.gov.in/",
+    "application_link": "https://edistrict.punjabgovt.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Minority Post Matric Scholarship (State)",
+    "description": "State-funded scholarship for minority students in Punjab for post-matric education.",
+    "benefits": "Maintenance allowance Rs 300-800/month. Fee reimbursement up to Rs 20,000 per year. Study tour allowance. Research scholars get additional thesis charges.",
+    "eligibility_text": "Permanent resident of Punjab. Must belong to minority community (Muslim, Christian, Sikh, Buddhist, Jain, Parsi). Annual family income not exceeding Rs 2 lakh. Post-matriculation education. Minimum 50% marks in previous exam.",
+    "source_url": "https://scholarship.punjab.gov.in/",
+    "application_link": "https://scholarships.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Merit Scholarship for Meritorious Students",
+    "description": "Scholarship for students securing top positions in Punjab state board and competitive exams.",
+    "benefits": "Rs 5,000-25,000 per year for Class 11-12 district toppers. Rs 10,000-50,000 for state toppers. Rs 50,000 per year for students in IIT/AIIMS/NIT/IIM. Laptop grant for state toppers.",
+    "eligibility_text": "Permanent resident of Punjab. Secured top positions in Punjab School Education Board exams or admitted to premier institutes (IIT/AIIMS/NIT/IIM). Studying in Punjab or premier national institutes. No income restriction for merit scholarships.",
+    "source_url": "https://scholarship.punjab.gov.in/",
+    "application_link": "https://scholarship.punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Chief Minister Scholarship Scheme",
+    "description": "Special scholarship for outstanding students from poor families in Punjab to pursue higher education.",
+    "benefits": "Full tuition fee waiver at Punjab government universities. Rs 3,000/month stipend. Free hostel accommodation at government universities. Book allowance Rs 2,500 per year.",
+    "eligibility_text": "Permanent resident of Punjab. Annual family income not exceeding Rs 1.20 lakh. Minimum 85% marks in Class 12. Admitted to government university or college in Punjab. Priority to SC/ST, BPL, and first-generation college students.",
+    "source_url": "https://scholarship.punjab.gov.in/",
+    "application_link": "https://scholarship.punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Student Credit Card Scheme",
+    "description": "Low-interest education loan for students of Punjab for higher education.",
+    "benefits": "Education loan up to Rs 10 lakh at 4% interest (girls) and 8% (boys). Moratorium till course completion + 1 year. No collateral for loans up to Rs 4 lakh.",
+    "eligibility_text": "Permanent resident of Punjab. Student admitted to recognized course (graduation, post-graduation, professional degree). Age 18-35 years. Annual family income not exceeding Rs 3 lakh. Proof of admission required.",
+    "source_url": "https://scholarship.punjab.gov.in/",
+    "application_link": "https://edistrict.punjabgovt.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Ghar Ghar Rozgar te Karobar Mission",
+    "description": "Employment and entrepreneurship mission of Punjab to provide employment to every unemployed youth.",
+    "benefits": "Job placement assistance through employment portal. Self-employment loans at subsidized rates. Skill training and certification. Rozgar melas (job fairs) in each district.",
+    "eligibility_text": "Permanent resident of Punjab. Age 18-40 years. Unemployed or seeking better employment. Minimum 8th pass. No income restriction. SC/ST, women, and disabled get additional support.",
+    "source_url": "https://rozgarportal.punjab.gov.in/",
+    "application_link": "https://rozgarportal.punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Skill Development Mission (PSSDM)",
+    "description": "Free skill training for youth of Punjab for better employment opportunities.",
+    "benefits": "Free market-aligned skill training. Stipend Rs 1,500/month during training. Industry-recognized certification. Placement assistance. Training in 30+ sectors across Punjab.",
+    "eligibility_text": "Resident of Punjab. Age 15-45 years. Minimum 8th pass (varies by trade). Unemployed or seeking skill upgrade. No income restriction. SC/ST and women get additional benefits.",
+    "source_url": "https://pssdm.gov.in/",
+    "application_link": "https://pssdm.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab SC/BC Financial Corporation Loans",
+    "description": "Concessional loans for SC and BC individuals in Punjab for self-employment.",
+    "benefits": "Loans up to Rs 7 lakh at 6% interest for general self-employment. Educational loans up to Rs 10 lakh. Housing loans at concessional rates. Margin money subsidy up to 25%.",
+    "eligibility_text": "Permanent resident of Punjab. Scheduled Caste (SC) or Backward Class (BC) category. Age 18-55 years. Annual family income not exceeding Rs 3 lakh. Not a bank defaulter. Business proposal or education plan required.",
+    "source_url": "https://scbcfc.punjab.gov.in/",
+    "application_link": "https://scbcfc.punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Women Entrepreneur Development Scheme",
+    "description": "Special loans and subsidies for women entrepreneurs in Punjab.",
+    "benefits": "Loan up to Rs 5 lakh at 4% interest for women-owned businesses. Rs 10 lakh for larger ventures. 30% capital subsidy for SC/BC women. Marketing support and trade fair participation.",
+    "eligibility_text": "Woman who is a permanent resident of Punjab. Age 18-55 years. Not in regular government employment. Annual income not exceeding Rs 5 lakh. Must have business plan. Priority to SC/BC and rural women.",
+    "source_url": "https://punjab.gov.in/",
+    "application_link": "https://edistrict.punjabgovt.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Startup and Innovation Mission (PSIM)",
+    "description": "Support for technology startups and innovations in Punjab.",
+    "benefits": "Seed funding up to Rs 25 lakh. Incubation support. Market access. Mentoring. Tax benefits for registered startups. Co-working space at subsidized rates.",
+    "eligibility_text": "Startup incorporated in Punjab or willing to operate from Punjab. DPIIT recognition preferred. Annual turnover not exceeding Rs 100 crore. Innovative product/service/process. Age of startup not more than 5 years.",
+    "source_url": "https://invest.punjab.gov.in/",
+    "application_link": "https://invest.punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Agriculture Equipment Subsidy Scheme",
+    "description": "Subsidy on purchase of agricultural machinery and implements for Punjab farmers.",
+    "benefits": "50-60% subsidy for SC/ST/women farmers. 40-50% for others on tractors, combines, laser levellers, sprinklers, and other equipment. Maximum subsidy up to Rs 50,000-3 lakh by equipment type.",
+    "eligibility_text": "Farmer permanently residing in Punjab with agricultural land. SC/ST and small/marginal farmers (up to 2 ha) get maximum subsidy. Valid land records (Jamabandi) required. Annual income no restriction but smaller farmers prioritized.",
+    "source_url": "https://agripb.gov.in/",
+    "application_link": "https://agripb.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Parali Management Scheme (Crop Residue Management)",
+    "description": "Incentive for Punjab farmers to not burn paddy straw and adopt alternate management.",
+    "benefits": "Rs 2,500 per acre for in-situ paddy straw management. Subsidy on happy seeder, super seeder, paddy straw chopper. Free demonstration of zero-till drill.",
+    "eligibility_text": "Paddy farmer in Punjab registered with agriculture department. Must have cultivated paddy and not burned straw. Land records required. Both small and large farmers eligible. No income restriction.",
+    "source_url": "https://agripb.gov.in/",
+    "application_link": "https://agripb.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Free Electricity to Farmers (8 Hours)",
+    "description": "Free 8 hours of electricity per day to agricultural tube-well connections in Punjab.",
+    "benefits": "Free electricity for agricultural tube-well pumping up to 8 hours per day. No metered charge for agricultural pumps. Cover all registered agricultural electricity connections.",
+    "eligibility_text": "Farmer with registered agricultural electricity connection in Punjab. Must be using electricity for bona fide agricultural purposes (irrigation, threshing). No income restriction. Both small and large farmers covered.",
+    "source_url": "https://pspcl.in/",
+    "application_link": "https://pspcl.in/"
+  },
+  {
+    "scheme_name": "Punjab Organic Farming Scheme",
+    "description": "Promotion of organic farming in Punjab with financial incentives and certification support.",
+    "benefits": "Rs 10,000 per acre for organic certification (3-year programme). Free bio-inputs (vermicompost, bio-fertilizers, bio-pesticides). Market premium for certified organic produce. Training and technical support.",
+    "eligibility_text": "Farmer permanently residing in Punjab. Must commit to 3-year organic farming programme. Land holding in Punjab. Both small and large farmers eligible. No income restriction. Must forego chemical inputs.",
+    "source_url": "https://agripb.gov.in/",
+    "application_link": "https://agripb.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Kisan Credit Card — Special Package",
+    "description": "Punjab state enhanced package for Kisan Credit Cards with additional benefits for farmers.",
+    "benefits": "KCC at 7% (4% effective with interest subvention). Crop insurance premium subsidy. Personal accident cover Rs 50,000. Free credit card with revolving credit limit. Atm access.",
+    "eligibility_text": "Farmer owning or leasing agricultural land in Punjab. Age 18-75 years. No income restriction. Both small and large farmers eligible. Must have bank account in Punjab.",
+    "source_url": "https://agripb.gov.in/",
+    "application_link": "https://agripb.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Dairy Development Scheme",
+    "description": "Subsidized loans and grants for dairy farming in Punjab.",
+    "benefits": "35-50% subsidy on purchase of crossbred cow/buffalo (up to Rs 2 lakh). Subsidy on milk cooling units and processing equipment. Free AI and veterinary services. Market linkage through cooperatives.",
+    "eligibility_text": "Farmer or rural household permanently residing in Punjab. SC/ST, women, and small farmers get maximum subsidy. Annual income not exceeding Rs 2 lakh for maximum benefit. Must have space for dairy unit.",
+    "source_url": "https://Punjab.gov.in/",
+    "application_link": "https://edistrict.punjabgovt.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Fisheries Scheme (Fish Farming Subsidy)",
+    "description": "Subsidy for fish farming in ponds and water bodies in Punjab.",
+    "benefits": "50% subsidy on pond construction/renovation (up to Rs 1.50 lakh). Free fingerlings supply. 75% subsidy for SC/ST fishermen. Feed subsidy. Insurance for fish crop.",
+    "eligibility_text": "Resident of Punjab interested in fish farming. Access to pond or water body. Traditional fishermen (Nishad/Machhiara community) get priority. SC/ST get maximum subsidy. No strict income limit.",
+    "source_url": "https://punjab.gov.in/",
+    "application_link": "https://edistrict.punjabgovt.gov.in/"
+  },
+  {
+    "scheme_name": "Mera Ghar Mera Naam Scheme — Punjab",
+    "description": "Property rights in husband's name to be extended/included to wife's name in Punjab.",
+    "benefits": "Joint property rights for wife in husband's property. Shamlat (common land) allotment to landless SC families. Revenue records updated to include wife's name. Legal recognition of wife's property rights.",
+    "eligibility_text": "Permanent resident of Punjab. Any family where house/property is in husband's name only. SC families for shamlat allotment. No income restriction. Apply through District Revenue Officer or patwari.",
+    "source_url": "https://revenue.punjab.gov.in/",
+    "application_link": "https://jamabandi.punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Housing Board EWS Housing Scheme",
+    "description": "Affordable housing for Economically Weaker Sections in urban areas of Punjab.",
+    "benefits": "Subsidized flats and plots at EWS rates. EMI facility. 10% reservation for SC/ST. Priority to BPL families. Locations across major Punjab cities.",
+    "eligibility_text": "Permanent resident of Punjab. Urban area resident. Annual family income not exceeding Rs 3 lakh (EWS). No existing pucca house owned in Punjab. Age 18 years or above. SC/ST get additional priority.",
+    "source_url": "https://phdb.gov.in/",
+    "application_link": "https://phdb.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab BOCW Scholarship for Workers' Children",
+    "description": "Scholarship for children of construction workers registered under Punjab BOCW Board.",
+    "benefits": "Rs 3,000-30,000 per year depending on class and course. Additional merit scholarship Rs 10,000. Rs 50,000 for professional degree courses. 50% extra for girl children.",
+    "eligibility_text": "Child of worker registered under Punjab Building and Other Construction Workers Welfare Board. Parent must have 1 year registration. No income restriction. Child must be enrolled in recognized institution in Punjab.",
+    "source_url": "https://punjablabour.gov.in/",
+    "application_link": "https://punjablabour.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab BOCW Marriage Assistance",
+    "description": "Marriage grant for daughters/workers of registered construction workers in Punjab.",
+    "benefits": "Rs 31,000 for marriage of daughter of registered BOCW worker. Rs 51,000 if daughter is graduate. Paid on submission of marriage certificate within 6 months.",
+    "eligibility_text": "Worker registered under Punjab BOCW Welfare Board for at least 1 year. Occupation construction, carpentry, masonry, painting, plumbing, electrical work. Girl's age 18 years or above. Permanent resident of Punjab.",
+    "source_url": "https://punjablabour.gov.in/",
+    "application_link": "https://punjablabour.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab BOCW Medical Assistance",
+    "description": "Medical assistance for registered construction workers and families in Punjab.",
+    "benefits": "Up to Rs 50,000 for major surgery. Rs 20,000 for hospitalization. Rs 15,000 for maternity (up to 2 children). Rs 3,000 for medicines. Coverage at empanelled hospitals.",
+    "eligibility_text": "Worker registered under Punjab Building and Other Construction Workers Welfare Board for at least 6 months. Occupation building/construction worker. Permanent resident of Punjab. For self and dependent family members.",
+    "source_url": "https://punjablabour.gov.in/",
+    "application_link": "https://punjablabour.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab BOCW Pension for Workers",
+    "description": "Monthly pension for aged construction workers registered in Punjab.",
+    "benefits": "Rs 3,000 per month pension after age 60 for registered construction workers. Eligibility from 3 years of registration. Paid via DBT.",
+    "eligibility_text": "Worker registered under Punjab BOCW Welfare Board for at least 3 years. Age 60 years or above. Occupation construction worker. Permanent resident of Punjab. Not receiving other government pension.",
+    "source_url": "https://punjablabour.gov.in/",
+    "application_link": "https://punjablabour.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Saanjh Police Citizen Service Centres",
+    "description": "Free police assistance and citizen services at Saanjh centres across Punjab.",
+    "benefits": "Free character certificate, FIR registration assistance, lost property certificate, NOC services. Legal awareness and counselling. Women safety services. 24/7 helpline 100.",
+    "eligibility_text": "Any resident of Punjab can access Saanjh services. No income restriction. No caste restriction. Available in all districts of Punjab. Women and elderly get priority assistance.",
+    "source_url": "https://punjabipolice.gov.in/",
+    "application_link": "https://saanjh.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Mukhyamantri Tirth Yatra Scheme",
+    "description": "Free pilgrimage travel for senior citizens of Punjab to religious sites across India.",
+    "benefits": "Free train travel in sleeper class to religious sites like Vaishno Devi, Amritsar, Tirupati, Haridwar, Kashi, Bodh Gaya. Accommodation and food at reasonable rates. Medical assistance during yatra.",
+    "eligibility_text": "Permanent resident of Punjab. Age 60 years or above. Annual family income not exceeding Rs 1.60 lakh. Physically fit for travel (medical certificate required). Any religion. Apply through Department of Social Security.",
+    "source_url": "https://socialsecuritypunjab.gov.in/",
+    "application_link": "https://edistrict.punjabgovt.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Drug De-Addiction Mission — OOT Programme",
+    "description": "Free Opioid Agonist Treatment (OAT) for drug-addicted persons in Punjab.",
+    "benefits": "Free daily medication (Buprenorphine-Naloxone) at OAT centres. Free counselling. Rehabilitation support. No stigma policy. 24/7 helpline 104.",
+    "eligibility_text": "Any resident of Punjab suffering from opioid drug addiction. No income restriction. No age restriction (18+ for OAT). No caste restriction. Walk-in available at OAT centres across Punjab.",
+    "source_url": "https://health.punjab.gov.in/",
+    "application_link": "https://health.punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Aam Aadmi Bima Yojana (State Workers)",
+    "description": "Group insurance for unorganized sector workers in Punjab.",
+    "benefits": "Rs 30,000 on natural death. Rs 75,000 on accidental death. Rs 37,500 for partial permanent disability. Rs 2,400-4,800 scholarship for children Class 9-12.",
+    "eligibility_text": "Unorganized sector worker aged 18-59 years who is a permanent resident of Punjab. Annual income not exceeding Rs 1.60 lakh. Occupation agricultural labourer, construction worker, beedi worker, fisherman, etc. Premium paid by state government.",
+    "source_url": "https://punjablabour.gov.in/",
+    "application_link": "https://punjablabour.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Urban Development Authority (PUDA) Housing Schemes",
+    "description": "Affordable residential plots and housing in PUDA townships across Punjab.",
+    "benefits": "Plots at market rates in planned townships. Instalment payment facility. Priority draw for SC/ST. Affordable LIG flats in major cities of Punjab.",
+    "eligibility_text": "Permanent resident of Punjab. Urban area preference. No existing government plot in Punjab. Income varies by scheme: EWS (up to Rs 3 lakh), LIG (Rs 3-6 lakh), MIG (Rs 6-18 lakh). Age 18 years or above.",
+    "source_url": "https://puda.gov.in/",
+    "application_link": "https://puda.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab NRI Affairs and Grievance Scheme",
+    "description": "Support services for NRI families and prevention of NRI-related crimes in Punjab.",
+    "benefits": "Free legal aid for NRI victims. NRI police desk in all districts. Fast-track court for NRI cases. NRI facilitation centre for investment and services. 24/7 NRI helpline.",
+    "eligibility_text": "Punjab-origin Non-Resident Indians (NRIs) or families of NRIs in Punjab. Victims of NRI-related crimes (property disputes, marital disputes, fraud). No income restriction. Services also for NRI families left behind in Punjab.",
+    "source_url": "https://nripunjab.gov.in/",
+    "application_link": "https://nripunjab.gov.in/"
+  },
+  {
+    "scheme_name": "PM Garib Kalyan Rozgar Abhiyan",
+    "description": "Employment and livelihood scheme for migrant workers returning to their states.",
+    "benefits": "Employment in 25 categories of work including construction, agriculture, sanitation. Convergence of 25 central schemes. Priority in MGNREGS. Training and certification.",
+    "eligibility_text": "Migrant workers who have returned to their home villages. Labourer, construction worker, or unskilled worker by occupation. Rural area residence. Haryana and Punjab migrant workers covered under respective district offices.",
+    "source_url": "https://pmgkra.gov.in/",
+    "application_link": "https://nrega.nic.in/"
+  },
+  {
+    "scheme_name": "National Family Benefit Scheme (NFBS)",
+    "description": "One-time lump sum assistance to bereaved families on death of primary breadwinner.",
+    "benefits": "Rs 20,000 one-time payment to family on death of bread earner aged 18-65 years. Paid through DBT within 45 days of application. Both rural and urban families covered.",
+    "eligibility_text": "BPL family whose primary breadwinner (aged 18-65 years) has died. Annual family income below poverty line. Both rural and urban. No caste restriction. Apply through District Social Welfare Officer. Haryana and Punjab BPL families eligible.",
+    "source_url": "https://nsap.nic.in/",
+    "application_link": "https://nsap.nic.in/"
+  },
+  {
+    "scheme_name": "PM Employment Generation Programme (PMEGP)",
+    "description": "Credit-linked subsidy for setting up new micro-enterprises in manufacturing and service sectors.",
+    "benefits": "Subsidy 15-35% of project cost. 25% subsidy for urban general, 35% for urban SC/ST/women/ex-servicemen. Higher for rural areas (25-35% general, 35% special categories). Maximum project cost Rs 50 lakh (manufacturing) Rs 20 lakh (services).",
+    "eligibility_text": "Any individual 18 years or above. 8th pass for projects above Rs 10 lakh. No income restriction. SC/ST, women, ex-servicemen, differently abled, minorities, OBC get higher subsidy. Both Haryana and Punjab entrepreneurs eligible.",
+    "source_url": "https://kviconline.gov.in/",
+    "application_link": "https://www.kviconline.gov.in/pmegpeportal/"
+  },
+  {
+    "scheme_name": "Deendayal Antyodaya Yojana — National Rural Livelihoods Mission (DAY-NRLM)",
+    "description": "Self-help group formation and livelihood support for rural poor women.",
+    "benefits": "Rs 10,000-15,000 revolving fund for SHG. Bank credit linkage at 7% interest. Rs 50,000-3 lakh community investment fund. Skill training and market access.",
+    "eligibility_text": "Women from rural BPL households. Must form or join Self-Help Group (SHG) of 10-15 women. Both Haryana and Punjab rural women covered. SC/ST and vulnerable households prioritized. Annual income below state poverty line.",
+    "source_url": "https://aajeevika.gov.in/",
+    "application_link": "https://aajeevika.gov.in/"
+  },
+  {
+    "scheme_name": "PM Vishwakarma Yojana",
+    "description": "Support for traditional artisans and craftspeople (Vishwakarma communities) across India.",
+    "benefits": "Collateral-free enterprise development loan up to Rs 1 lakh (first tranche) at 5%. Up to Rs 2 lakh (second tranche). Free skill training 5-15 days. Rs 500/day stipend during training. Modern toolkits worth Rs 15,000. PM Vishwakarma certificate.",
+    "eligibility_text": "Artisan or craftsperson working in 18 traditional trades: blacksmith, goldsmith, pottery, weaving, carpenter, mason, cobbler, tailor, barber, washerman, etc. Age 18 years or above. Both Haryana and Punjab craftspeople eligible. Annual income no restriction.",
+    "source_url": "https://pmvishwakarma.gov.in/",
+    "application_link": "https://pmvishwakarma.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Ashirwad Scheme for OBC/General BPL",
+    "description": "Financial assistance for the marriage of girls belonging to OBC, EWS, or General BPL families in Punjab.",
+    "benefits": "One-time financial assistance of Rs 51,000 directly transferred to the bank account of the beneficiary's family.",
+    "eligibility_text": "Permanent resident of Punjab. Belongs to OBC or General BPL category. Annual family income not exceeding Rs 1.5 lakh. The girl must be at least 18 years of age at the time of marriage.",
+    "source_url": "https://socialsecuritypunjab.gov.in/",
+    "application_link": "https://edistrict.punjabgovt.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Free Transport Facility for Government School Students",
+    "description": "Free bus travel for government school students, especially girls, in Punjab.",
+    "benefits": "Free state transport bus passes for commuting from residence to government school.",
+    "eligibility_text": "Permanent resident of Punjab. Student enrolled in a government school from Class 1 to 12. No income limit. Especially covers girl students and SC students.",
+    "source_url": "https://ssapunjab.org/",
+    "application_link": "https://ssapunjab.org/"
+  },
+  {
+    "scheme_name": "Punjab Shaheed Bhagat Singh Hariawal Lehar Scheme",
+    "description": "Incentive scheme for planting and maintaining saplings to increase green cover in Punjab.",
+    "benefits": "Supply of free saplings of native tree species and incentive for survival of plants.",
+    "eligibility_text": "Resident of Punjab. Open to farmers, individuals, and community groups. Landowners with cultivable land. No age or income limit.",
+    "source_url": "https://forests.punjab.gov.in/",
+    "application_link": "https://forests.punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab State Cancer Care Fund Scheme",
+    "description": "Financial assistance to cancer patients for treatment at empanelled hospitals in Punjab.",
+    "benefits": "Financial assistance up to Rs 1.50 lakh for cancer treatment, surgeries, and chemotherapy.",
+    "eligibility_text": "Permanent resident of Punjab. Diagnosed with cancer. Does not receive any other government health insurance coverage. No income or age restriction.",
+    "source_url": "https://health.punjab.gov.in/",
+    "application_link": "https://health.punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Financial Assistance to Disabled Persons (State top-up)",
+    "description": "Additional monthly allowance for severely disabled persons in Punjab.",
+    "benefits": "Monthly pension top-up of Rs 1,500 for persons with 80% or more disability.",
+    "eligibility_text": "Permanent resident of Punjab. Disability certified by medical authority to be 80% or more. Age 18 to 70 years. Annual family income not exceeding Rs 1 lakh.",
+    "source_url": "https://socialsecuritypunjab.gov.in/",
+    "application_link": "https://edistrict.punjabgovt.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab State Cooperative Bank Self-Employment Loan Scheme",
+    "description": "Concessional loans for youth wishing to set up self-employed businesses in Punjab.",
+    "benefits": "Business loan up to Rs 5 lakh at low interest rates of 6-8% with flexible repayment options.",
+    "eligibility_text": "Permanent resident of Punjab. Age 18 to 45 years. Unemployed youth with matriculation or higher qualification. Annual family income not exceeding Rs 3 lakh.",
+    "source_url": "https://pscb.in/",
+    "application_link": "https://pscb.in/"
+  },
+  {
+    "scheme_name": "Punjab Farm Forestry Scheme",
+    "description": "Subsidized distribution of agro-forestry trees to farmers in Punjab.",
+    "benefits": "Subsidized saplings of poplar, eucalyptus, and teak. Training on plantation techniques.",
+    "eligibility_text": "Permanent resident of Punjab. Occupation must be farmer. Must own agricultural land. No income limit.",
+    "source_url": "https://forests.punjab.gov.in/",
+    "application_link": "https://forests.punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Solar Pump Subsidy Scheme",
+    "description": "Provides financial subsidy on off-grid solar photovoltaic water pumping systems for irrigation in Punjab.",
+    "benefits": "Subsidy of up to 60% on solar water pumps of 3 HP to 10 HP. Direct benefit transfer.",
+    "eligibility_text": "Permanent resident of Punjab. Occupation must be farmer. Must have micro-irrigation system installed or planned. Priority to small/marginal farmers with less than 2 hectares.",
+    "source_url": "https://peda.gov.in/",
+    "application_link": "https://peda.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Chief Minister's Scholarship Scheme for Polytechnic Students",
+    "description": "Fee waiver for students studying in government polytechnic colleges in Punjab.",
+    "benefits": "Tuition fee waiver of 70% to 100% based on matriculation examination marks.",
+    "eligibility_text": "Permanent resident of Punjab. Admitted to government polytechnic colleges. Minimum 60% marks in matriculation. No income limit.",
+    "source_url": "https://dtepunjab.gov.in/",
+    "application_link": "https://dtepunjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Bhagat Puran Singh Sehat Bima Yojana for Small Traders",
+    "description": "Cashless health insurance scheme for small traders registered under Excise and Taxation department of Punjab.",
+    "benefits": "Cashless health insurance up to Rs 50,000 per family per year. Accidental death and disability insurance up to Rs 2 lakh.",
+    "eligibility_text": "Permanent resident of Punjab. Small trader with annual turnover not exceeding Rs 1 crore. Age 18 to 65 years.",
+    "source_url": "https://excise.punjab.gov.in/",
+    "application_link": "https://excise.punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Employment Assistance Scheme for Victims of Terrorist Violence",
+    "description": "Priority employment and financial support for families affected by terrorist violence in Punjab.",
+    "benefits": "Priority in government jobs, or monthly financial assistance of Rs 5,000 if employment not available.",
+    "eligibility_text": "Permanent resident of Punjab. Immediate family member of a victim of terrorist violence in the state. No strict income limit.",
+    "source_url": "https://socialsecuritypunjab.gov.in/",
+    "application_link": "https://socialsecuritypunjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Assistance to Acid Attack Victims",
+    "description": "Financial support and monthly pension to female survivors of acid attacks in Punjab.",
+    "benefits": "Monthly pension of Rs 8,000 for lifelong support. Free medical treatment at government and empanelled hospitals.",
+    "eligibility_text": "Permanent resident of Punjab. Female survivor of acid attack. No income or age limit.",
+    "source_url": "https://socialsecuritypunjab.gov.in/",
+    "application_link": "https://edistrict.punjabgovt.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Free Sanitary Napkin Scheme (Hawaa)",
+    "description": "Distribution of free sanitary napkins to adolescent girls and women residing in rural slums of Punjab.",
+    "benefits": "Free supply of hygiene kits containing sanitary napkins every month.",
+    "eligibility_text": "Adolescent girls and women aged 11 to 45 years. Must reside in rural areas, slums, or BPL households in Punjab.",
+    "source_url": "https://socialsecuritypunjab.gov.in/",
+    "application_link": "https://socialsecuritypunjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Integrated Dairy Development Scheme (IDDS)",
+    "description": "Subsidy for establishing dairy farms and purchasing dairy equipment in Punjab.",
+    "benefits": "Subsidy of 25% to 35% on purchase of milch animals, milking machines, and building cow sheds.",
+    "eligibility_text": "Permanent resident of Punjab. Age 18 to 55 years. Occupation must be farmer or unemployed youth interested in dairy farming. Training certificate from Dairy Development Department required.",
+    "source_url": "https://pddb.in/",
+    "application_link": "https://pddb.in/"
+  },
+  {
+    "scheme_name": "Punjab Subsidized Seed Distribution Scheme",
+    "description": "Subsidized seeds of wheat, paddy, and cotton for Punjab farmers.",
+    "benefits": "Subsidy of 50% on seed cost or Rs 1,000 per quintal, whichever is less, directly transferred via DBT.",
+    "eligibility_text": "Permanent resident of Punjab. Occupation must be farmer. Must own cultivable land up to 5 acres (small/marginal farmers prioritized).",
+    "source_url": "https://agri.punjab.gov.in/",
+    "application_link": "https://agri.punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Shehri Awas Yojana (PSAY) - Phase II",
+    "description": "Providing free housing sites or affordable housing to urban homeless families in Punjab.",
+    "benefits": "Free residential plots of 3-marla or financial assistance of Rs 1.5 lakh for construction of pucca houses.",
+    "eligibility_text": "Permanent resident of Punjab. Resident of urban area. Belongs to SC/ST or BPL category. Annual family income not exceeding Rs 3 lakh. Must not own any other house in India.",
+    "source_url": "https://phdb.gov.in/",
+    "application_link": "https://phdb.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Senior Citizen Health Care Card",
+    "description": "Special cards offering subsidized outpatient and inpatient healthcare for senior citizens in Punjab.",
+    "benefits": "50% discount on tests, diagnostics, and medicines at government laboratories and hospitals. Priority queues.",
+    "eligibility_text": "Permanent resident of Punjab. Age 60 years or above. No income restriction.",
+    "source_url": "https://health.punjab.gov.in/",
+    "application_link": "https://health.punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Kanya Jagriti Jyoti Scheme (Interest Support)",
+    "description": "Savings scheme to promote education of girls from BPL families in Punjab.",
+    "benefits": "Rs 5,000 deposited in the name of the girl child at birth, generating interest for higher education.",
+    "eligibility_text": "Permanent resident of Punjab. Born in BPL household. Maximum 2 girls per family. Girl child age below 5 years at the time of application.",
+    "source_url": "https://socialsecuritypunjab.gov.in/",
+    "application_link": "https://edistrict.punjabgovt.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab One Time Settlement (OTS) for Farmers' Cooperative Loans",
+    "description": "Debt settlement scheme for farmers with outstanding cooperative bank loans in Punjab.",
+    "benefits": "Waiver of penal interest and up to 50% discount on overdue interest for cooperative bank loans.",
+    "eligibility_text": "Permanent resident of Punjab. Occupation must be farmer. Outstanding loan with cooperative bank default. No income limit.",
+    "source_url": "https://pscb.in/",
+    "application_link": "https://pscb.in/"
+  },
+  {
+    "scheme_name": "Punjab Mukhyamantri Punjab Gaurav Puraskar Scheme",
+    "description": "Financial awards to encourage outstanding contributions in the field of culture, literature, and sports in Punjab.",
+    "benefits": "Cash prize of Rs 1 lakh and citation for achievements.",
+    "eligibility_text": "Resident of Punjab. Exceptional achievement in sports, Punjabi literature, or folk arts. Age 18 years or above. No income limit.",
+    "source_url": "https://punjab.gov.in/",
+    "application_link": "https://punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Assistance to Single Mothers & Destitute Women",
+    "description": "Financial assistance to single mothers, divorced women, and destitute women in Punjab.",
+    "benefits": "Monthly pension of Rs 1,500 directly transferred to the bank account.",
+    "eligibility_text": "Permanent resident of Punjab. Single mother, divorced, or destitute woman with no income source. Annual family income not exceeding Rs 60,000.",
+    "source_url": "https://socialsecuritypunjab.gov.in/",
+    "application_link": "https://edistrict.punjabgovt.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Skill Training for PwDs (Divyangjan)",
+    "description": "Free skill training and vocational courses for persons with disabilities in Punjab.",
+    "benefits": "Free training courses of 3-6 months. Placement assistance and Rs 1,000/month stipend during training.",
+    "eligibility_text": "Permanent resident of Punjab. Disability certified to be 40% or more. Age 18 to 45 years. Unemployed. No income limit.",
+    "source_url": "https://pssdm.punjab.gov.in/",
+    "application_link": "https://pssdm.punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Promotion of Micro Enterprises in Rural Areas",
+    "description": "Financial subsidy to set up tiny retail or manufacturing shops in rural Punjab.",
+    "benefits": "35% capital subsidy on projects costing up to Rs 2 lakh. Low interest rate loans.",
+    "eligibility_text": "Permanent resident of Punjab. Resident of a rural area. Unemployed youth aged 18 to 40 years. Annual family income not exceeding Rs 2 lakh.",
+    "source_url": "https://pbindustries.gov.in/",
+    "application_link": "https://pbindustries.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Interest Subsidy for SC/ST Startups",
+    "description": "Interest subvention scheme for entrepreneurs from SC/ST communities in Punjab.",
+    "benefits": "Interest subsidy of 5% on term loans for setting up new micro/small industrial enterprises.",
+    "eligibility_text": "Permanent resident of Punjab. Belongs to SC or ST category. Age 18 years or above. DPIIT recognized startup or new enterprise. No income limit.",
+    "source_url": "https://pbindustries.gov.in/",
+    "application_link": "https://pbindustries.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab State Student Transport Subsidy",
+    "description": "Travel subsidy for students from remote villages to attend colleges in Punjab.",
+    "benefits": "Monthly reimbursement of 75% of travel expenses or Rs 500 per month.",
+    "eligibility_text": "Permanent resident of Punjab. Student studying in a government college. Resides in a village with no direct college access. Annual family income not exceeding Rs 2.5 lakh.",
+    "source_url": "https://dtepunjab.gov.in/",
+    "application_link": "https://dtepunjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Free Coaching Scheme for IAS/PCS Exams",
+    "description": "Free coaching program for civil services aspirants from weaker sections in Punjab.",
+    "benefits": "Free classroom coaching, study materials, and library facilities. Monthly stipend of Rs 3,000.",
+    "eligibility_text": "Permanent resident of Punjab. Belongs to SC/ST, OBC, or EWS category. Minimum graduate degree. Annual family income not exceeding Rs 3 lakh. Admission through entrance test.",
+    "source_url": "https://socialwelfare.punjab.gov.in/",
+    "application_link": "https://socialwelfare.punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Subsidy on Agro-Processing Units",
+    "description": "Subsidies for setting up food processing and sorting units by farmers in Punjab.",
+    "benefits": "Subsidy of 40% on plant machinery up to a maximum of Rs 10 lakh.",
+    "eligibility_text": "Permanent resident of Punjab. Occupation must be farmer or Farmer Producer Organization (FPO). Age 18 years or above. No income limit.",
+    "source_url": "https://agri.punjab.gov.in/",
+    "application_link": "https://agri.punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Dairy Farming Training for Rural Youth",
+    "description": "Skill development in modern dairy farming for rural youth of Punjab.",
+    "benefits": "Free 2-week to 4-week training. Rs 1,000 stipend. Certificate eligible for bank loan subsidies.",
+    "eligibility_text": "Resident of rural Punjab. Age 18 to 35 years. Minimum 8th class pass. No income restriction.",
+    "source_url": "https://pddb.in/",
+    "application_link": "https://pddb.in/"
+  },
+  {
+    "scheme_name": "Punjab Assistance for Construction of Toilets in Rural Areas",
+    "description": "Financial grant under Swachh Bharat Mission (Grameen) in Punjab.",
+    "benefits": "Financial assistance of Rs 12,000 for constructing a twin-pit toilet.",
+    "eligibility_text": "Permanent resident of Punjab. Resides in a rural area. Does not own a toilet. Household must be BPL or marginal landholding SC/ST.",
+    "source_url": "https://dwss.punjab.gov.in/",
+    "application_link": "https://dwss.punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Smart Ration Card Scheme (BPL/AAY)",
+    "description": "Subsidized foodgrains under the National Food Security Act in Punjab.",
+    "benefits": "Wheat at Rs 2 per kg and additional items like pulses and oil at highly subsidized rates.",
+    "eligibility_text": "Permanent resident of Punjab. Belongs to BPL, Priority Household (PHH), or Antyodaya Anna Yojana (AAY) category.",
+    "source_url": "https://foodsupplies.punjab.gov.in/",
+    "application_link": "https://foodsupplies.punjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Financial Assistance to Non-Pensioner Freedom Fighters",
+    "description": "Monthly financial aid to recognized freedom fighters or their widows in Punjab.",
+    "benefits": "Monthly assistance of Rs 10,000. Free medical aid and state bus transport pass.",
+    "eligibility_text": "Permanent resident of Punjab. Recognized by Punjab government as a freedom fighter or family dependent. Must not receive central pension.",
+    "source_url": "https://socialsecuritypunjab.gov.in/",
+    "application_link": "https://socialsecuritypunjab.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Sports Promotion Incentive Scheme for Rural Youth",
+    "description": "Incentives to encourage rural youth to participate in state and national level sports in Punjab.",
+    "benefits": "Free sports kits, training equipment, and dietary allowance of Rs 250 per day during camps.",
+    "eligibility_text": "Resident of rural Punjab. Age 10 to 25 years. Active member of local village sports club. No income limit.",
+    "source_url": "https://pbsports.gov.in/",
+    "application_link": "https://pbsports.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Mukhyamantri Vyapari Kshatipurti Bima Yojana",
+    "description": "Insurance scheme for small and medium traders of Haryana in case of loss of property due to fire, theft, or natural calamity.",
+    "benefits": "Compensation coverage from Rs 5 lakh up to Rs 25 lakh based on registration and turnover category. Premium paid by the state government.",
+    "eligibility_text": "Permanent resident of Haryana. Registered small or medium trader under GST and Haryana Trader Welfare Board. Annual turnover not exceeding Rs 1.50 crore.",
+    "source_url": "https://haryanacommerce.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Mukhyamantri Parivar Samridhi Yojana (MMPSY) - Premium Waiver",
+    "description": "Social security premium support for eligible families of Haryana.",
+    "benefits": "Direct payment of premiums for PM-JBY, PM-SBY, and PM-KMY by the state government, plus cash support. Total benefits up to Rs 6,000/year.",
+    "eligibility_text": "Permanent resident of Haryana. Registered under Parivar Pehchan Patra (PPP). Annual family income not exceeding Rs 1.80 lakh. Cultivable landholding under 2 hectares.",
+    "source_url": "https://mmpsy.haryana.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Pashu Kisan Credit Card (PKCC) Scheme",
+    "description": "Credit card scheme for livestock owners in Haryana to buy fodder, feed, and manage livestock expenses.",
+    "benefits": "Credit limit up to Rs 3 lakh. Collateral free up to Rs 1.6 lakh. Interest rate of 4% per annum.",
+    "eligibility_text": "Permanent resident of Haryana. Must own dairy animals (cow, buffalo, sheep, goat, or poultry). No income limit. Bank account and PPP details required.",
+    "source_url": "https://pashudhanharyana.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Solar Water Pumping Scheme",
+    "description": "Subsidized solar water pumping system for farmers in Haryana under PM-KUSUM.",
+    "benefits": "Subsidy of 75% on solar water pumps of 3 HP to 10 HP. Installation of pump and solar panels.",
+    "eligibility_text": "Permanent resident of Haryana. Occupation must be farmer. Must own cultivable land. Must not have utility grid connection for irrigation pump. Water saving commitment required.",
+    "source_url": "https://hareda.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana One-time Settlement Scheme (Kar Samadhan Yojana)",
+    "description": "Settlement of pending tax disputes for businesses in Haryana.",
+    "benefits": "Waiver of 100% penal interest and penalties for pre-GST tax disputes on payment of core tax.",
+    "eligibility_text": "Registered business in Haryana. Pending disputes under VAT, Central Sales Tax, or Luxury Tax. No income limit.",
+    "source_url": "https://haryanatax.gov.in/",
+    "application_link": "https://haryanatax.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Harijan Kalyan Nigam Loans",
+    "description": "Financial assistance loans for self-employment of Scheduled Caste persons in Haryana.",
+    "benefits": "Loan up to Rs 2 lakh with 25% subsidy element and interest rate of 4-6% per annum.",
+    "eligibility_text": "Permanent resident of Haryana. Belongs to SC community. Annual family income not exceeding Rs 1.50 lakh. Age 18 to 55 years.",
+    "source_url": "https://socialjusticehry.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Chief Minister's Scholarship Scheme for Meritorious Girls",
+    "description": "Financial scholarship to encourage higher education among girl students in Haryana.",
+    "benefits": "Scholarship of Rs 1,000 to Rs 3,000 per month depending on degree and course level.",
+    "eligibility_text": "Permanent resident of Haryana. Female student enrolled in a government college or university. Scored 60% or above in qualifying exams. Annual family income not exceeding Rs 2.50 lakh.",
+    "source_url": "https://highereduhry.ac.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Free Tablets for Government School Students (E-Adhigam)",
+    "description": "Distribution of free tablets with pre-loaded learning content and free data to school students in Haryana.",
+    "benefits": "Free Android tablet device with 2 GB free internet data per day for educational purposes.",
+    "eligibility_text": "Permanent resident of Haryana. Student enrolled in a government school in Class 10, 11, or 12. No income limit.",
+    "source_url": "https://schooleducationharyana.gov.in/",
+    "application_link": "https://schooleducationharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Mukhyamantri Vivah Shadi Shagun Yojana (General/OBC BPL)",
+    "description": "Financial assistance for the marriage of daughters of General and OBC BPL families in Haryana.",
+    "benefits": "One-time cash incentive of Rs 31,000 paid to the family of the bride. Rs 28,000 given before marriage, balance on submission of certificate.",
+    "eligibility_text": "Permanent resident of Haryana. Belongs to General or OBC category. Registered under PPP. Must possess BPL ration card. Daughter age 18 years or above.",
+    "source_url": "https://socialjusticehry.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana State Merit Scholarship for College Students",
+    "description": "Merit scholarship for top-performing college students in Haryana.",
+    "benefits": "Rs 3,000 to Rs 5,000 per annum for undergraduate and postgraduate courses.",
+    "eligibility_text": "Permanent resident of Haryana. Pursuing higher education in Haryana government colleges. Position in top merit list of university. No income restriction.",
+    "source_url": "https://highereduhry.ac.in/",
+    "application_link": "https://highereduhry.ac.in/"
+  },
+  {
+    "scheme_name": "Haryana Post-Matric Scholarship for EWS Students",
+    "description": "Scholarship for Economically Weaker Section students pursuing post-matric courses in Haryana.",
+    "benefits": "Full tuition fee waiver and maintenance allowance up to Rs 1,200 per month.",
+    "eligibility_text": "Permanent resident of Haryana. Belongs to EWS category. Studying in recognized post-matric institution. Annual family income not exceeding Rs 2.50 lakh.",
+    "source_url": "https://highereduhry.ac.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Mukhyamantri Bal Seva Yojana (Orphan Support)",
+    "description": "Financial support to children who lost their parents due to COVID-19 or other circumstances in Haryana.",
+    "benefits": "Monthly assistance of Rs 2,500 per child until age 18. Additional Rs 12,000 per year for education. Free schooling.",
+    "eligibility_text": "Orphaned children residing in Haryana state. Loss of both parents or surviving single parent. Age below 18 years.",
+    "source_url": "https://wcdhry.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Nirguni Bhajan Mandli Incentive Scheme",
+    "description": "Grants to traditional music groups promoting folk culture in Haryana.",
+    "benefits": "Annual grant of Rs 10,000 for instruments and uniform purchase. Free travel passes for performances.",
+    "eligibility_text": "Registered Bhajan Mandli (folk group) in Haryana. At least 5 active members. Resident of Haryana. Recommended by District Public Relations Officer.",
+    "source_url": "https://prharyana.gov.in/",
+    "application_link": "https://prharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Assistance to Kashmiri Migrants",
+    "description": "Monthly financial assistance to Kashmiri migrant families registered in Haryana.",
+    "benefits": "Rs 1,250 per member of family, maximum of Rs 5,000 per family per month.",
+    "eligibility_text": "Kashmiri migrant family registered with Haryana Relief Commissioner. Temporary or permanent resident of Haryana. BPL status preferred.",
+    "source_url": "https://socialjusticehry.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Pension Scheme for Press Media Personnel",
+    "description": "Monthly pension for veteran journalists of Haryana.",
+    "benefits": "Monthly pension of Rs 10,000 for life. Free medical facilities under Haryana health scheme.",
+    "eligibility_text": "Permanent resident of Haryana. Age 60 years or above. At least 20 years of active journalism service. Recognized by Directorate of Information and Public Relations.",
+    "source_url": "https://prharyana.gov.in/",
+    "application_link": "https://prharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Financial Assistance to Dwarfs",
+    "description": "Monthly financial aid to dwarf citizens of Haryana state.",
+    "benefits": "Monthly pension of Rs 2,750 directly deposited to bank account.",
+    "eligibility_text": "Permanent resident of Haryana. Height of male must be 3 feet 8 inches or less; female must be 3 feet 3 inches or less. Age 18 years or above. Certified by civil surgeon.",
+    "source_url": "https://socialjusticehry.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Financial Assistance to Eunuchs",
+    "description": "Monthly pension support for third gender/eunuch community in Haryana.",
+    "benefits": "Monthly pension of Rs 2,750 directly deposited to bank account.",
+    "eligibility_text": "Permanent resident of Haryana. Belongs to transgender/eunuch community. Age 18 years or above. Medical certificate required from government medical board.",
+    "source_url": "https://socialjusticehry.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Maternity Benefit Scheme (State Share)",
+    "description": "Financial assistance to pregnant women working in unorganized sector of Haryana.",
+    "benefits": "One-time financial assistance of Rs 5,000 in two installments for nutrition and healthcare.",
+    "eligibility_text": "Permanent resident of Haryana. Pregnant woman. Occupation must be unorganized worker or agriculture labour. Registered under Haryana Labour Welfare Board. Annual family income under Rs 1.80 lakh.",
+    "source_url": "https://hrylabour.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Sports Talent Search Scholarship Scheme",
+    "description": "Scholarships to encourage young sportspersons in government schools of Haryana.",
+    "benefits": "Monthly scholarship of Rs 1,000 to Rs 2,000 based on sports level (District/State/National).",
+    "eligibility_text": "Permanent resident of Haryana. Student in government school. Age 8 to 18 years. Participated in recognized district or state tournaments.",
+    "source_url": "https://haryanasports.gov.in/",
+    "application_link": "https://haryanasports.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Cash Incentive Scheme for National/International Athletes",
+    "description": "Incentive prizes for sportspersons winning medals in national or international events representing Haryana.",
+    "benefits": "Gold medal Olympic: Rs 6 crore. Silver: Rs 4 crore. Bronze: Rs 2.5 crore. National gold: Rs 5 lakh.",
+    "eligibility_text": "Permanent resident of Haryana. Sportsperson representing Haryana or India. No income limit. Certified by Sports Authority of India/Haryana.",
+    "source_url": "https://haryanasports.gov.in/",
+    "application_link": "https://haryanasports.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Seed Treatment Subsidy Scheme",
+    "description": "Providing subsidized seed treatment chemicals to prevent crop diseases in Haryana.",
+    "benefits": "50% subsidy on purchase of recommended fungicides/insecticides for seed treatment.",
+    "eligibility_text": "Permanent resident of Haryana. Occupation must be farmer. Registered on Meri Fasal Mera Byora (MFMB) portal. No income limit.",
+    "source_url": "https://agriharyana.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Promotion of Agro-Forestry on Farm Bunds",
+    "description": "Financial assistance to plant poplars or eucalyptus trees on farm boundaries in Haryana.",
+    "benefits": "Cash subsidy of Rs 10 per surviving tree per year for 3 years.",
+    "eligibility_text": "Permanent resident of Haryana. Occupation must be farmer. Planting trees on agricultural land boundaries. No income restriction.",
+    "source_url": "https://forestsharyana.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Subsidy for Setting up Bio-Gas Plants",
+    "description": "Financial support for constructing domestic bio-gas plants in rural Haryana.",
+    "benefits": "Subsidy of up to Rs 14,000 for general category and Rs 22,000 for SC category per plant.",
+    "eligibility_text": "Permanent resident of Haryana. Resides in a rural area. Must own domestic cattle (cow/buffalo) for dung supply. No income limit.",
+    "source_url": "https://hareda.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Cooperative Bank Self-Employment Loan Scheme",
+    "description": "Concessional loans for self-employment ventures through District Central Cooperative Banks in Haryana.",
+    "benefits": "Loan up to Rs 3 lakh with 3% interest subvention for timely repayment.",
+    "eligibility_text": "Permanent resident of Haryana. Age 18 to 50 years. Registered under PPP. Unemployed. No income limit.",
+    "source_url": "https://harcobank.org.in/",
+    "application_link": "https://harcobank.org.in/"
+  },
+  {
+    "scheme_name": "Haryana Mukhyamantri Shahri Awas Yojana",
+    "description": "Providing affordable residential plots or flats to urban poor families in Haryana.",
+    "benefits": "Allotment of 1-marla plot or 2-room flat at highly subsidized prices. Interest subsidy on housing loan.",
+    "eligibility_text": "Permanent resident of Haryana. Registered under PPP. Resident of urban area. Annual family income not exceeding Rs 1.80 lakh. Must not own a pucca house in Haryana.",
+    "source_url": "https://hbh.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Free Coaching Scheme for Civil Services (Super 100)",
+    "description": "Coaching and boarding facilities for high-performing government school students in Haryana.",
+    "benefits": "Free residential coaching for IIT-JEE/NEET and Civil Services exams. Free hostel and food.",
+    "eligibility_text": "Permanent resident of Haryana. Enrolled in a government school. Scored 80% or above in Class 10. Selected through state talent search exam. No income limit.",
+    "source_url": "https://schooleducationharyana.gov.in/",
+    "application_link": "https://schooleducationharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Financial Assistance for Higher Education of BOCW Workers' Children",
+    "description": "Grants for children of registered construction workers pursuing professional degrees in Haryana.",
+    "benefits": "Annual grant of Rs 20,000 for regular courses, Rs 50,000 for professional courses (MBBS/B.Tech). Additional hostel allowance of Rs 10,000.",
+    "eligibility_text": "Child of worker registered under Haryana Building and Other Construction Workers Welfare Board. Parent must have 1 year registration. Children must be enrolled in recognized institutions.",
+    "source_url": "https://hrylabour.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana BOCW Cycle Subsidy Scheme",
+    "description": "Financial assistance to purchase cycles for registered construction workers in Haryana.",
+    "benefits": "One-time subsidy of Rs 3,000 or actual cost of cycle, whichever is lower.",
+    "eligibility_text": "Worker registered under Haryana BOCW Board for at least 1 year. Occupation construction/building worker. Registered under PPP. No income limit.",
+    "source_url": "https://hrylabour.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana BOCW Tool Purchase Subsidy Scheme",
+    "description": "Providing subsidy to buy professional tools for registered workers in Haryana.",
+    "benefits": "Subsidy of Rs 5,000 to purchase trade tools (masonry, carpentry, electric, plumbing).",
+    "eligibility_text": "Worker registered under Haryana BOCW Welfare Board. At least 1 year registration. Occupation building/construction worker. No income restriction.",
+    "source_url": "https://hrylabour.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana BOCW Medical Assistance for Chronic Diseases",
+    "description": "Financial aid for treatments of chronic illnesses of registered workers and their families in Haryana.",
+    "benefits": "Financial assistance up to Rs 1 lakh for treatments of cancer, kidney failure, heart surgeries.",
+    "eligibility_text": "Registered worker under Haryana BOCW Board with active membership. For self and family dependants. Certified by government hospital medical board.",
+    "source_url": "https://hrylabour.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Divyangjan Scooter Allotment Scheme",
+    "description": "Distribution of motorized tricycles/scooters to physically disabled persons in Haryana.",
+    "benefits": "Free motorized tricycle or retrofit scooter. Training and licensing assistance.",
+    "eligibility_text": "Permanent resident of Haryana. Lower limb disability of 60% or more. Age 18 to 45 years. Annual family income not exceeding Rs 2 lakh. Student or self-employed person.",
+    "source_url": "https://socialjusticehry.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana Apni Beti Apna Dhan (EWS Deposit Scheme)",
+    "description": "Social welfare deposit scheme to promote education and postpone marriage of girls in Haryana.",
+    "benefits": "Rs 21,000 accumulated sum paid to the girl child when she attains 18 years of age and is unmarried.",
+    "eligibility_text": "Permanent resident of Haryana. Belongs to SC/ST or Economically Weaker Section (EWS). Registered under PPP. Girl age below 1 year at registration.",
+    "source_url": "https://wcdhry.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  },
+  {
+    "scheme_name": "Haryana State Transport Free Travel Passes for Students",
+    "description": "Free travel passes on state transport buses for student commuters in Haryana.",
+    "benefits": "Free bus pass for daily commute up to 60 km from residence to educational institution.",
+    "eligibility_text": "Permanent resident of Haryana. Enrolled as a regular student in a recognized school, college, or university in Haryana. No income limit.",
+    "source_url": "https://hartrans.gov.in/",
+    "application_link": "https://saralharyana.gov.in/"
+  }
+]

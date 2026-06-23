@@ -1,0 +1,250 @@
+[
+  {
+    "scheme_name": "PM Kisan Samman Nidhi",
+    "description": "Central Sector Scheme providing income support of Rs 6,000 per year to all farmer families across the country in three equal installments.",
+    "benefits": "Rs 6,000 per year (Rs 2,000 every 4 months) transferred directly to bank account of eligible farmer families.",
+    "eligibility_text": "All landholding farmer families with cultivable land. Must reside in rural areas. Income from farming must be primary source. Excludes institutional landholders, constitutional post holders, officers earning over Rs 10,000/month, income taxpayers, doctors, engineers, lawyers, CAs.",
+    "source_url": "https://pmkisan.gov.in/",
+    "application_link": "https://pmkisan.gov.in/RegistrationFormNew.aspx"
+  },
+  {
+    "scheme_name": "PM Fasal Bima Yojana (PMFBY)",
+    "description": "Pradhan Mantri Fasal Bima Yojana provides financial support to farmers suffering crop loss/damage due to unforeseen events like natural calamities, pests, and diseases.",
+    "benefits": "Full sum insured for crop losses. Premium rates: 2% for Kharif, 1.5% for Rabi, 5% for commercial crops. Balance premium paid by government. Covers post-harvest losses for up to 14 days.",
+    "eligibility_text": "All farmers including sharecroppers and tenant farmers growing notified crops in notified areas. Compulsory for loanee farmers with KCC. Voluntary for non-loanee farmers. No income restriction.",
+    "source_url": "https://pmfby.gov.in/",
+    "application_link": "https://pmfby.gov.in/"
+  },
+  {
+    "scheme_name": "National Rural Employment Guarantee (MGNREGS)",
+    "description": "Mahatma Gandhi NREGS provides 100 days of guaranteed wage employment per year to every rural household whose adult members volunteer for unskilled manual work.",
+    "benefits": "100 days of guaranteed wage employment per household per year. Wage paid as per state-notified MGNREGS wage rate. Unemployment allowance if work not provided within 15 days. Work within 5 km of residence.",
+    "eligibility_text": "Any adult member of a rural household willing to do unskilled manual work. Must reside in rural area. No income restriction. Apply at local gram panchayat for Job Card.",
+    "source_url": "https://nrega.nic.in/",
+    "application_link": "https://nrega.nic.in/netnrega/home.aspx"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Kisan Credit Card (KCC)",
+    "description": "Provides farmers with timely credit support for their cultivation needs, post-harvest expenses, and allied activities through a flexible credit system.",
+    "benefits": "Short-term credit limit based on land holding and crop pattern. Interest rate 7% per annum (4% with prompt repayment subsidy). Credit limit valid for 5 years. Accidental insurance coverage of Rs 50,000.",
+    "eligibility_text": "All farmers — individual or joint borrowers who are owner cultivators, tenant farmers, oral lessees, and sharecroppers. SHGs and JLGs of farmers are also eligible. No strict income limit.",
+    "source_url": "https://agricoop.nic.in/",
+    "application_link": "https://www.pmkisan.gov.in/"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Awas Yojana - Gramin (PMAY-G)",
+    "description": "PMAY-G aims to provide pucca houses with basic amenities to all houseless families and families in kutcha or dilapidated houses in rural areas.",
+    "benefits": "Financial assistance of Rs 1.20 lakh (plains) or Rs 1.30 lakh (hilly areas) per unit. Additional Rs 12,000 for toilet under SBM-G. 90 person-days of unskilled labour under MGNREGS.",
+    "eligibility_text": "Houseless families and those in zero/one/two-room kutcha houses in rural areas. Priority to SC/ST, bonded labourers, minorities, widows, disabled, families with no adult male (16-59 yrs). Annual income not exceeding Rs 3 lakh.",
+    "source_url": "https://pmayg.nic.in/",
+    "application_link": "https://pmayg.nic.in/"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Awas Yojana - Urban (PMAY-U)",
+    "description": "Provides affordable housing to urban poor including EWS, LIG and MIG categories through interest subsidy on home loans.",
+    "benefits": "Interest subsidy of 6.5% for EWS/LIG on loan up to Rs 6 lakh. 4% for MIG-I on loan up to Rs 9 lakh. 3% for MIG-II on loan up to Rs 12 lakh. Maximum subsidy amount varies by category.",
+    "eligibility_text": "EWS: Annual income up to Rs 3 lakh. LIG: Rs 3-6 lakh. MIG-I: Rs 6-12 lakh. MIG-II: Rs 12-18 lakh. Applicant or any family member should not own a pucca house anywhere in India. First-time homebuyers.",
+    "source_url": "https://pmaymis.gov.in/",
+    "application_link": "https://pmaymis.gov.in/"
+  },
+  {
+    "scheme_name": "Ayushman Bharat PM-JAY",
+    "description": "World's largest health assurance scheme providing health cover of Rs 5 lakh per family per year for secondary and tertiary care hospitalization.",
+    "benefits": "Health cover of Rs 5 lakh per family per year. Cashless and paperless access at empanelled public and private hospitals. Covers 1,929 medical procedures including pre- and post-hospitalization.",
+    "eligibility_text": "Families identified in SECC 2011 data. Deprived rural families and urban worker occupational categories. No family size or age restriction. Annual income must not exceed Rs 2.5 lakh.",
+    "source_url": "https://pmjay.gov.in/",
+    "application_link": "https://mera.pmjay.gov.in/search/login"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Jan Arogya Yojana - State Expansion (AB-PMJAY)",
+    "description": "Extended health coverage to additional families not covered under SECC 2011, under state-government top-up arrangements.",
+    "benefits": "Rs 5 lakh health cover per year. Cashless treatment at empanelled hospitals. Covers pre-existing diseases from day one. No cap on family size.",
+    "eligibility_text": "Varies by state. Generally targets families with annual income below Rs 5 lakh. Includes migrant workers, construction workers, street vendors, domestic workers, ASHA workers, mid-day meal workers.",
+    "source_url": "https://pmjay.gov.in/",
+    "application_link": "https://mera.pmjay.gov.in/"
+  },
+  {
+    "scheme_name": "Post Matric Scholarship for SC Students",
+    "description": "Central Government scholarship to support Scheduled Caste students in post-matriculation or post-secondary education.",
+    "benefits": "Maintenance allowance Rs 380-1,200 per month by course and accommodation type. Reimbursement of compulsory non-refundable fees. Study tour and thesis charges for research scholars.",
+    "eligibility_text": "Must belong to Scheduled Caste (SC). Annual parental income not exceeding Rs 2.5 lakh. Studying at post-matriculation level in government-recognized institution. Age 18-35 years.",
+    "source_url": "https://scholarships.gov.in/",
+    "application_link": "https://scholarships.gov.in/fresh/loginPage"
+  },
+  {
+    "scheme_name": "National Scholarship Portal - OBC Pre-Matric Scholarship",
+    "description": "Scholarship for Other Backward Class students studying at Class 1 to 10 in government and government-aided schools.",
+    "benefits": "Day scholars: Rs 100/month (Cl 1-5), Rs 150/month (Cl 6-8), Rs 200/month (Cl 9-10). Hostellers: Rs 500/month. Ad-hoc grant up to Rs 1,000 for books and stationery.",
+    "eligibility_text": "Must belong to OBC category. Annual family income not exceeding Rs 1 lakh. Studying in Class 1 to 10 in a government or government-aided school. Age not exceeding 15 years.",
+    "source_url": "https://scholarships.gov.in/",
+    "application_link": "https://scholarships.gov.in/fresh/loginPage"
+  },
+  {
+    "scheme_name": "PM Scholarship Scheme for Central Armed Police Forces & Railway Protection Force",
+    "description": "Scholarship for wards and widows of CAPF and RPF personnel for professional degree courses.",
+    "benefits": "Rs 3,000 per month for boys and Rs 3,500 per month for girls for 1st to 5th year of professional degree courses. Annual scholarship for 5 years.",
+    "eligibility_text": "Ward or widow of CAPF (CRPF, BSF, CISF, ITBP, SSB, NIA, NSG, Assam Rifles) or RPF personnel. Minimum 60% marks in qualifying exam. Enrolled in recognized professional degree program.",
+    "source_url": "https://scholarships.gov.in/",
+    "application_link": "https://scholarships.gov.in/"
+  },
+  {
+    "scheme_name": "Minority Scholarship - Maulana Azad National Fellowship",
+    "description": "Fellowship for minority community students pursuing M.Phil and PhD in UGC-recognized universities.",
+    "benefits": "JRF: Rs 31,000/month for first 2 years. SRF: Rs 35,000/month thereafter. Contingency: Rs 10,000/year (humanities) or Rs 12,000/year (sciences). HRA as per norms.",
+    "eligibility_text": "Must belong to minority community (Muslim, Christian, Sikh, Buddhist, Jain, or Parsi). Enrolled in M.Phil/PhD at UGC-recognized institution. Annual family income not exceeding Rs 6 lakh. Age limit 30 years JRF.",
+    "source_url": "https://www.minorityaffairs.gov.in/",
+    "application_link": "https://scholarships.gov.in/"
+  },
+  {
+    "scheme_name": "Widow Pension - Indira Gandhi National Widow Pension (IGNWPS)",
+    "description": "Social security pension for widows from BPL households under the National Social Assistance Programme (NSAP).",
+    "benefits": "Monthly pension Rs 300 for widows aged 40-79 years. Rs 500 per month for widows aged 80+ years. States may add supplementary amounts from their own funds.",
+    "eligibility_text": "Must be a widow. Age between 40 and 79 years. Must belong to BPL household. Permanent resident of the state. No specific caste restriction.",
+    "source_url": "https://nsap.nic.in/",
+    "application_link": "https://nsap.nic.in/"
+  },
+  {
+    "scheme_name": "Indira Gandhi National Old Age Pension Scheme (IGNOAPS)",
+    "description": "Monthly pension to senior citizens from BPL households under the National Social Assistance Programme.",
+    "benefits": "Rs 200/month for persons aged 60-79 years. Rs 500/month for those aged 80 years and above. States may provide additional top-up amounts.",
+    "eligibility_text": "Age 60 years or above. Must belong to BPL household as per the criteria of the state government. Permanent resident of the state. No specific income limit beyond BPL status.",
+    "source_url": "https://nsap.nic.in/",
+    "application_link": "https://nsap.nic.in/"
+  },
+  {
+    "scheme_name": "National Handicapped Finance & Development Corporation Schemes (NHFDC)",
+    "description": "Concessional loan schemes for persons with disabilities to support self-employment, education, and entrepreneurship.",
+    "benefits": "Loans up to Rs 30 lakh at 5% (women) or 6% (men) interest. Repayment up to 10 years with 6-12 month moratorium. Covers small businesses, agriculture, education, and housing.",
+    "eligibility_text": "Person with benchmark disability of 40% or more. Age 18-55 years. Annual family income not exceeding Rs 3 lakh (General/OBC) or Rs 3.5 lakh (SC/ST). Indian citizen.",
+    "source_url": "https://www.nhfdc.nic.in/",
+    "application_link": "https://www.nhfdc.nic.in/loanschemes.html"
+  },
+  {
+    "scheme_name": "Ex-Servicemen Contributory Health Scheme (ECHS)",
+    "description": "Comprehensive medical care to Ex-Servicemen and their dependants through ECHS Polyclinics and empanelled hospitals.",
+    "benefits": "Outpatient treatment at ECHS polyclinics. Specialist and hospitalization at empanelled hospitals. Cashless treatment for ESM and dependants. Covers all diseases including chronic ailments.",
+    "eligibility_text": "Ex-Serviceman who served in Indian Army, Navy, or Air Force. Must be discharged/retired (not dismissed). Includes widows of Ex-Servicemen. Dependant family members covered. One-time subscription required.",
+    "source_url": "https://echs.gov.in/",
+    "application_link": "https://echs.gov.in/en/online-enrolment.htm"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "description": "Micro-finance loans to non-corporate, non-farm small/micro enterprises through MUDRA Bank.",
+    "benefits": "Shishu: up to Rs 50,000. Kishore: Rs 50,001-5 lakh. Tarun: Rs 5,00,001-10 lakh. No collateral required. MUDRA Card for working capital. No processing fee for Shishu loans.",
+    "eligibility_text": "Any Indian citizen with a business plan for non-farm income-generating activity. Small manufacturers, shopkeepers, fruit/vegetable vendors, artisans, service sector. No minimum age or strict income limit.",
+    "source_url": "https://www.mudra.org.in/",
+    "application_link": "https://www.mudra.org.in/"
+  },
+  {
+    "scheme_name": "PM SVANidhi - Street Vendor AtmaNirbhar Nidhi",
+    "description": "Micro-credit scheme to help street vendors resume livelihoods affected by COVID-19 lockdown.",
+    "benefits": "Initial loan of Rs 10,000. Enhanced to Rs 20,000 on timely repayment. Further Rs 50,000 on 2nd repayment. 7% interest subsidy on timely repayment. Digital reward up to Rs 1,200/year.",
+    "eligibility_text": "Street vendors vending in urban areas as on or before March 24, 2020. Must have vending certificate or ULB letter of recommendation. Occupation must be street vendor. Urban area resident.",
+    "source_url": "https://pmsvanidhi.mohua.gov.in/",
+    "application_link": "https://pmsvanidhi.mohua.gov.in/Schemes/ApplyLoan"
+  },
+  {
+    "scheme_name": "Startup India Seed Fund Scheme",
+    "description": "Provides financial assistance to startups for proof of concept, prototype development, product trials, market entry, and commercialization.",
+    "benefits": "Seed funding up to Rs 20 lakh as grant for validation and prototype development. Up to Rs 50 lakh as convertible debentures or debt for commercialization. Disbursed through DPIIT-recognized incubators.",
+    "eligibility_text": "Startup recognized by DPIIT. Incorporated not more than 2 years ago at time of application. Annual turnover not exceeding Rs 100 crore. Must not have received more than Rs 10 lakh as a DPIIT seed fund.",
+    "source_url": "https://seedfund.startupindia.gov.in/",
+    "application_link": "https://seedfund.startupindia.gov.in/"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "description": "Term life insurance scheme providing life cover at a very low premium for death due to any reason.",
+    "benefits": "Life cover of Rs 2 lakh on death from any cause. Annual premium Rs 436 only. Auto-debit from savings account. Renewable every year. Cover from June 1 to May 31.",
+    "eligibility_text": "Age 18-50 years. Must have savings bank or post office account. Auto-debit consent required. No income restriction. Both rural and urban eligible. Must give health declaration.",
+    "source_url": "https://jansuraksha.gov.in/",
+    "application_link": "https://jansuraksha.gov.in/Forms-PMJJBY.aspx"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+    "description": "Accident insurance scheme covering accidental death and disability at extremely low premium.",
+    "benefits": "Rs 2 lakh for accidental death or total permanent disability. Rs 1 lakh for partial permanent disability. Annual premium just Rs 20. Auto-debit from savings account.",
+    "eligibility_text": "Age 18-70 years. Must have savings bank account. Auto-debit facility needed. No income restriction. Both rural and urban residents eligible.",
+    "source_url": "https://jansuraksha.gov.in/",
+    "application_link": "https://jansuraksha.gov.in/Forms-PMSBY.aspx"
+  },
+  {
+    "scheme_name": "Atal Pension Yojana (APY)",
+    "description": "Pension scheme focused on unorganized sector workers, providing fixed minimum pension after age 60.",
+    "benefits": "Fixed pension of Rs 1,000-5,000 per month after age 60 based on contribution. Spouse gets same pension after subscriber death. Nominee gets accumulated corpus on spouse death.",
+    "eligibility_text": "Indian citizen aged 18-40 years. Must have savings bank/post office account. Must not be an income tax payer. Targeted at unorganized sector workers. Both rural and urban eligible.",
+    "source_url": "https://www.npscra.nsdl.co.in/scheme-details.php",
+    "application_link": "https://enps.nsdl.com/eNPS/NationalPensionSystem.html"
+  },
+  {
+    "scheme_name": "PM Shram Yogi Maan-dhan (PM-SYM)",
+    "description": "Voluntary and contributory pension scheme for unorganized sector workers aged 18-40 years providing assured monthly pension of Rs 3,000 after age 60.",
+    "benefits": "Assured monthly pension of Rs 3,000 after 60 years. Government matches the monthly contribution of the subscriber. Family pension of 50% (Rs 1,500) to spouse on death of pensioner.",
+    "eligibility_text": "Age 18-40 years. Unorganised sector worker. Monthly income not exceeding Rs 15,000. Not covered under EPFO, ESIC, or NPS. Not an income tax assessee.",
+    "source_url": "https://maandhan.in/",
+    "application_link": "https://maandhan.in/"
+  },
+  {
+    "scheme_name": "Sukanya Samriddhi Yojana (SSY)",
+    "description": "Small savings scheme for girl child under Beti Bachao Beti Padhao with high interest and tax benefits.",
+    "benefits": "Interest rate 8.2% per annum (Q1 2024-25). Tax exemption under Section 80C. Maturity amount fully tax-free. Matures after 21 years or at girl's marriage after 18. Partial withdrawal after 18 for education.",
+    "eligibility_text": "Account opened by natural/legal guardian for girl child below 10 years. Maximum two accounts per family (one per girl). No income or caste restriction. Both rural and urban eligible.",
+    "source_url": "https://www.indiapost.gov.in/",
+    "application_link": "https://www.indiapost.gov.in/"
+  },
+  {
+    "scheme_name": "Ujjwala Yojana - Free LPG Connection for BPL Women (PMUY)",
+    "description": "Provides clean cooking fuel (LPG) to women from BPL households who previously used firewood or cow dung cakes.",
+    "benefits": "Free LPG connection including security deposit, regulator, and first-fill. EMI facility for stove and first refill. Connection in name of adult woman of BPL household.",
+    "eligibility_text": "Adult woman (18+ years) from BPL household. No existing LPG connection in household. Permanent resident of India. Priority to SC/ST, PMAY-G beneficiaries, Antyodaya Anna Yojana beneficiaries.",
+    "source_url": "https://www.pmuy.gov.in/",
+    "application_link": "https://www.pmuy.gov.in/ujjwala2.html"
+  },
+  {
+    "scheme_name": "Beti Bachao Beti Padhao (BBBP)",
+    "description": "Multi-sectoral scheme to prevent gender-biased sex selective elimination, ensure survival and protection, and promote education of girl child.",
+    "benefits": "Educational incentives for girl child. Direct cash transfer in select states. Convergence with SSY for financial benefits. Awareness campaigns and community mobilization support.",
+    "eligibility_text": "Families with girl children. Focus on districts with low child sex ratio. No income restriction. All categories and communities covered.",
+    "source_url": "https://wcd.nic.in/bbbp-schemes",
+    "application_link": "https://wcd.nic.in/"
+  },
+  {
+    "scheme_name": "PM Garib Kalyan Anna Yojana (PMGKAY)",
+    "description": "Free food grain scheme under NFSA providing 5 kg food grains per person per month to over 80 crore beneficiaries.",
+    "benefits": "5 kg of wheat or rice free per person per month. Covers over 80 crore beneficiaries. Available at ration shops across India. Now merged with NFSA as a permanent scheme.",
+    "eligibility_text": "NFSA beneficiaries: Priority Households (PHH) and Antyodaya Anna Yojana (AAY) card holders. Annual family income very low (BPL/extremely poor). State-wise identification of beneficiaries.",
+    "source_url": "https://dfpd.gov.in/",
+    "application_link": "https://dfpd.gov.in/"
+  },
+  {
+    "scheme_name": "Punjab Ashirwad Scheme",
+    "description": "Financial assistance by Punjab Government for SC girls at time of marriage to help families avoid debt.",
+    "benefits": "One-time financial assistance of Rs 51,000 at marriage. Amount transferred directly to bank account of the girl or her guardian.",
+    "eligibility_text": "Scheduled Caste (SC) applicant. Permanent resident of Punjab. Annual family income not exceeding Rs 32,790. Girl must be 18 years or above at time of marriage.",
+    "source_url": "https://scd.punjab.gov.in/",
+    "application_link": "https://edistrict.punjabgovt.gov.in/"
+  },
+  {
+    "scheme_name": "Indira Gandhi National Disability Pension Scheme (IGNDPS)",
+    "description": "Monthly pension to persons with severe/multiple disabilities from BPL households under NSAP.",
+    "benefits": "Monthly pension of Rs 300 for persons aged 18-79 with severe disability (80%+). Rs 500/month for those aged 80+. States may add supplementary amounts.",
+    "eligibility_text": "Person with severe or multiple disabilities (80% or more). Age 18-79 years. BPL household. Permanent state resident. No specific category restriction.",
+    "source_url": "https://nsap.nic.in/",
+    "application_link": "https://nsap.nic.in/"
+  },
+  {
+    "scheme_name": "Assistance to Disabled Persons for Purchase of Aids & Appliances (ADIP)",
+    "description": "Government scheme to assist persons with disabilities in procuring durable, sophisticated, scientifically manufactured aids and appliances.",
+    "benefits": "Free or subsidized assistive devices such as wheelchair, hearing aids, artificial limbs, tricycles, braille kits, Daisy players. Devices worth up to Rs 10,000 for income up to Rs 15,000/month.",
+    "eligibility_text": "Indian citizen with disability certified by government medical authority. Annual income not exceeding Rs 2 lakh. Devices provided once every 3 years. Priority to children, women, and SC/ST.",
+    "source_url": "https://disabilityaffairs.gov.in/",
+    "application_link": "https://disabilityaffairs.gov.in/"
+  },
+  {
+    "scheme_name": "PM Kaushal Vikas Yojana (PMKVY)",
+    "description": "Flagship skill development scheme enabling youth to take up industry-relevant skill training for better livelihood opportunities.",
+    "benefits": "Free short-term skill training (150-300 hours). Certification recognized by industry. Monetary reward after successful assessment and certification. Placement assistance post-training.",
+    "eligibility_text": "Indian national aged 15-45 years. Unemployed or school/college dropout. Must have basic literacy. No income restriction. Both rural and urban eligible. SC/ST and minority candidates preferred for reserved seats.",
+    "source_url": "https://www.pmkvyofficial.org/",
+    "application_link": "https://www.pmkvyofficial.org/"
+  }
+]
