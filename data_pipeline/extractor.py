@@ -125,104 +125,80 @@ class EligibilityExtractor:
     # ── Rule-based fallback (no API key needed) ───────────────────────────────
 
     @staticmethod
-    def _rule_based_extract(scheme_name: str, text: str) -> Dict[str, Any]:
-        """
-        Fast, offline extraction using regex-like keyword matching.
-        Not as accurate as LLM but functional without API key.
-        """
-        result = EligibilityExtractor._empty_eligibility()
-        text_lower = text.lower()
+    def _rule_based_extract(eligibility_text: str, scheme_name: str) -> dict:
+        text = eligibility_text.lower()
+        name = scheme_name.lower()
+        result = {
+            "min_age": None, "max_age": None, "income_limit": None,
+            "occupation": ["All"], "category": ["All"],
+            "residence_type": "Both", "gender": "Any",
+            "disability_required": False, "minority_required": False,
+            "widow_required": False, "ex_serviceman_required": False,
+            "education": None,
+        }
 
         # Age
         import re
-        age_min = re.search(r'(?:age|aged)\s+(?:must be\s+)?(\d+)\s*(?:years?|yr)?(?:\s*or\s*above|\s*and\s*above|\s*minimum)?', text_lower)
-        age_max = re.search(r'(?:age|aged)\s+(?:must\s+not\s+exceed|below|under|upto|up to)\s+(\d+)', text_lower)
-        age_between = re.search(r'between\s+(\d+)\s+and\s+(\d+)\s+years?', text_lower)
-
-        if age_between:
-            result["min_age"] = int(age_between.group(1))
-            result["max_age"] = int(age_between.group(2))
-        else:
-            if age_min:
-                result["min_age"] = int(age_min.group(1))
-            if age_max:
-                result["max_age"] = int(age_max.group(1))
+        age_match = re.search(r'age[d]?\s+(\d+)[–\-to ]+(\d+)', text)
+        if age_match:
+            result["min_age"] = int(age_match.group(1))
+            result["max_age"] = int(age_match.group(2))
+        min_age_match = re.search(r'(?:minimum|min\.?)\s+age\s+(?:of\s+)?(\d+)', text)
+        if min_age_match:
+            result["min_age"] = int(min_age_match.group(1))
 
         # Income
-        income_patterns = [
-            r'₹\s*(\d+(?:\.\d+)?)\s*lakh',
-            r'rs\.?\s*(\d+(?:\.\d+)?)\s*lakh',
-            r'rupees?\s*(\d+(?:\.\d+)?)\s*lakh',
-        ]
-        for pat in income_patterns:
-            m = re.search(pat, text_lower)
-            if m:
-                result["income_limit"] = int(float(m.group(1)) * 100000)
-                break
+        income_match = re.search(r'(?:income|earning)[^\d]*(?:rs\.?|₹)\s*([\d,]+)', text)
+        if income_match:
+            try:
+                val = income_match.group(1).replace(",", "")
+                if val:
+                    result["income_limit"] = int(val)
+            except ValueError:
+                pass
+        lakh_match = re.search(r'([\d.]+)\s+lakh', text)
+        if lakh_match:
+            try:
+                result["income_limit"] = int(float(lakh_match.group(1)) * 100000)
+            except ValueError:
+                pass
+
+        # Occupation keywords
+        if any(w in text or w in name for w in ["farmer", "kisan", "agriculture", "cultivator", "sharecropper"]):
+            result["occupation"] = ["Farmer"]
+        elif any(w in text or w in name for w in ["student", "scholar", "pupil", "studying"]):
+            result["occupation"] = ["Student"]
+        elif any(w in text or w in name for w in ["street vendor", "vendor", "hawker", "vending"]):
+            result["occupation"] = ["Street Vendor"]
+        elif any(w in text or w in name for w in ["construction worker", "bocw", "building worker", "labourer", "labor"]):
+            result["occupation"] = ["Labourer"]
+        elif any(w in text or w in name for w in ["entrepreneur", "startup", "business", "self-employ", "msme"]):
+            result["occupation"] = ["Business Owner", "Self-Employed"]
 
         # Category
         cats = []
-        if "scheduled caste" in text_lower or " sc " in text_lower or "(sc)" in text_lower:
-            cats.append("SC")
-        if "scheduled tribe" in text_lower or " st " in text_lower or "(st)" in text_lower:
-            cats.append("ST")
-        if "other backward" in text_lower or " obc " in text_lower:
-            cats.append("OBC")
-        if "minority" in text_lower:
-            cats.append("Minority")
-            result["minority_required"] = True
-        if "economically weaker" in text_lower or " ews " in text_lower:
-            cats.append("EWS")
-        result["category"] = cats if cats else ["All"]
+        if "scheduled caste" in text or " sc " in text or "sc/" in text: cats.append("SC")
+        if "scheduled tribe" in text or " st " in text or "st/" in text: cats.append("ST")
+        if "other backward" in text or " obc " in text: cats.append("OBC")
+        if "economically weaker" in text or " ews " in text: cats.append("EWS")
+        if "minority" in text: cats.append("Minority")
+        if cats: result["category"] = cats
 
-        # Occupation
-        occs = []
-        occ_map = {
-            "farmer": "Farmer",
-            "agricultur": "Farmer",
-            "street vendor": "Street Vendor",
-            "hawker": "Street Vendor",
-            "student": "Student",
-            "business": "Business Owner",
-            "entrepreneur": "Business Owner",
-            "self-employ": "Self-Employed",
-            "labourer": "Labourer",
-            "labor": "Labourer",
-        }
-        for kw, occ in occ_map.items():
-            if kw in text_lower and occ not in occs:
-                occs.append(occ)
-        result["occupation"] = occs if occs else ["All"]
+        # Special flags
+        if "widow" in text or "widower" in text: result["widow_required"] = True
+        if "disab" in text or "divyang" in text or "handicap" in text: result["disability_required"] = True
+        if "ex-serviceman" in text or "ex serviceman" in text or "armed forces" in text: result["ex_serviceman_required"] = True
+        if "minority" in text: result["minority_required"] = True
 
-        # State
-        states = [
-            "Punjab", "Haryana", "Delhi", "Maharashtra", "Gujarat", "Rajasthan",
-            "Uttar Pradesh", "Bihar", "West Bengal", "Tamil Nadu", "Karnataka",
-            "Andhra Pradesh", "Telangana", "Madhya Pradesh", "Kerala",
-        ]
-        found_states = [s for s in states if s.lower() in text_lower]
-        result["state"] = found_states if found_states else ["All"]
-
-        # Special conditions
-        if "widow" in text_lower:
-            result["widow_required"] = True
-        if "ex-serviceman" in text_lower or "ex serviceman" in text_lower or "exserviceman" in text_lower:
-            result["ex_serviceman_required"] = True
-        if "disab" in text_lower or "handicap" in text_lower:
-            result["disability_required"] = True
+        # Gender
+        if "woman" in text or "women" in text or "girl" in text or "female" in text or "widow" in text or "maternity" in text:
+            result["gender"] = "Female"
+        elif "male" in text and "female" not in text:
+            result["gender"] = "Male"
 
         # Residence
-        if "rural" in text_lower and "urban" not in text_lower:
-            result["residence_type"] = "Rural"
-        elif "urban" in text_lower and "rural" not in text_lower:
-            result["residence_type"] = "Urban"
-
-        # Gender: word boundaries avoid false matches such as "government"
-        # and "management". Deliberately avoid bare "man"/"men".
-        if re.search(r"\b(woman|women|girl|female)\b", text_lower):
-            result["gender"] = "Female"
-        elif re.search(r"\b(male|ex-serviceman|serviceman)\b", text_lower):
-            result["gender"] = "Male"
+        if "rural" in text and "urban" not in text: result["residence_type"] = "Rural"
+        elif "urban" in text and "rural" not in text: result["residence_type"] = "Urban"
 
         return result
 
@@ -269,13 +245,19 @@ class EligibilityExtractor:
         if not eligibility_text.strip():
             logger.warning(f"Empty eligibility text for: {scheme_name}")
             extracted = self._empty_eligibility()
-        elif self.chain:
+            return {**scheme, **extracted}
+
+        # Run rule-based extraction first
+        extracted = self._rule_based_extract(eligibility_text, scheme_name)
+
+        # Call Gemini API only if GOOGLE_API_KEY is set AND rules couldn't resolve specific eligibility
+        api_key = os.getenv("GOOGLE_API_KEY")
+        has_api_key = api_key and api_key != "your_gemini_api_key_here"
+
+        if has_api_key and self.chain and extracted.get("occupation") == ["All"] and extracted.get("category") == ["All"]:
             logger.info(f"LLM extracting: {scheme_name}")
             extracted = self._llm_extract(scheme_name, eligibility_text)
             time.sleep(1)  # Rate limiting
-        else:
-            logger.info(f"Rule-based extracting: {scheme_name}")
-            extracted = self._rule_based_extract(scheme_name, eligibility_text)
 
         return {**scheme, **extracted}
 

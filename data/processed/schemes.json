@@ -9,25 +9,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 300000,
-    "category": [
+    "state": [
       "All"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
+    "category": [
       "All"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Rural",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Rural",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "PM Fasal Bima Yojana (PMFBY)",
@@ -39,25 +36,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
+    "state": [
       "All"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
+    "category": [
       "All"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Pradhan Mantri Kisan Credit Card (KCC)",
@@ -67,27 +61,24 @@
     "source_url": "https://agricoop.nic.in/",
     "application_link": "https://www.pmkisan.gov.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 75,
     "income_limit": null,
-    "category": [
+    "state": [
       "All"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
+    "category": [
       "All"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Mahatma Gandhi NREGS (MGNREGS)",
@@ -99,26 +90,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "Farmer",
-      "Labourer"
-    ],
-    "education": null,
     "state": [
       "All"
     ],
-    "district": [
+    "occupation": [
+      "Farmer"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Rural",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Rural",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "PM Annadata Aay SanrakshHan Abhiyan (PM-AASHA)",
@@ -130,26 +117,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Paramparagat Krishi Vikas Yojana (PKVY)",
@@ -161,26 +144,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "National Bee Keeping & Honey Mission (NBHM)",
@@ -192,26 +171,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Micro Irrigation Fund (MIF) — Drip/Sprinkler Subsidy",
@@ -223,26 +198,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Pradhan Mantri Awas Yojana - Gramin (PMAY-G)",
@@ -252,27 +223,24 @@
     "source_url": "https://pmayg.nic.in/",
     "application_link": "https://pmayg.nic.in/",
     "min_age": 16,
-    "max_age": null,
+    "max_age": 59,
     "income_limit": 300000,
-    "category": [
+    "state": [
       "All"
     ],
     "occupation": [
       "Labourer"
     ],
-    "education": null,
-    "state": [
-      "All"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Rural",
+    "gender": "Female",
     "disability_required": true,
     "minority_required": false,
     "widow_required": true,
     "ex_serviceman_required": false,
-    "residence_type": "Rural",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Pradhan Mantri Awas Yojana - Urban (PMAY-U)",
@@ -284,25 +252,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 300000,
-    "category": [
+    "state": [
       "All"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
+    "category": [
       "All"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Urban",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Urban",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Ayushman Bharat PM-JAY",
@@ -314,26 +279,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 250000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
@@ -342,29 +303,25 @@
     "eligibility_text": "All pregnant and lactating women for first live birth. Age 19 years and above. Both rural and urban eligible. No income restriction. All categories covered. Haryana and Punjab women fully covered.",
     "source_url": "https://pmmvy.wcd.gov.in/",
     "application_link": "https://pmmvy.wcd.gov.in/",
-    "min_age": 19,
+    "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Janani Suraksha Yojana (JSY)",
@@ -373,29 +330,25 @@
     "eligibility_text": "Pregnant women from BPL households. Low-performing states get higher benefits. Haryana and Punjab classified as High Performing States (HPS). Women aged 19 and above. Both rural and urban eligible.",
     "source_url": "https://nhm.gov.in/",
     "application_link": "https://nhm.gov.in/",
-    "min_age": 19,
+    "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Rashtriya Swasthya Bima Yojana (RSBY)",
@@ -407,26 +360,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Post Matric Scholarship for SC Students (Central)",
@@ -436,28 +385,24 @@
     "source_url": "https://scholarships.gov.in/",
     "application_link": "https://scholarships.gov.in/fresh/loginPage",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 35,
     "income_limit": 250000,
-    "category": [
-      "SC"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Student"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "NSP OBC Pre-Matric Scholarship (Central)",
@@ -467,28 +412,24 @@
     "source_url": "https://scholarships.gov.in/",
     "application_link": "https://scholarships.gov.in/fresh/loginPage",
     "min_age": null,
-    "max_age": 15,
+    "max_age": null,
     "income_limit": 100000,
+    "state": [
+      "Haryana"
+    ],
+    "occupation": [
+      "Student"
+    ],
     "category": [
       "OBC"
     ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "NSP OBC Post Matric Scholarship (Central)",
@@ -498,28 +439,24 @@
     "source_url": "https://scholarships.gov.in/",
     "application_link": "https://scholarships.gov.in/fresh/loginPage",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 30,
     "income_limit": 100000,
-    "category": [
-      "OBC"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Student"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
+    "category": [
+      "OBC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Maulana Azad National Fellowship for Minorities",
@@ -529,28 +466,24 @@
     "source_url": "https://www.minorityaffairs.gov.in/",
     "application_link": "https://scholarships.gov.in/",
     "min_age": null,
-    "max_age": 30,
+    "max_age": null,
     "income_limit": 600000,
-    "category": [
-      "Minority"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Student"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
+    "category": [
+      "Minority"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": true,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "PM Scholarship for Central Armed Police Forces (CAPF)",
@@ -562,26 +495,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
+    "state": [
+      "Haryana"
+    ],
+    "occupation": [
+      "Student"
+    ],
     "category": [
       "All"
     ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": true,
     "ex_serviceman_required": true,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "National Means-cum-Merit Scholarship (NMMS)",
@@ -593,26 +522,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 150000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Student"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Indira Gandhi National Old Age Pension (IGNOAPS)",
@@ -621,29 +546,25 @@
     "eligibility_text": "Age 60 years or above. BPL household. Permanent resident of state. No income restriction beyond BPL status. Both Haryana and Punjab covered.",
     "source_url": "https://nsap.nic.in/",
     "application_link": "https://nsap.nic.in/",
-    "min_age": 60,
+    "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Indira Gandhi National Widow Pension (IGNWPS)",
@@ -653,28 +574,24 @@
     "source_url": "https://nsap.nic.in/",
     "application_link": "https://nsap.nic.in/",
     "min_age": 40,
-    "max_age": null,
+    "max_age": 79,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": true,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Indira Gandhi National Disability Pension (IGNDPS)",
@@ -683,29 +600,25 @@
     "eligibility_text": "Person with severe or multiple disability of 80% or more. Age 18 years and above. BPL household. Permanent resident of state. Both Haryana and Punjab eligible.",
     "source_url": "https://nsap.nic.in/",
     "application_link": "https://nsap.nic.in/",
-    "min_age": 18,
+    "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": true,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "NHFDC Concessional Loans for Disabled Persons",
@@ -715,28 +628,24 @@
     "source_url": "https://www.nhfdc.nic.in/",
     "application_link": "https://www.nhfdc.nic.in/loanschemes.html",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 55,
     "income_limit": 300000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": true,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "ADIP Scheme — Aids and Appliances for Disabled",
@@ -748,26 +657,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 200000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": true,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
@@ -777,28 +682,24 @@
     "source_url": "https://jansuraksha.gov.in/",
     "application_link": "https://jansuraksha.gov.in/Forms-PMJJBY.aspx",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 50,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
@@ -808,28 +709,24 @@
     "source_url": "https://jansuraksha.gov.in/",
     "application_link": "https://jansuraksha.gov.in/Forms-PMSBY.aspx",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 70,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Atal Pension Yojana (APY)",
@@ -839,28 +736,24 @@
     "source_url": "https://www.npscra.nsdl.co.in/",
     "application_link": "https://enps.nsdl.com/eNPS/NationalPensionSystem.html",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 40,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "PM Shram Yogi Maan-dhan (PM-SYM)",
@@ -870,28 +763,24 @@
     "source_url": "https://maandhan.in/",
     "application_link": "https://maandhan.in/",
     "min_age": 18,
-    "max_age": null,
-    "income_limit": null,
-    "category": [
-      "All"
+    "max_age": 40,
+    "income_limit": 15000,
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Sukanya Samriddhi Yojana (SSY)",
@@ -903,26 +792,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
@@ -934,26 +819,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Beti Bachao Beti Padhao (BBBP)",
@@ -965,25 +846,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "PM Garib Kalyan Anna Yojana (PMGKAY)",
@@ -995,26 +873,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Pradhan Mantri Mudra Yojana (PMMY)",
@@ -1026,26 +900,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
+    "state": [
+      "Haryana"
+    ],
+    "occupation": [
+      "Street Vendor"
+    ],
     "category": [
       "All"
     ],
-    "occupation": [
-      "Business Owner"
-    ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "PM SVANidhi — Street Vendor Micro-Credit",
@@ -1057,26 +927,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Street Vendor"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Urban",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Urban",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "PM Kaushal Vikas Yojana (PMKVY)",
@@ -1086,28 +952,25 @@
     "source_url": "https://www.pmkvyofficial.org/",
     "application_link": "https://www.pmkvyofficial.org/",
     "min_age": 15,
-    "max_age": null,
+    "max_age": 45,
     "income_limit": null,
-    "category": [
-      "Minority"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
+    "category": [
+      "SC",
+      "Minority"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": true,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Startup India Seed Fund Scheme (SISFS)",
@@ -1119,26 +982,23 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 1000000,
+    "state": [
+      "Haryana"
+    ],
+    "occupation": [
+      "Business Owner",
+      "Self-Employed"
+    ],
     "category": [
       "All"
     ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Ex-Servicemen Contributory Health Scheme (ECHS)",
@@ -1150,26 +1010,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": true,
     "ex_serviceman_required": true,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Kendriya Sainik Board — Ex-Servicemen Welfare Schemes",
@@ -1181,26 +1037,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": true,
     "ex_serviceman_required": true,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Old Age Samman Allowance",
@@ -1209,28 +1061,25 @@
     "eligibility_text": "Must be a permanent resident of Haryana state. Age 60 years or above. Annual family income not exceeding Rs 2 lakh. Must not receive any other government pension. No caste restriction.",
     "source_url": "https://socialjusticehry.gov.in/",
     "application_link": "https://saralharyana.gov.in/",
-    "min_age": 60,
+    "min_age": null,
     "max_age": null,
     "income_limit": 200000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Widow and Destitute Women Allowance",
@@ -1239,28 +1088,25 @@
     "eligibility_text": "Must be a widow or destitute/unmarried woman above 45 years. Permanent resident of Haryana. Annual family income not exceeding Rs 2 lakh. Not receiving any other pension. Age 18 years or above.",
     "source_url": "https://socialjusticehry.gov.in/",
     "application_link": "https://saralharyana.gov.in/",
-    "min_age": 18,
+    "min_age": null,
     "max_age": null,
     "income_limit": 200000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": true,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Haryana Disability Pension (Divyang Pension)",
@@ -1269,28 +1115,25 @@
     "eligibility_text": "Permanent resident of Haryana. Disability certificate showing 60% or more disability from authorized government medical authority. Annual family income not exceeding Rs 2 lakh. Not receiving other government pension. Age 18 years or above.",
     "source_url": "https://socialjusticehry.gov.in/",
     "application_link": "https://saralharyana.gov.in/",
-    "min_age": 18,
+    "min_age": null,
     "max_age": null,
     "income_limit": 200000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": true,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Ladli Social Security Allowance",
@@ -1302,25 +1145,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 200000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Destitute Children Allowance",
@@ -1330,27 +1170,24 @@
     "source_url": "https://socialjusticehry.gov.in/",
     "application_link": "https://saralharyana.gov.in/",
     "min_age": null,
-    "max_age": 21,
+    "max_age": null,
     "income_limit": 200000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Aapki Beti Hamari Beti Yojana — Haryana",
@@ -1362,25 +1199,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 180000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Mukhyamantri Vivah Shagun Yojana — Haryana",
@@ -1389,28 +1223,25 @@
     "eligibility_text": "Permanent resident of Haryana. Girl's age 18 years or above at time of marriage. Boy's age 21 years or above. For SC/ST families: annual income not exceeding Rs 1.80 lakh. For BPL: must have BPL card. Apply within 6 months of marriage.",
     "source_url": "https://haryanascbc.gov.in/",
     "application_link": "https://saralharyana.gov.in/",
-    "min_age": 18,
+    "min_age": null,
     "max_age": null,
     "income_limit": 180000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Haryana Kanyadan Yojana",
@@ -1419,28 +1250,25 @@
     "eligibility_text": "Permanent resident of Haryana. Annual family income not exceeding Rs 1 lakh. Girl's age 18 years or above. Parents or guardians must be workers registered under BOCW or welfare board. Priority to BPL and SC/ST families.",
     "source_url": "https://hrylabour.gov.in/",
     "application_link": "https://hrylabour.gov.in/",
-    "min_age": 18,
+    "min_age": null,
     "max_age": null,
     "income_limit": 100000,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
-      "All"
+    "occupation": [
+      "Labourer"
     ],
+    "category": [
+      "SC"
+    ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Haryana Free Cycle Scheme for School Girls (Kalp Vriksha)",
@@ -1452,25 +1280,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Student"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Haryana Kishori Shakti Yojana",
@@ -1480,27 +1305,24 @@
     "source_url": "https://wcdhry.gov.in/",
     "application_link": "https://wcdhry.gov.in/",
     "min_age": 11,
-    "max_age": null,
+    "max_age": 14,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Haryana Dr. Ambedkar Medhavi Chattar Yojana (SC Scholarship)",
@@ -1512,25 +1334,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 400000,
-    "category": [
-      "SC"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
-      "All"
+    "occupation": [
+      "Student"
     ],
+    "category": [
+      "SC"
+    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana BC Post Matric Scholarship (OBC)",
@@ -1542,25 +1361,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 150000,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
+    "occupation": [
+      "Student"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana SC Pre-Matric Scholarship",
@@ -1570,27 +1386,24 @@
     "source_url": "https://haryanascbc.gov.in/",
     "application_link": "https://saralharyana.gov.in/",
     "min_age": null,
-    "max_age": 18,
+    "max_age": null,
     "income_limit": 200000,
-    "category": [
-      "SC"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
-      "All"
+    "occupation": [
+      "Student"
     ],
+    "category": [
+      "SC"
+    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Mukhyamantri Merit Scholarship Scheme",
@@ -1602,25 +1415,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Student"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Anusuchit Jati Uchch Shiksha Vittiya Sahayata Yojana",
@@ -1632,25 +1442,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 250000,
-    "category": [
-      "SC"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
-      "All"
+    "occupation": [
+      "Student"
     ],
+    "category": [
+      "SC"
+    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Swarna Jayanti Anushikshan Yojana (Free Coaching)",
@@ -1660,27 +1467,24 @@
     "source_url": "https://haryanascbc.gov.in/",
     "application_link": "https://saralharyana.gov.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 30,
     "income_limit": 200000,
-    "category": [
-      "SC"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana EWS Scholarship",
@@ -1692,25 +1496,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 600000,
-    "category": [
-      "EWS"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
-      "All"
+    "occupation": [
+      "Student"
     ],
+    "category": [
+      "EWS"
+    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Chirayu Haryana (AB-PMJAY Extension)",
@@ -1722,25 +1523,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 180000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Mukhyamantri Doodh Uphar Yojana",
@@ -1750,27 +1548,24 @@
     "source_url": "https://wcdhry.gov.in/",
     "application_link": "https://wcdhry.gov.in/",
     "min_age": 1,
-    "max_age": null,
+    "max_age": 6,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Haryana Jan Swasthya Sahayogi Yojana",
@@ -1782,25 +1577,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Rural",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Rural",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Mukhyamantri Kisan Evam Khetihar Mazdoor Jeevan Suraksha Yojana",
@@ -1810,28 +1602,24 @@
     "source_url": "https://agriharyana.gov.in/",
     "application_link": "https://agriharyana.gov.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 70,
     "income_limit": null,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "Farmer",
-      "Labourer"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
+    "occupation": [
+      "Farmer"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Rural",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Rural",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Krishi Yantra Anudan Yojana (Farm Machinery Subsidy)",
@@ -1843,25 +1631,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Parali Management Scheme (Crop Residue Management)",
@@ -1873,25 +1658,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Micro Irrigation Scheme (Drip and Sprinkler)",
@@ -1903,25 +1685,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Organic Farming Promotion Scheme",
@@ -1933,25 +1712,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Animal Husbandry Schemes — Dairy Development",
@@ -1963,25 +1739,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 200000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Rural",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Rural",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Haryana Murgi Palan Yojana (Poultry Development)",
@@ -1993,25 +1766,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 150000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Haryana Fisheries Development Scheme",
@@ -2023,25 +1793,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Mukhyamantri Awas Yojana (Urban)",
@@ -2050,28 +1817,25 @@
     "eligibility_text": "Permanent resident of Haryana. Urban area resident. EWS: Annual income up to Rs 3 lakh. LIG: Rs 3-6 lakh. No existing pucca house in Haryana. SC/ST families given 10% reservation. Age 18 years or above.",
     "source_url": "https://tcpharyana.gov.in/",
     "application_link": "https://ulbharyana.gov.in/",
-    "min_age": 18,
+    "min_age": null,
     "max_age": null,
     "income_limit": 300000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Urban",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Urban",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Dr. BR Ambedkar Awas Navinikaran Yojana",
@@ -2083,25 +1847,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 180000,
-    "category": [
-      "SC"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Saksham Yuva Yojana — Haryana (Educated Unemployment Allowance)",
@@ -2111,27 +1872,24 @@
     "source_url": "https://hreyahs.gov.in/",
     "application_link": "https://hreyahs.gov.in/",
     "min_age": 21,
-    "max_age": null,
+    "max_age": 35,
     "income_limit": 300000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Mahila Samridhi Yojana (Women Self-Employment Loans)",
@@ -2141,27 +1899,25 @@
     "source_url": "https://haryanascbc.gov.in/",
     "application_link": "https://saralharyana.gov.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 45,
     "income_limit": 300000,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
+    "occupation": [
+      "Business Owner",
+      "Self-Employed"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Haryana SC Financial Corporation Loans (Self-Employment)",
@@ -2171,27 +1927,25 @@
     "source_url": "https://haryanascbc.gov.in/",
     "application_link": "https://saralharyana.gov.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 55,
     "income_limit": 300000,
-    "category": [
-      "SC"
-    ],
-    "occupation": [
-      "Business Owner"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
-      "All"
+    "occupation": [
+      "Business Owner",
+      "Self-Employed"
     ],
+    "category": [
+      "SC"
+    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Skill Development Mission (HSDM)",
@@ -2201,27 +1955,24 @@
     "source_url": "https://hsdm.org.in/",
     "application_link": "https://hsdm.org.in/",
     "min_age": 15,
-    "max_age": null,
+    "max_age": 45,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Haryana BOCW Scholarship for Workers' Children",
@@ -2233,25 +1984,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
+    "occupation": [
+      "Student"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Haryana BOCW Marriage Assistance for Workers' Daughters",
@@ -2260,28 +2008,25 @@
     "eligibility_text": "Worker registered under Haryana BOCW Welfare Board for at least 1 year. Girl's age 18 years or above at time of marriage. Boy's age 21 years or above. Permanent resident of Haryana. Apply within 6 months of marriage.",
     "source_url": "https://hrylabour.gov.in/bocw/",
     "application_link": "https://hrylabour.gov.in/bocw/",
-    "min_age": 18,
+    "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
+    "occupation": [
+      "Labourer"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Haryana BOCW Medical Assistance",
@@ -2293,25 +2038,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
+    "occupation": [
+      "Labourer"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana BOCW Maternity Benefit for Women Workers",
@@ -2323,25 +2065,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
+    "occupation": [
+      "Labourer"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Haryana BOCW Housing Loan for Workers",
@@ -2353,25 +2092,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 200000,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
+    "occupation": [
+      "Labourer"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Mukhyamantri Antyodaya Parivar Utthan Yojana — Haryana",
@@ -2383,25 +2119,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 180000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Labourer"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": true,
     "minority_required": false,
     "widow_required": true,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Mukhyamantri Parivar Samridhi Yojana (MMPSY)",
@@ -2413,25 +2146,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 180000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Free LPG Connection to BPL Families",
@@ -2443,25 +2173,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 120000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Haryana Mukhyamantri Muft Bijli Yojana (Free Electricity 200 Units)",
@@ -2473,25 +2200,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Haryana Ex-Servicemen Land Allotment Scheme",
@@ -2503,25 +2227,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": true,
     "ex_serviceman_required": true,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Rajya Sainik Board Welfare Fund",
@@ -2533,25 +2254,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 200000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": true,
     "ex_serviceman_required": true,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Minority Welfare Schemes (NMDFC Loans)",
@@ -2563,25 +2281,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 103000,
-    "category": [
-      "Minority"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
+    "category": [
+      "Minority"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": true,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Safai Karamchari Mukt Mela Yojana",
@@ -2593,25 +2308,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 150000,
-    "category": [
-      "SC"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Chief Minister Parivar Pehchan Patra Convergence",
@@ -2623,25 +2335,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Old Age Pension Scheme",
@@ -2650,28 +2359,25 @@
     "eligibility_text": "Permanent resident of Punjab. Women aged 58 years or above. Men aged 65 years or above. Annual family income not exceeding Rs 60,000. Not receiving any other government pension. Apply at District Social Security Officer.",
     "source_url": "https://socialsecuritypunjab.gov.in/",
     "application_link": "https://edistrict.punjabgovt.gov.in/",
-    "min_age": 58,
+    "min_age": null,
     "max_age": null,
-    "income_limit": null,
-    "category": [
-      "All"
+    "income_limit": 60000,
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Punjab Widow Pension Scheme",
@@ -2682,26 +2388,23 @@
     "application_link": "https://edistrict.punjabgovt.gov.in/",
     "min_age": null,
     "max_age": null,
-    "income_limit": null,
-    "category": [
-      "All"
+    "income_limit": 60000,
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": true,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Disability Pension Scheme",
@@ -2712,26 +2415,23 @@
     "application_link": "https://edistrict.punjabgovt.gov.in/",
     "min_age": null,
     "max_age": null,
-    "income_limit": null,
-    "category": [
-      "All"
+    "income_limit": 60000,
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": true,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Dependent Children Pension",
@@ -2742,26 +2442,23 @@
     "application_link": "https://edistrict.punjabgovt.gov.in/",
     "min_age": null,
     "max_age": null,
-    "income_limit": null,
-    "category": [
-      "All"
+    "income_limit": 60000,
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Punjab Sarbat Sehat Bima Yojana (SSBY)",
@@ -2773,26 +2470,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 200000,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "Farmer",
-      "Street Vendor"
-    ],
-    "education": null,
     "state": [
       "Punjab"
     ],
-    "district": [
-      "All"
+    "occupation": [
+      "Farmer"
     ],
+    "category": [
+      "SC"
+    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Bhai Ghanhaya Ji Sehat Sewa Scheme — Punjab",
@@ -2804,25 +2497,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Mukhyamantri Aam Aadmi Clinic",
@@ -2834,25 +2524,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Punjab Sahara Scheme (Financial Assistance for Serious Illness)",
@@ -2863,26 +2550,23 @@
     "application_link": "https://edistrict.punjabgovt.gov.in/",
     "min_age": null,
     "max_age": null,
-    "income_limit": null,
-    "category": [
-      "All"
+    "income_limit": 60000,
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Ashirwad Scheme (Marriage Grant for SC Girls)",
@@ -2891,28 +2575,25 @@
     "eligibility_text": "Permanent resident of Punjab. Scheduled Caste (SC) category. Annual family income not exceeding Rs 32,790. Girl's age 18 years or above at time of marriage. Apply within 6 months of marriage through District Social Security Officer.",
     "source_url": "https://socialsecuritypunjab.gov.in/",
     "application_link": "https://edistrict.punjabgovt.gov.in/",
-    "min_age": 18,
+    "min_age": null,
     "max_age": null,
-    "income_limit": null,
-    "category": [
-      "SC"
+    "income_limit": 32790,
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Punjab Mata Kaushalya Maternity Benefits Scheme",
@@ -2924,26 +2605,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 100000,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "Farmer",
-      "Labourer"
-    ],
-    "education": null,
     "state": [
       "Punjab"
     ],
-    "district": [
+    "occupation": [
+      "Labourer"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Punjab Mai Bhago Vidya Scheme (Free Cycles for Girls)",
@@ -2955,25 +2632,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "Student"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Rural",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Rural",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Punjab Smart Connect Scheme (Free Smartphone for Students)",
@@ -2985,25 +2659,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "Student"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Punjab Ladli Beti Yojana",
@@ -3014,26 +2685,23 @@
     "application_link": "https://edistrict.punjabgovt.gov.in/",
     "min_age": null,
     "max_age": null,
-    "income_limit": null,
-    "category": [
-      "All"
+    "income_limit": 90000,
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Punjab SC Post Matric Scholarship",
@@ -3043,27 +2711,24 @@
     "source_url": "https://scholarship.punjab.gov.in/",
     "application_link": "https://scholarships.gov.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 35,
     "income_limit": 250000,
-    "category": [
-      "SC"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Punjab"
     ],
-    "district": [
-      "All"
+    "occupation": [
+      "Student"
     ],
+    "category": [
+      "SC"
+    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab BC Post Matric Scholarship (OBC)",
@@ -3075,25 +2740,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 100000,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Punjab"
     ],
-    "district": [
+    "occupation": [
+      "Student"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab EWS Post Matric Scholarship",
@@ -3105,25 +2767,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 600000,
-    "category": [
-      "EWS"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Punjab"
     ],
-    "district": [
-      "All"
+    "occupation": [
+      "Student"
     ],
+    "category": [
+      "EWS"
+    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Minority Post Matric Scholarship (State)",
@@ -3135,25 +2794,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 200000,
-    "category": [
-      "Minority"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Punjab"
     ],
-    "district": [
-      "All"
+    "occupation": [
+      "Student"
     ],
+    "category": [
+      "Minority"
+    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": true,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Merit Scholarship for Meritorious Students",
@@ -3165,25 +2821,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Punjab"
     ],
-    "district": [
+    "occupation": [
+      "Student"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Chief Minister Scholarship Scheme",
@@ -3195,25 +2848,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 120000,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "Student"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Student Credit Card Scheme",
@@ -3223,27 +2873,24 @@
     "source_url": "https://scholarship.punjab.gov.in/",
     "application_link": "https://edistrict.punjabgovt.gov.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 35,
     "income_limit": 300000,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "Student"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Ghar Ghar Rozgar te Karobar Mission",
@@ -3253,27 +2900,24 @@
     "source_url": "https://rozgarportal.punjab.gov.in/",
     "application_link": "https://rozgarportal.punjab.gov.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 40,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": true,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Punjab Skill Development Mission (PSSDM)",
@@ -3283,27 +2927,24 @@
     "source_url": "https://pssdm.gov.in/",
     "application_link": "https://pssdm.gov.in/",
     "min_age": 15,
-    "max_age": null,
+    "max_age": 45,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Punjab SC/BC Financial Corporation Loans",
@@ -3313,27 +2954,25 @@
     "source_url": "https://scbcfc.punjab.gov.in/",
     "application_link": "https://scbcfc.punjab.gov.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 55,
     "income_limit": 300000,
-    "category": [
-      "SC"
-    ],
-    "occupation": [
-      "Business Owner"
-    ],
-    "education": null,
     "state": [
       "Punjab"
     ],
-    "district": [
-      "All"
+    "occupation": [
+      "Business Owner",
+      "Self-Employed"
     ],
+    "category": [
+      "SC"
+    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Women Entrepreneur Development Scheme",
@@ -3343,27 +2982,25 @@
     "source_url": "https://punjab.gov.in/",
     "application_link": "https://edistrict.punjabgovt.gov.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 55,
     "income_limit": 500000,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "Business Owner"
-    ],
-    "education": null,
     "state": [
       "Punjab"
     ],
-    "district": [
-      "All"
+    "occupation": [
+      "Business Owner",
+      "Self-Employed"
     ],
+    "category": [
+      "SC"
+    ],
+    "residence_type": "Rural",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Rural",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Punjab Startup and Innovation Mission (PSIM)",
@@ -3375,25 +3012,23 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Punjab"
     ],
-    "district": [
+    "occupation": [
+      "Business Owner",
+      "Self-Employed"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Punjab Agriculture Equipment Subsidy Scheme",
@@ -3405,25 +3040,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Parali Management Scheme (Crop Residue Management)",
@@ -3435,25 +3067,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Free Electricity to Farmers (8 Hours)",
@@ -3465,25 +3094,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Punjab Organic Farming Scheme",
@@ -3495,25 +3121,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Kisan Credit Card — Special Package",
@@ -3523,27 +3146,24 @@
     "source_url": "https://agripb.gov.in/",
     "application_link": "https://agripb.gov.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 75,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Punjab Dairy Development Scheme",
@@ -3555,25 +3175,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 200000,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Rural",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Rural",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Punjab Fisheries Scheme (Fish Farming Subsidy)",
@@ -3585,25 +3202,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Mera Ghar Mera Naam Scheme — Punjab",
@@ -3615,25 +3229,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "SC"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Housing Board EWS Housing Scheme",
@@ -3642,28 +3253,25 @@
     "eligibility_text": "Permanent resident of Punjab. Urban area resident. Annual family income not exceeding Rs 3 lakh (EWS). No existing pucca house owned in Punjab. Age 18 years or above. SC/ST get additional priority.",
     "source_url": "https://phdb.gov.in/",
     "application_link": "https://phdb.gov.in/",
-    "min_age": 18,
+    "min_age": null,
     "max_age": null,
     "income_limit": 300000,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Urban",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Urban",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab BOCW Scholarship for Workers' Children",
@@ -3675,25 +3283,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Punjab"
     ],
-    "district": [
+    "occupation": [
+      "Student"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Punjab BOCW Marriage Assistance",
@@ -3702,28 +3307,25 @@
     "eligibility_text": "Worker registered under Punjab BOCW Welfare Board for at least 1 year. Occupation construction, carpentry, masonry, painting, plumbing, electrical work. Girl's age 18 years or above. Permanent resident of Punjab.",
     "source_url": "https://punjablabour.gov.in/",
     "application_link": "https://punjablabour.gov.in/",
-    "min_age": 18,
+    "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Punjab"
     ],
-    "district": [
+    "occupation": [
+      "Labourer"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Punjab BOCW Medical Assistance",
@@ -3735,25 +3337,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Punjab"
     ],
-    "district": [
+    "occupation": [
+      "Labourer"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab BOCW Pension for Workers",
@@ -3762,28 +3361,25 @@
     "eligibility_text": "Worker registered under Punjab BOCW Welfare Board for at least 3 years. Age 60 years or above. Occupation construction worker. Permanent resident of Punjab. Not receiving other government pension.",
     "source_url": "https://punjablabour.gov.in/",
     "application_link": "https://punjablabour.gov.in/",
-    "min_age": 60,
+    "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Punjab"
     ],
-    "district": [
+    "occupation": [
+      "Labourer"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Saanjh Police Citizen Service Centres",
@@ -3795,25 +3391,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Punjab Mukhyamantri Tirth Yatra Scheme",
@@ -3822,28 +3415,25 @@
     "eligibility_text": "Permanent resident of Punjab. Age 60 years or above. Annual family income not exceeding Rs 1.60 lakh. Physically fit for travel (medical certificate required). Any religion. Apply through Department of Social Security.",
     "source_url": "https://socialsecuritypunjab.gov.in/",
     "application_link": "https://edistrict.punjabgovt.gov.in/",
-    "min_age": 60,
+    "min_age": null,
     "max_age": null,
     "income_limit": 160000,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Drug De-Addiction Mission — OOT Programme",
@@ -3855,25 +3445,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Punjab Aam Aadmi Bima Yojana (State Workers)",
@@ -3883,28 +3470,24 @@
     "source_url": "https://punjablabour.gov.in/",
     "application_link": "https://punjablabour.gov.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 59,
     "income_limit": 160000,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "Farmer",
-      "Labourer"
-    ],
-    "education": null,
     "state": [
       "Punjab"
     ],
-    "district": [
+    "occupation": [
+      "Labourer"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Urban Development Authority (PUDA) Housing Schemes",
@@ -3913,28 +3496,25 @@
     "eligibility_text": "Permanent resident of Punjab. Urban area preference. No existing government plot in Punjab. Income varies by scheme: EWS (up to Rs 3 lakh), LIG (Rs 3-6 lakh), MIG (Rs 6-18 lakh). Age 18 years or above.",
     "source_url": "https://puda.gov.in/",
     "application_link": "https://puda.gov.in/",
-    "min_age": 18,
+    "min_age": null,
     "max_age": null,
     "income_limit": 300000,
-    "category": [
-      "EWS"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
+    "category": [
+      "EWS"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Urban",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Urban",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab NRI Affairs and Grievance Scheme",
@@ -3946,25 +3526,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "PM Garib Kalyan Rozgar Abhiyan",
@@ -3976,26 +3553,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Labourer"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Rural",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Rural",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "National Family Benefit Scheme (NFBS)",
@@ -4005,28 +3578,24 @@
     "source_url": "https://nsap.nic.in/",
     "application_link": "https://nsap.nic.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 65,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "PM Employment Generation Programme (PMEGP)",
@@ -4038,26 +3607,24 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 1000000,
-    "category": [
-      "OBC"
-    ],
-    "occupation": [
-      "Business Owner"
-    ],
-    "education": null,
     "state": [
-      "Punjab",
       "Haryana"
     ],
-    "district": [
-      "All"
+    "occupation": [
+      "Business Owner",
+      "Self-Employed"
     ],
+    "category": [
+      "SC",
+      "OBC"
+    ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Deendayal Antyodaya Yojana — National Rural Livelihoods Mission (DAY-NRLM)",
@@ -4069,26 +3636,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Rural",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Rural",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "PM Vishwakarma Yojana",
@@ -4097,29 +3660,25 @@
     "eligibility_text": "Artisan or craftsperson working in 18 traditional trades: blacksmith, goldsmith, pottery, weaving, carpenter, mason, cobbler, tailor, barber, washerman, etc. Age 18 years or above. Both Haryana and Punjab craftspeople eligible. Annual income no restriction.",
     "source_url": "https://pmvishwakarma.gov.in/",
     "application_link": "https://pmvishwakarma.gov.in/",
-    "min_age": 18,
+    "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab",
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Ashirwad Scheme for OBC/General BPL",
@@ -4131,25 +3690,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 150000,
-    "category": [
-      "OBC"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
+    "category": [
+      "OBC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Punjab Free Transport Facility for Government School Students",
@@ -4161,25 +3717,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "SC"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "Student"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Punjab Shaheed Bhagat Singh Hariawal Lehar Scheme",
@@ -4191,25 +3744,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Punjab State Cancer Care Fund Scheme",
@@ -4221,25 +3771,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Financial Assistance to Disabled Persons (State top-up)",
@@ -4249,27 +3796,24 @@
     "source_url": "https://socialsecuritypunjab.gov.in/",
     "application_link": "https://edistrict.punjabgovt.gov.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 70,
     "income_limit": 100000,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": true,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab State Cooperative Bank Self-Employment Loan Scheme",
@@ -4279,27 +3823,25 @@
     "source_url": "https://pscb.in/",
     "application_link": "https://pscb.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 45,
     "income_limit": 300000,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Punjab"
     ],
-    "district": [
+    "occupation": [
+      "Business Owner",
+      "Self-Employed"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Farm Forestry Scheme",
@@ -4311,25 +3853,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Solar Pump Subsidy Scheme",
@@ -4341,25 +3880,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Chief Minister's Scholarship Scheme for Polytechnic Students",
@@ -4371,25 +3907,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Punjab"
     ],
-    "district": [
+    "occupation": [
+      "Student"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Bhagat Puran Singh Sehat Bima Yojana for Small Traders",
@@ -4399,27 +3932,24 @@
     "source_url": "https://excise.punjab.gov.in/",
     "application_link": "https://excise.punjab.gov.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 65,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Employment Assistance Scheme for Victims of Terrorist Violence",
@@ -4431,25 +3961,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Assistance to Acid Attack Victims",
@@ -4461,25 +3988,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Punjab Free Sanitary Napkin Scheme (Hawaa)",
@@ -4489,27 +4013,24 @@
     "source_url": "https://socialsecuritypunjab.gov.in/",
     "application_link": "https://socialsecuritypunjab.gov.in/",
     "min_age": 11,
-    "max_age": null,
+    "max_age": 45,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Rural",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Rural",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Punjab Integrated Dairy Development Scheme (IDDS)",
@@ -4519,27 +4040,24 @@
     "source_url": "https://pddb.in/",
     "application_link": "https://pddb.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 55,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Subsidized Seed Distribution Scheme",
@@ -4551,25 +4069,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Shehri Awas Yojana (PSAY) - Phase II",
@@ -4581,25 +4096,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 300000,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Urban",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Urban",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Senior Citizen Health Care Card",
@@ -4608,28 +4120,25 @@
     "eligibility_text": "Permanent resident of Punjab. Age 60 years or above. No income restriction.",
     "source_url": "https://health.punjab.gov.in/",
     "application_link": "https://health.punjab.gov.in/",
-    "min_age": 60,
+    "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Kanya Jagriti Jyoti Scheme (Interest Support)",
@@ -4639,27 +4148,24 @@
     "source_url": "https://socialsecuritypunjab.gov.in/",
     "application_link": "https://edistrict.punjabgovt.gov.in/",
     "min_age": null,
-    "max_age": 5,
+    "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Punjab One Time Settlement (OTS) for Farmers' Cooperative Loans",
@@ -4671,25 +4177,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Mukhyamantri Punjab Gaurav Puraskar Scheme",
@@ -4698,28 +4201,25 @@
     "eligibility_text": "Resident of Punjab. Exceptional achievement in sports, Punjabi literature, or folk arts. Age 18 years or above. No income limit.",
     "source_url": "https://punjab.gov.in/",
     "application_link": "https://punjab.gov.in/",
-    "min_age": 18,
+    "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Assistance to Single Mothers & Destitute Women",
@@ -4730,26 +4230,23 @@
     "application_link": "https://edistrict.punjabgovt.gov.in/",
     "min_age": null,
     "max_age": null,
-    "income_limit": null,
-    "category": [
-      "All"
+    "income_limit": 60000,
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Punjab Skill Training for PwDs (Divyangjan)",
@@ -4759,27 +4256,24 @@
     "source_url": "https://pssdm.punjab.gov.in/",
     "application_link": "https://pssdm.punjab.gov.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 45,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": true,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Promotion of Micro Enterprises in Rural Areas",
@@ -4789,27 +4283,24 @@
     "source_url": "https://pbindustries.gov.in/",
     "application_link": "https://pbindustries.gov.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 40,
     "income_limit": 200000,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Rural",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Rural",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Interest Subsidy for SC/ST Startups",
@@ -4818,29 +4309,27 @@
     "eligibility_text": "Permanent resident of Punjab. Belongs to SC or ST category. Age 18 years or above. DPIIT recognized startup or new enterprise. No income limit.",
     "source_url": "https://pbindustries.gov.in/",
     "application_link": "https://pbindustries.gov.in/",
-    "min_age": 18,
+    "min_age": null,
     "max_age": null,
     "income_limit": null,
+    "state": [
+      "Punjab"
+    ],
+    "occupation": [
+      "Business Owner",
+      "Self-Employed"
+    ],
     "category": [
       "SC",
       "ST"
     ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab State Student Transport Subsidy",
@@ -4852,25 +4341,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 250000,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "Student"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Free Coaching Scheme for IAS/PCS Exams",
@@ -4882,25 +4368,23 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 300000,
-    "category": [
-      "EWS"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
+    "category": [
+      "SC",
+      "EWS"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Subsidy on Agro-Processing Units",
@@ -4909,28 +4393,25 @@
     "eligibility_text": "Permanent resident of Punjab. Occupation must be farmer or Farmer Producer Organization (FPO). Age 18 years or above. No income limit.",
     "source_url": "https://agri.punjab.gov.in/",
     "application_link": "https://agri.punjab.gov.in/",
-    "min_age": 18,
+    "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Dairy Farming Training for Rural Youth",
@@ -4940,27 +4421,24 @@
     "source_url": "https://pddb.in/",
     "application_link": "https://pddb.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 35,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Rural",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Rural",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Punjab Assistance for Construction of Toilets in Rural Areas",
@@ -4972,25 +4450,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Rural",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Rural",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Smart Ration Card Scheme (BPL/AAY)",
@@ -5002,25 +4477,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Financial Assistance to Non-Pensioner Freedom Fighters",
@@ -5032,25 +4504,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Punjab Sports Promotion Incentive Scheme for Rural Youth",
@@ -5060,27 +4529,24 @@
     "source_url": "https://pbsports.gov.in/",
     "application_link": "https://pbsports.gov.in/",
     "min_age": 10,
-    "max_age": null,
+    "max_age": 25,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Punjab"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Punjab"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Rural",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Rural",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Haryana Mukhyamantri Vyapari Kshatipurti Bima Yojana",
@@ -5092,25 +4558,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Mukhyamantri Parivar Samridhi Yojana (MMPSY) - Premium Waiver",
@@ -5122,25 +4585,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 180000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Pashu Kisan Credit Card (PKCC) Scheme",
@@ -5152,25 +4612,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
+    "occupation": [
+      "Farmer"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Solar Water Pumping Scheme",
@@ -5182,25 +4639,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana One-time Settlement Scheme (Kar Samadhan Yojana)",
@@ -5212,25 +4666,23 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "Business Owner"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
+    "occupation": [
+      "Business Owner",
+      "Self-Employed"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Haryana Harijan Kalyan Nigam Loans",
@@ -5240,27 +4692,24 @@
     "source_url": "https://socialjusticehry.gov.in/",
     "application_link": "https://saralharyana.gov.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 55,
     "income_limit": 150000,
-    "category": [
-      "SC"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
+    "category": [
+      "SC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Chief Minister's Scholarship Scheme for Meritorious Girls",
@@ -5272,25 +4721,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 250000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Student"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Haryana Free Tablets for Government School Students (E-Adhigam)",
@@ -5302,25 +4748,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Student"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Mukhyamantri Vivah Shadi Shagun Yojana (General/OBC BPL)",
@@ -5329,28 +4772,25 @@
     "eligibility_text": "Permanent resident of Haryana. Belongs to General or OBC category. Registered under PPP. Must possess BPL ration card. Daughter age 18 years or above.",
     "source_url": "https://socialjusticehry.gov.in/",
     "application_link": "https://saralharyana.gov.in/",
-    "min_age": 18,
+    "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "OBC"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
+    "category": [
+      "OBC"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana State Merit Scholarship for College Students",
@@ -5362,25 +4802,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
+    "occupation": [
+      "Student"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Post-Matric Scholarship for EWS Students",
@@ -5392,25 +4829,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 250000,
-    "category": [
-      "EWS"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
-      "All"
+    "occupation": [
+      "Student"
     ],
+    "category": [
+      "EWS"
+    ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Mukhyamantri Bal Seva Yojana (Orphan Support)",
@@ -5420,27 +4854,24 @@
     "source_url": "https://wcdhry.gov.in/",
     "application_link": "https://saralharyana.gov.in/",
     "min_age": null,
-    "max_age": 18,
+    "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Haryana Nirguni Bhajan Mandli Incentive Scheme",
@@ -5452,25 +4883,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Assistance to Kashmiri Migrants",
@@ -5482,25 +4910,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Pension Scheme for Press Media Personnel",
@@ -5509,28 +4934,25 @@
     "eligibility_text": "Permanent resident of Haryana. Age 60 years or above. At least 20 years of active journalism service. Recognized by Directorate of Information and Public Relations.",
     "source_url": "https://prharyana.gov.in/",
     "application_link": "https://prharyana.gov.in/",
-    "min_age": 60,
+    "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Financial Assistance to Dwarfs",
@@ -5539,28 +4961,25 @@
     "eligibility_text": "Permanent resident of Haryana. Height of male must be 3 feet 8 inches or less; female must be 3 feet 3 inches or less. Age 18 years or above. Certified by civil surgeon.",
     "source_url": "https://socialjusticehry.gov.in/",
     "application_link": "https://saralharyana.gov.in/",
-    "min_age": 18,
+    "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Haryana Financial Assistance to Eunuchs",
@@ -5569,28 +4988,25 @@
     "eligibility_text": "Permanent resident of Haryana. Belongs to transgender/eunuch community. Age 18 years or above. Medical certificate required from government medical board.",
     "source_url": "https://socialjusticehry.gov.in/",
     "application_link": "https://saralharyana.gov.in/",
-    "min_age": 18,
+    "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Maternity Benefit Scheme (State Share)",
@@ -5602,25 +5018,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 180000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Haryana Sports Talent Search Scholarship Scheme",
@@ -5630,27 +5043,24 @@
     "source_url": "https://haryanasports.gov.in/",
     "application_link": "https://haryanasports.gov.in/",
     "min_age": 8,
-    "max_age": null,
+    "max_age": 18,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Student"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Cash Incentive Scheme for National/International Athletes",
@@ -5662,25 +5072,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Seed Treatment Subsidy Scheme",
@@ -5692,25 +5099,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Promotion of Agro-Forestry on Farm Bunds",
@@ -5722,25 +5126,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Farmer"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Subsidy for Setting up Bio-Gas Plants",
@@ -5752,25 +5153,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Rural",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Rural",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Cooperative Bank Self-Employment Loan Scheme",
@@ -5780,27 +5178,25 @@
     "source_url": "https://harcobank.org.in/",
     "application_link": "https://harcobank.org.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 50,
     "income_limit": null,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
+    "occupation": [
+      "Business Owner",
+      "Self-Employed"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Mukhyamantri Shahri Awas Yojana",
@@ -5812,25 +5208,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": 180000,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Urban",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Urban",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Free Coaching Scheme for Civil Services (Super 100)",
@@ -5842,25 +5235,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Financial Assistance for Higher Education of BOCW Workers' Children",
@@ -5872,25 +5262,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
+    "occupation": [
+      "Labourer"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Haryana BOCW Cycle Subsidy Scheme",
@@ -5902,25 +5289,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
+    "occupation": [
+      "Labourer"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Haryana BOCW Tool Purchase Subsidy Scheme",
@@ -5932,25 +5316,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
+    "occupation": [
+      "Labourer"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Any"
+    "education": null
   },
   {
     "scheme_name": "Haryana BOCW Medical Assistance for Chronic Diseases",
@@ -5962,25 +5343,22 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "All"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
+    "occupation": [
+      "Labourer"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Divyangjan Scooter Allotment Scheme",
@@ -5990,28 +5368,24 @@
     "source_url": "https://socialjusticehry.gov.in/",
     "application_link": "https://saralharyana.gov.in/",
     "min_age": 18,
-    "max_age": null,
+    "max_age": 45,
     "income_limit": 200000,
-    "category": [
-      "All"
-    ],
-    "occupation": [
-      "Student",
-      "Self-Employed"
-    ],
-    "education": null,
     "state": [
       "Haryana"
     ],
-    "district": [
+    "occupation": [
+      "Student"
+    ],
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": true,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   },
   {
     "scheme_name": "Haryana Apni Beti Apna Dhan (EWS Deposit Scheme)",
@@ -6021,27 +5395,25 @@
     "source_url": "https://wcdhry.gov.in/",
     "application_link": "https://saralharyana.gov.in/",
     "min_age": null,
-    "max_age": 1,
+    "max_age": null,
     "income_limit": null,
-    "category": [
-      "EWS"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "All"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
+    "category": [
+      "SC",
+      "EWS"
     ],
-    "district": [
-      "All"
-    ],
+    "residence_type": "Both",
+    "gender": "Female",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Female"
+    "education": null
   },
   {
     "scheme_name": "Haryana State Transport Free Travel Passes for Students",
@@ -6053,24 +5425,21 @@
     "min_age": null,
     "max_age": null,
     "income_limit": null,
-    "category": [
-      "All"
+    "state": [
+      "Haryana"
     ],
     "occupation": [
       "Student"
     ],
-    "education": null,
-    "state": [
-      "Haryana"
-    ],
-    "district": [
+    "category": [
       "All"
     ],
+    "residence_type": "Both",
+    "gender": "Any",
     "disability_required": false,
     "minority_required": false,
     "widow_required": false,
     "ex_serviceman_required": false,
-    "residence_type": "Both",
-    "gender": "Male"
+    "education": null
   }
 ]

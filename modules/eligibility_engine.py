@@ -64,7 +64,7 @@ class EligibilityEngine:
                 "scheme_name": str,
                 "scheme_id": int,
                 "eligibility_score": int,     # 0-100
-                "is_eligible": bool,          # Score threshold plus hard gates
+                "is_eligible": bool,          # True if score >= 60
                 "match_reasons": [str, ...],
                 "mismatch_reasons": [str, ...],
             }
@@ -283,7 +283,7 @@ class EligibilityEngine:
 
         score += special_score
 
-        # ── Gender check (bonus gate — no score impact, just filtering) ───────
+        # ── Gender check ──────────────────────────────────────────────────────
         user_gender = user_profile.get("gender", "Other")
         scheme_gender = scheme.get("gender", "Any")
         gender_hard_fail = False
@@ -297,7 +297,12 @@ class EligibilityEngine:
 
         # ── Final result ──────────────────────────────────────────────────────
         score = min(score, self.MAX_SCORE)
-        is_eligible = score >= 60 and not gender_hard_fail
+        
+        # A hard gender mismatch always marks ineligible, even if score >= 60
+        is_eligible = (score >= 60) and not gender_hard_fail
+
+        # ── Final result ──────────────────────────────────────────────────────
+        score = min(score, self.MAX_SCORE)
 
         return {
             "scheme_id": scheme.get("scheme_id"),
@@ -307,7 +312,7 @@ class EligibilityEngine:
             "source_url": scheme.get("source_url", ""),
             "application_link": scheme.get("application_link", ""),
             "eligibility_score": score,
-            "is_eligible": is_eligible,
+             "is_eligible": is_eligible,
             "match_reasons": match_reasons,
             "mismatch_reasons": mismatch_reasons,
         }

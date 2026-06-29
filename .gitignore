@@ -37,3 +37,6 @@ reports/
 *.swp
 .DS_Store
 Thumbs.db
+
+
+DEVELOPER_GUIDE.md

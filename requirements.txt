@@ -27,6 +27,7 @@ fpdf2==2.7.9
 
 # Data Processing
 pandas==2.2.2
+datasets>=2.19.0
 pydantic==2.7.4
 
 # Scheduling

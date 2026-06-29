@@ -17,6 +17,8 @@ from typing import Any, Dict, List, Optional
 from urllib.parse import urlparse
 
 import streamlit as st
+from dotenv import load_dotenv
+load_dotenv()  # load GOOGLE_API_KEY from .env before any module initialization
 
 sys.path.insert(0, str(Path(__file__).parent))
 
@@ -31,6 +33,7 @@ from database.db_manager import DBManager
 from modules.eligibility_engine import EligibilityEngine
 from modules.ranking_engine import RankingEngine
 from modules.vector_store import VectorStore
+from modules.explanation_chain import ExplanationChain
 
 logging.basicConfig(level=logging.WARNING)
 
@@ -463,6 +466,46 @@ section[data-testid="stSidebar"] .stButton > button:hover {
 /* Hide streamlit branding and menus */
 #MainMenu { visibility: hidden; }
 footer { visibility: hidden; }
+
+/* Explain trigger pill — sits inline after the text, looks minimal */
+.explain-pill > div > button {
+    background: transparent !important;
+    border: 1.5px solid #a5b4fc !important;
+    color: #6366f1 !important;
+    box-shadow: none !important;
+    font-size: 0.78rem !important;
+    font-weight: 600 !important;
+    padding: 1px 10px !important;
+    border-radius: 999px !important;
+    min-height: unset !important;
+    line-height: 1.6 !important;
+    transition: background 0.15s, border-color 0.15s !important;
+}
+.explain-pill > div > button:hover {
+    background: #eef2ff !important;
+    border-color: #6366f1 !important;
+}
+/* Explain trigger — looks like an indigo text link */
+.explain-link button {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    color: #6366f1 !important;
+    font-size: 0.875rem !important;
+    font-weight: 600 !important;
+    padding: 0 !important;
+    text-decoration: underline !important;
+    text-decoration-color: #a5b4fc !important;
+    text-underline-offset: 3px !important;
+    min-height: unset !important;
+    cursor: pointer !important;
+    transition: color 0.15s !important;
+}
+.explain-link button:hover {
+    color: #4f46e5 !important;
+    background: transparent !important;
+    text-decoration-color: #4f46e5 !important;
+}
 </style>
 """
 
@@ -491,6 +534,10 @@ def get_vector_store() -> VectorStore:
         except Exception as exc:
             logging.warning("Could not build vector store: %s", exc)
     return vs
+
+@st.cache_resource
+def get_explanation_chain() -> ExplanationChain:
+    return ExplanationChain()
 
 @st.cache_data(ttl=300)
 def load_all_schemes() -> List[Dict]:
@@ -532,12 +579,33 @@ def render_scheme_card(result: Dict[str, Any], rank: int):
     state_raw   = result.get("state", ["All"])
     cat_raw     = result.get("category", ["All"])
     income_lim  = result.get("income_limit")
+    occ_raw     = result.get("occupation", ["All"])
 
     state_str = ", ".join(map(str, state_raw[:2])) if isinstance(state_raw, list) else str(state_raw)
     cat_str = ", ".join(map(str, cat_raw[:2])) if isinstance(cat_raw, list) else str(cat_raw)
+    occ_str = ", ".join(map(str, occ_raw[:2])) if isinstance(occ_raw, list) else str(occ_raw)
     state_str = escape(state_str)
     cat_str = escape(cat_str)
+    occ_str = escape(occ_str)
     income_str = f"Income ≤ Rs {income_lim:,.0f}" if income_lim else "No Income Cap"
+
+    # Build chips — skip generic 'All' values
+    def _is_generic(val) -> bool:
+        if val is None:
+            return True
+        items = val if isinstance(val, list) else [val]
+        return all(str(v).strip().lower() in ("all", "all india", "") for v in items)
+
+    chips_html = ""
+    if not _is_generic(state_raw):
+        chips_html += f'<span class="chip chip-state">🗺️ {state_str}</span>'
+    else:
+        chips_html += '<span class="chip chip-state">🇮🇳 All India</span>'
+    if not _is_generic(cat_raw):
+        chips_html += f'<span class="chip chip-category">🏷️ {cat_str}</span>'
+    if not _is_generic(occ_raw):
+        chips_html += f'<span class="chip chip-category">👤 For: {occ_str}</span>'
+    chips_html += f'<span class="chip chip-income">{income_str}</span>'
 
     # ── Benefits ──────────────────────────────────────────────────────────────
     benefits = escape(str(result.get("benefits") or result.get("description") or ""))
@@ -596,9 +664,7 @@ def render_scheme_card(result: Dict[str, Any], rank: int):
                 </div>
             </div>
             <div class="meta-chips">
-                <span class="chip chip-state">State: {state_str}</span>
-                <span class="chip chip-category">Category: {cat_str}</span>
-                <span class="chip chip-income">{income_str}</span>
+                {chips_html}
             </div>
             {benefits_html}
             {eligibility_html}
@@ -813,12 +879,81 @@ def main():
                 for i, result in enumerate(to_display, 1):
                     render_scheme_card(result, i)
 
+                    # ── AI Explanation inline trigger ─────────────────────
+                    scheme_key = f"explain_{i}_{result.get('scheme_id', i)}"
+                    cache_key  = f"explain_cache_{scheme_key}"
+                    expand_key = f"explain_open_{scheme_key}"
+                    is_open    = st.session_state.get(expand_key, False)
+
+                    # Single tight row: text on left, pill toggle immediately after
+                    _ek = expand_key  # capture for closure
+                    def _toggle_explain(_key=_ek):
+                        st.session_state[_key] = not st.session_state.get(_key, False)
+
+                    # Single text-link trigger (no separate arrow button)
+                    col_link, col_gap = st.columns([3.5, 8.5])
+                    with col_link:
+                        st.markdown('<div class="explain-link">', unsafe_allow_html=True)
+                        st.button(
+                            "✨ Why am I eligible for this scheme?",
+                            key=f"toggle_{scheme_key}",
+                            on_click=_toggle_explain,
+                        )
+                        st.markdown('</div>', unsafe_allow_html=True)
+
+                    # Explanation panel
+                    if is_open:
+                        if cache_key not in st.session_state:
+                            with st.spinner("Generating personalised explanation…"):
+                                chain = get_explanation_chain()
+                                explanation = chain.explain(user_profile, result)
+                            st.session_state[cache_key] = explanation
+
+                        import re as _re
+                        def _fmt(text: str) -> str:
+                            lines = text.strip().splitlines()
+                            out = []
+                            for ln in lines:
+                                ln = ln.strip()
+                                if not ln:
+                                    continue
+                                m = _re.match(r'^(\d+)\.\s+([A-Z][A-Z ]+)[:：](.*)$', ln)
+                                if m:
+                                    out.append(
+                                        f'<p style="margin:10px 0 2px;font-size:0.78rem;'
+                                        f'font-weight:700;color:#6366f1;text-transform:uppercase;'
+                                        f'letter-spacing:0.07em;">{m.group(2).strip()}</p>'
+                                        f'<p style="margin:0 0 4px;font-size:0.92rem;color:#1e293b;">'
+                                        f'{m.group(3).strip()}</p>'
+                                    )
+                                else:
+                                    out.append(
+                                        f'<p style="margin:4px 0;font-size:0.92rem;'
+                                        f'color:#334155;">{ln}</p>'
+                                    )
+                            return "\n".join(out)
+
+                        st.markdown(
+                            f'<div style="background:linear-gradient(135deg,#eef2ff 0%,#f5f3ff 100%);'
+                            f'border-left:4px solid #6366f1;border-radius:0 12px 12px 0;'
+                            f'padding:14px 20px;margin:0 0 18px 0;">'
+                            f'{_fmt(st.session_state[cache_key])}'
+                            f'</div>',
+                            unsafe_allow_html=True,
+                        )
+
                 # Show More / No More
                 if remaining > 0:
                     more_count = min(SHOW_STEP, remaining)
-                    if st.button(f"Show {more_count} More Schemes", key="show_more_btn"):
-                        st.session_state["shown_count"] = shown_count + more_count
-                        st.rerun()
+                    _sc = shown_count  # capture for closure
+                    _mc = more_count
+                    def _do_show_more(_s=_sc, _m=_mc):
+                        st.session_state["shown_count"] = _s + _m
+                    st.button(
+                        f"Show {more_count} More Schemes",
+                        key="show_more_btn",
+                        on_click=_do_show_more,
+                    )
                 elif len(all_ranked) <= shown_count and len(all_ranked) > 0:
                     st.markdown(
                         '<p style="color:#94a3b8;font-size:0.82rem;text-align:center;'

@@ -201,9 +201,13 @@ class DBManager:
 
     def upsert_scheme(self, scheme: Dict[str, Any]):
         """Insert or update a scheme."""
-        inserted = self.insert_scheme(scheme)
+        s = scheme.copy()
+        s["state"] = json.dumps(s.get("state", ["All"]))
+        s["occupation"] = json.dumps(s.get("occupation", ["All"]))
+        s["category"] = json.dumps(s.get("category", ["All"]))
+        inserted = self.insert_scheme(s)
         if not inserted:
-            self.update_scheme(scheme["scheme_name"], scheme)
+            self.update_scheme(s["scheme_name"], s)
 
     def delete_scheme(self, scheme_name: str) -> bool:
         with self._connect() as conn:
@@ -225,7 +229,15 @@ class DBManager:
     def get_all_schemes(self) -> List[Dict[str, Any]]:
         with self._connect() as conn:
             rows = conn.execute("SELECT * FROM schemes ORDER BY scheme_name").fetchall()
-        return [self._row_to_dict(r) for r in rows]
+        schemes = [self._row_to_dict(r) for r in rows]
+        for scheme in schemes:
+            for field in ["state", "occupation", "category"]:
+                if isinstance(scheme.get(field), str):
+                    try:
+                        scheme[field] = json.loads(scheme[field])
+                    except:
+                        scheme[field] = ["All"]
+        return schemes
 
     def get_scheme_by_name(self, name: str) -> Optional[Dict[str, Any]]:
         with self._connect() as conn:
