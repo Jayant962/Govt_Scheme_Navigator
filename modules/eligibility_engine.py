@@ -72,6 +72,16 @@ class EligibilityEngine:
         score = 0
         match_reasons: List[str] = []
         mismatch_reasons: List[str] = []
+        
+        # Infer state from scheme name if state is generic
+        scheme_states = scheme.get("state", ["All"])
+        if _is_all(scheme_states):
+            scheme_name = scheme.get("scheme_name", "")
+            states_list = ["Andhra Pradesh", "Arunachal Pradesh", "Assam", "Bihar", "Chhattisgarh", "Goa", "Gujarat", "Haryana", "Himachal Pradesh", "Jharkhand", "Karnataka", "Kerala", "Madhya Pradesh", "Maharashtra", "Manipur", "Meghalaya", "Mizoram", "Nagaland", "Odisha", "Punjab", "Rajasthan", "Sikkim", "Tamil Nadu", "Telangana", "Tripura", "Uttar Pradesh", "Uttarakhand", "West Bengal", "Delhi", "Jammu and Kashmir", "Chandigarh", "Puducherry"]
+            for s in states_list:
+                if s.lower() in scheme_name.lower():
+                    scheme["state"] = [s]
+                    break
 
         # ── 1. Age check (10 pts) ─────────────────────────────────────────────
         age = user_profile.get("age")
@@ -315,6 +325,11 @@ class EligibilityEngine:
              "is_eligible": is_eligible,
             "match_reasons": match_reasons,
             "mismatch_reasons": mismatch_reasons,
+            "state": scheme.get("state", ["All"]),
+            "income_limit": scheme.get("income_limit"),
+            "category": scheme.get("category", ["All"]),
+            "occupation": scheme.get("occupation", ["All"]),
+            "eligibility_text": scheme.get("eligibility_text", ""),
         }
 
     def check_all(

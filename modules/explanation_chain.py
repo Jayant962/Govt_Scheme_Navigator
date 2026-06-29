@@ -54,7 +54,9 @@ Please provide:
 
 2. BENEFITS SUMMARY (2-3 sentences describing what the citizen will receive in simple terms):
 
-3. RECOMMENDATION (1-2 sentences encouraging the citizen to apply and what documents to keep ready):
+3. REQUIRED DOCUMENTS (List 3-5 specific exact forms/papers needed for this scheme based on standard Indian government requirements for this type of scheme):
+
+4. RECOMMENDATION (1-2 sentences encouraging the citizen to apply):
 
 Keep the language simple, warm, and encouraging. Write as if speaking to the citizen directly.
 """
@@ -92,7 +94,6 @@ class ExplanationChain:
 
         api_key = os.getenv("GOOGLE_API_KEY", "")
         if not api_key or api_key == "your_gemini_api_key_here":
-            logger.warning("GOOGLE_API_KEY not set. Using template-based explanations.")
             self._initialized = True
             return
 
@@ -145,7 +146,6 @@ class ExplanationChain:
     ) -> str:
         """Rule-based explanation when Gemini is not available."""
         name = user_profile.get("user_name", "Applicant")
-        score = scheme.get("eligibility_score", 0)
         scheme_name = scheme.get("scheme_name", "this scheme")
         benefits = scheme.get("benefits", "various benefits")
 
@@ -156,19 +156,60 @@ class ExplanationChain:
             else "meeting the basic eligibility criteria"
         )
 
+        # Build scheme-specific document list
+        docs = ["Aadhaar Card", "Bank Passbook (with IFSC)", "Passport-size Photographs (2)"]
+        sn_lower = scheme_name.lower()
+        elig_text = str(scheme.get("eligibility_text", "")).lower()
+        combined_text = sn_lower + " " + elig_text
+
+        if any(k in combined_text for k in ["income", "bpl", "poverty", "economic", "ews"]):
+            docs.append("Income Certificate from SDM/Tehsildar")
+        if any(k in combined_text for k in ["sc", "st", "obc", "caste", "category", "minority"]):
+            docs.append("Caste/Category Certificate")
+        if any(k in combined_text for k in ["farmer", "kisan", "agriculture", "crop"]):
+            docs.extend(["Land Ownership Document (Khasra/Khatauni)", "Kisan Registration ID"])
+        if any(k in combined_text for k in ["student", "scholarship", "education", "school", "college"]):
+            docs.extend(["10th / 12th Marksheet", "Bonafide Certificate from Institution"])
+        if any(k in combined_text for k in ["pension", "senior", "old age", "widow", "divyang", "disability"]):
+            docs.append("Age Proof / Birth Certificate")
+        if any(k in combined_text for k in ["disability", "divyang", "handicap"]):
+            docs.append("Disability Certificate (40%+ from CMO)")
+        if any(k in combined_text for k in ["widow"]):
+            docs.append("Death Certificate of Spouse")
+        if any(k in combined_text for k in ["business", "msme", "enterprise", "startup", "vendor"]):
+            docs.append("Business Registration / Udyam Certificate")
+        if any(k in combined_text for k in ["residence", "domicile"]):
+            docs.append("Domicile / Residence Certificate")
+        if any(k in combined_text for k in ["marriage", "vivah", "shaadi"]):
+            docs.append("Marriage Certificate")
+        if any(k in combined_text for k in ["nri"]):
+            docs.append("Valid Passport / NRI Status Proof")
+        if any(k in combined_text for k in ["ex-serviceman", "veteran", "sainik"]):
+            docs.append("Ex-Serviceman Discharge Certificate")
+        if any(k in combined_text for k in ["housing", "awas", "home", "shelter"]):
+            docs.append("Land / Property Documents")
+        # Always add a state-specific residence proof
+        state = scheme.get("state", ["All"])
+        if state and state != ["All"]:
+            state_name = state[0] if isinstance(state, list) else state
+            docs.append(f"Residence Proof of {state_name}")
+
+        docs_text = "\n".join(f"- {d}" for d in docs)
+
         explanation = f"""1. WHY ELIGIBLE:
 Dear {name}, you qualify for {scheme_name} because of {reason_text}. \
-Your eligibility score is {score}/100, which indicates a strong match with this scheme's requirements.
+This scheme is a strong match with your profile and eligibility criteria.
 
 2. BENEFITS SUMMARY:
 Under this scheme, you can avail: {benefits}. \
 This financial assistance is provided directly by the Government of India/State Government \
 to help citizens like you improve their quality of life.
 
-3. RECOMMENDATION:
-We strongly encourage you to apply at the earliest. Keep your Aadhaar card, income certificate, \
-caste certificate (if applicable), bank passbook, and passport-size photographs ready before applying. \
-Visit the official portal link provided to start your application today!"""
+3. REQUIRED DOCUMENTS:
+{docs_text}
+
+4. RECOMMENDATION:
+We strongly encourage you to apply at the earliest. Visit the official portal link provided to start your application today!"""
 
         return explanation
 

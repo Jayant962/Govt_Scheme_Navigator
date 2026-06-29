@@ -600,15 +600,24 @@ def render_scheme_card(result: Dict[str, Any], rank: int):
     if not _is_generic(state_raw):
         chips_html += f'<span class="chip chip-state">🗺️ {state_str}</span>'
     else:
-        chips_html += '<span class="chip chip-state">🇮🇳 All India</span>'
+        chips_html += '<span class="chip chip-state">🗺️ Open to all States</span>'
     if not _is_generic(cat_raw):
         chips_html += f'<span class="chip chip-category">🏷️ {cat_str}</span>'
     if not _is_generic(occ_raw):
         chips_html += f'<span class="chip chip-category">👤 For: {occ_str}</span>'
-    chips_html += f'<span class="chip chip-income">{income_str}</span>'
+    
+    if income_lim:
+        chips_html += f'<span class="chip chip-income">Income ≤ Rs {income_lim:,.0f}</span>'
+    else:
+        chips_html += f'<span class="chip chip-income">No Income Restriction</span>'
 
     # ── Benefits ──────────────────────────────────────────────────────────────
-    benefits = escape(str(result.get("benefits") or result.get("description") or ""))
+    raw_benefits = str(result.get("benefits") or "")
+    raw_desc = str(result.get("description") or "")
+    combined = f"{raw_benefits} {raw_desc}".strip()
+    if len(combined.split()) < 50 and result.get("eligibility_text"):
+        combined += " Eligibility Notes: " + str(result.get("eligibility_text"))
+    benefits = escape(combined)
     benefits_html = ""
     if benefits:
         benefits_html = f'''
@@ -654,13 +663,6 @@ def render_scheme_card(result: Dict[str, Any], rank: int):
             <div class="card-header">
                 <div class="scheme-title">
                     <span class="rank-badge">#{rank}</span> {name}
-                </div>
-                <div class="score-container">
-                    <div class="score-caption">{score_label}</div>
-                    <div class="score-num" style="color: {bar_color};">{score}<span class="score-total">/100</span></div>
-                    <div class="score-bar-bg">
-                        <div class="score-bar-fill" style="width: {score}%; background: {bar_color};"></div>
-                    </div>
                 </div>
             </div>
             <div class="meta-chips">
@@ -841,8 +843,11 @@ def main():
                 with st.spinner("Checking eligibility…"):
                     elig_results = engine.check_all(user_profile, all_schemes)
 
-                # Rank ALL results (no cap yet — pagination handles display)
-                all_ranked = ranker.rank(elig_results, top_n=None, eligible_only=False)
+                # Strict filtering: only 100% match
+                strict_results = [r for r in elig_results if not r.get("mismatch_reasons")]
+
+                # Rank strict results
+                all_ranked = ranker.rank(strict_results, top_n=None, eligible_only=True)
 
                 # Store in session state
                 st.session_state["last_results"]   = all_ranked
@@ -862,7 +867,7 @@ def main():
             shown_count   = st.session_state.get("shown_count",   5)
 
             if not all_ranked:
-                st.info("No schemes matched your profile. Try adjusting your details.")
+                st.error("Sorry, no schemes for you.")
             else:
                 to_display = all_ranked[:shown_count]
                 remaining  = len(all_ranked) - shown_count
@@ -895,7 +900,7 @@ def main():
                     with col_link:
                         st.markdown('<div class="explain-link">', unsafe_allow_html=True)
                         st.button(
-                            "✨ Why am I eligible for this scheme?",
+                            "📋 Details",
                             key=f"toggle_{scheme_key}",
                             on_click=_toggle_explain,
                         )
